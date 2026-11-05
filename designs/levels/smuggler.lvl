@@ -1,0 +1,29 @@
+title: Smuggler
+text: Customs takes its cut of everything that crosses the border. Almost everything.
+trick: a pair of mobile teleporters carries white over a fence of red filters while its split twin pays the toll
+motif: a border: a full row of fixed red filters across the board
+ink: 4
+expect: recolours>=1
+---
+L 3 14 0 w
+*S 3 11 1 k
+*R 10 11 1 k
+*x 10 9 0 k
+*x 10 5 0 k
+T 3 3 0 r
+T 10 3 0 w
+F 0 7 2 r
+F 1 7 2 r
+F 2 7 2 r
+F 3 7 2 r
+F 4 7 2 r
+F 5 7 2 r
+F 6 7 2 r
+F 7 7 2 r
+F 8 7 2 r
+F 9 7 2 r
+F 10 7 2 r
+F 11 7 2 r
+F 12 7 2 r
+F 13 7 2 r
+F 14 7 2 r

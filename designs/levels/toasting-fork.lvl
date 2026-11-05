@@ -1,0 +1,19 @@
+title: Toasting Fork
+text: Turn a prism to a different face and it keeps one colour back. Make a toasting fork with a red prong and a green one, and nothing between them.
+trick: split; a prism turned another way swallows blue
+motif: two-pronged fork
+ink: 2.5
+expect: recolours>=1
+---
+L 2 13 2 w
+*R 7 13 1 k
+*P 7 9 1 k
+*R 10 9 1 k
+*B 4 6 4 k
+T 10 8 0 ?
+T 10 4 0 ?
+T 4 5 0 ?
+T 4 2 0 ?
+T 7 4 0 k
+T 7 10 0 ?
+T 9 9 0 ?

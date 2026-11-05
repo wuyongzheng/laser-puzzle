@@ -1,0 +1,24 @@
+title: Horseshoe Magnet
+text: One end red, the other end blue. Shift the colour round the bend, but not always the same way.
+trick: doppler facing: five dopplers, two shift one way and three the other
+motif: horseshoe
+ink: 2.5
+expect: recolours>=5
+---
+L 4 11 0 r
+*R 4 1 5 k
+*R 10 1 7 k
+*D 4 9 2 k
+*D 4 5 2 k
+*D 7 1 0 k
+*D 10 4 2 k
+*D 10 7 2 k
+T 4 10 0 ?
+T 4 7 0 ?
+T 4 3 0 ?
+T 6 1 0 ?
+T 8 1 0 ?
+T 10 3 0 ?
+T 10 6 0 ?
+T 10 9 0 ?
+T 10 10 0 ?

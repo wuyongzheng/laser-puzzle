@@ -1,0 +1,21 @@
+title: Tuning Fork
+text: Strike it once and both prongs ring, each in its own colour.
+trick: a tangler makes twin beams; one doppler on either prong recolours both, in opposite directions
+motif: a tuning fork: the laser is the handle, two prongs of targets
+ink: 4
+accept: idea
+expect: recolours>=1
+---
+L 7 14 0 r
+T 7 12 0 r
+T 7 10 0 r
+T 5 8 0 r
+T 9 8 0 r
+Q 7 9 6 k
+*R 5 9 3 k
+*R 9 9 1 k
+*D 5 7 6 k
+T 5 4 0 ?
+T 5 2 0 ?
+T 9 4 0 ?
+T 9 2 0 ?

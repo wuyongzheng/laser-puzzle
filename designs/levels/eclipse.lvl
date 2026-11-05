@@ -1,0 +1,29 @@
+title: Eclipse
+text: The red moon has to pass in front of the sun without touching it.
+trick: a teleporter pair carries red straight past a starburst without firing it
+motif: sun disk of occupied squares, rays to four blue targets
+ink: 4
+expect: depth>=2, blockers>=1
+---
+L 2 0 4 r
+L 14 12 6 b
+*R 2 7 3 k
+*x 4 7 0 k
+*x 10 7 0 k
+*R 7 12 3 k
+% map
+T 5 5 0 ?
+T 9 5 0 ?
+o 6 6 0 k
+o 7 6 0 k
+o 8 6 0 k
+o 6 7 0 k
+Z 7 7 0 k
+o 8 7 0 k
+T 12 7 0 ?
+o 6 8 0 k
+o 7 8 0 k
+o 8 8 0 k
+T 5 9 0 ?
+T 9 9 0 ?
+% end map

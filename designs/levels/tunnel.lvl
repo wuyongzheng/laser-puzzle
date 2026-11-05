@@ -1,0 +1,16 @@
+title: Tunnel
+text: One tunnel through the mountain, and traffic in both directions.
+trick: teleport, two beams share one route in opposite directions
+motif: tunnel
+ink: 2.5
+expect: merges>=1
+---
+L 3 13 0 r
+L 11 1 4 b
+X 5 7 0 k
+X 9 7 0 k
+*R 3 7 5 k
+*R 11 7 1 k
+T 7 7 0 k
+T 3 10 0 ?
+T 11 4 0 ?

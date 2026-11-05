@@ -1,0 +1,42 @@
+title: Compass Room
+text: The room has no door. Or rather, it has four.
+trick: teleport
+motif: rooms
+expect: recolours>=1, depth>=3
+---
+L 14 1 6 w
+X 7 7 0 k
+X 7 2 0 k
+X 12 7 0 k
+X 2 7 0 k
+X 7 12 0 k
+T 6 7 0 ?
+T 8 7 0 ?
+T 7 8 0 ?
+T 7 6 0 k
+# 6 6 0 k
+# 8 6 0 k
+# 6 8 0 k
+# 8 8 0 k
+*P 13 1 1 k
+*B 11 3 2 k
+*R 1 3 5 k
+*R 1 7 3 k
+*R 13 7 1 k
+*R 7 1 5 k
+# 5 5 0 k
+# 5 9 0 k
+# 6 5 0 k
+# 6 9 0 k
+# 7 5 0 k
+# 7 9 0 k
+# 8 5 0 k
+# 8 9 0 k
+# 9 5 0 k
+# 9 9 0 k
+# 5 6 0 k
+# 9 6 0 k
+# 5 7 0 k
+# 9 7 0 k
+# 5 8 0 k
+# 9 8 0 k

@@ -1,0 +1,22 @@
+title: Meeting Point
+text: Two colours, one door.
+trick: prism merge
+motif: pocket
+expect: merges>=1
+---
+L 4 14 0 g
+L 14 11 6 r
+*B 4 10 5 k
+*R 2 11 3 k
+*R 2 7 5 k
+*P 7 7 2 k
+% pocket: the only way in is from below
+T 7 1 0 ?
+# 6 0 0 k
+# 7 0 0 k
+# 8 0 0 k
+# 6 1 0 k
+# 8 1 0 k
+# 6 2 0 k
+# 8 2 0 k
+T 4 7 0 r

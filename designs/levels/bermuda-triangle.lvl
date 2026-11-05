@@ -1,0 +1,57 @@
+title: Bermuda Triangle
+text: Count the corners the red beam has to turn, then count your pieces: you are one short. And something must keep the green light out of the triangle.
+trick: red enters by the bender at the foot of the triangle, runs round all three sides and comes back into the same bender from above, which turns it a second time out through the corner; six turns from five pieces. The bender at the far corner also takes the green beam on its back
+motif: pictogram (a triangular room with a thick hypotenuse, a closet on the diagonal behind the foot, a green light on the far corner)
+expect: depth>=3
+---
+L 14 2 6 r
+L 14 5 6 g
+T 13 5 0 ?
+*R 1 2 5 k
+*R 1 12 3 k
+*B 5 12 2 k
+*B 12 5 0 k
+*R 5 5 5 k
+T 5 6 0 ?
+T 3 10 0 ?
+% walls
+# 4 4 0 k
+# 5 4 0 k
+# 6 4 0 k
+# 7 4 0 k
+# 8 4 0 k
+# 9 4 0 k
+# 10 4 0 k
+# 11 4 0 k
+# 12 4 0 k
+# 13 4 0 k
+# 4 5 0 k
+# 4 6 0 k
+# 12 6 0 k
+# 13 6 0 k
+# 4 7 0 k
+# 11 7 0 k
+# 12 7 0 k
+# 4 8 0 k
+# 10 8 0 k
+# 11 8 0 k
+# 2 9 0 k
+# 3 9 0 k
+# 4 9 0 k
+# 9 9 0 k
+# 10 9 0 k
+# 2 10 0 k
+# 4 10 0 k
+# 8 10 0 k
+# 9 10 0 k
+# 2 11 0 k
+# 3 11 0 k
+# 7 11 0 k
+# 8 11 0 k
+# 6 12 0 k
+# 7 12 0 k
+# 3 13 0 k
+# 4 13 0 k
+# 5 13 0 k
+# 6 13 0 k
+# 7 13 0 k

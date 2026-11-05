@@ -1,0 +1,34 @@
+title: Roman Fort
+text: The fort has four gates and the two roads cross in the middle. Red marches in at one gate and blue at another.
+trick: a splitter where the roads cross splits both beams; every gate gets its own share, two of them in magenta
+motif: pictogram
+expect: shared>=2
+ink: 4
+---
+L 2 14 0 r
+L 12 2 6 b
+*R 2 7 5 k
+*S 7 7 1 k
+*R 12 7 7 k
+*R 7 2 5 k
+*R 7 12 3 k
+T 7 3 0 ?
+T 4 7 0 ?
+T 11 7 0 ?
+T 7 11 0 ?
+T 12 12 0 ?
+T 10 12 0 ?
+T 12 10 0 ?
+% walls
+# 5 5 0 k
+# 6 5 0 k
+# 8 5 0 k
+# 9 5 0 k
+# 5 6 0 k
+# 9 6 0 k
+# 5 8 0 k
+# 9 8 0 k
+# 5 9 0 k
+# 6 9 0 k
+# 8 9 0 k
+# 9 9 0 k

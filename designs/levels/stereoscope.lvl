@@ -1,0 +1,23 @@
+title: Stereoscope
+text: One white beam, two lenses: red on the left, cyan on the right.
+trick: a tangler sends white out both sides at once; a filter tints each lens
+motif: a pair of glasses: two lenses rimmed with occupied squares, the laser on the bridge
+ink: 4
+expect: recolours>=2
+---
+L 7 0 4 w
+*Q 7 6 2 k
+*F 5 6 0 r
+*F 9 6 0 c
+T 3 6 0 r
+T 4 6 0 r
+T 10 6 0 c
+T 11 6 0 c
+o 3 5 0 k
+o 4 5 0 k
+o 3 7 0 k
+o 4 7 0 k
+o 10 5 0 k
+o 11 5 0 k
+o 10 7 0 k
+o 11 7 0 k

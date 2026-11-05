@@ -1,0 +1,21 @@
+title: Question Mark
+text: Yellow is red and green together. What does a doppler do to two colours at once?
+trick: doppler on a mixed colour shifts both primaries
+motif: question mark
+ink: 2.5
+expect: recolours>=2
+---
+L 4 4 0 y
+*R 4 2 5 k
+*R 10 2 7 k
+*D 10 3 6 k
+*R 10 6 1 k
+*D 9 6 0 k
+*R 7 6 5 k
+T 7 2 0 ?
+T 9 2 0 ?
+T 10 4 0 ?
+T 8 6 0 ?
+T 7 8 0 ?
+T 7 11 0 ?
+T 10 5 0 ?

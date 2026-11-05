@@ -1,0 +1,22 @@
+title: Lighthouse
+text: A lighthouse shines out to sea, not just at the sky.
+trick: starburst bounce-back: a beam sent straight back makes it fire its other four ways
+motif: pictogram, tower of occupied squares under a starburst lamp
+ink: 4
+accept: idea
+expect: reversals>=1
+---
+L 0 13 2 y
+*R 7 13 1 k
+*R 11 2 7 k
+% map
+T 2 6 0 ?
+Z 7 6 0 k
+T 12 6 0 ?
+o 7 7 0 k
+o 7 8 0 k
+T 4 9 0 ?
+o 7 9 0 k
+T 10 9 0 ?
+o 7 10 0 k
+% end map

@@ -1,0 +1,51 @@
+title: Crossing Point
+text: Four travellers, one door, and nobody stops.
+trick: mobile teleport hub
+motif: symmetric frame
+expect: shared>=4, depth>=2
+---
+L 0 0 4 r
+L 14 14 0 b
+L 14 0 6 g
+L 0 14 2 y
+*R 0 7 3 k
+*R 14 7 7 k
+*R 7 0 5 k
+*R 7 14 1 k
+*x 2 7 0 k
+*x 12 7 0 k
+*x 7 2 0 k
+*x 7 12 0 k
+*x 7 7 0 k
+T 5 7 0 ?
+T 6 7 0 ?
+T 8 7 0 ?
+T 9 7 0 ?
+T 7 5 0 ?
+T 7 6 0 ?
+T 7 8 0 ?
+T 7 9 0 ?
+# 4 4 0 k
+# 4 5 0 k
+# 4 6 0 k
+# 4 7 0 k
+# 4 8 0 k
+# 4 9 0 k
+# 4 10 0 k
+# 5 4 0 k
+# 5 10 0 k
+# 6 4 0 k
+# 6 10 0 k
+# 7 4 0 k
+# 7 10 0 k
+# 8 4 0 k
+# 8 10 0 k
+# 9 4 0 k
+# 9 10 0 k
+# 10 4 0 k
+# 10 5 0 k
+# 10 6 0 k
+# 10 7 0 k
+# 10 8 0 k
+# 10 9 0 k
+# 10 10 0 k

@@ -1,0 +1,32 @@
+title: Secondary School
+text: Take white apart. Put some of it back together.
+trick: splitter merge
+motif: pocket
+expect: merges>=1, recolours>=2
+---
+L 7 14 0 w
+% pockets: each target can be lit from one side only
+T 7 2 0 ?
+# 6 1 0 k
+# 7 1 0 k
+# 8 1 0 k
+# 6 2 0 k
+# 8 2 0 k
+T 2 5 0 ?
+# 1 4 0 k
+# 2 4 0 k
+# 3 4 0 k
+# 1 5 0 k
+# 1 6 0 k
+# 2 6 0 k
+# 3 6 0 k
+T 14 4 0 ?
+# 13 3 0 k
+# 14 3 0 k
+# 13 4 0 k
+# 14 5 0 k
+*P 7 11 6 k
+*R 11 11 1 k
+*R 11 5 7 k
+*S 7 5 3 k
+*D 13 5 7 k

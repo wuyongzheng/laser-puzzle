@@ -1,0 +1,14 @@
+title: Hard a-Port
+text: The TWISTER is fixed to the board. Every beam that leaves it has turned 90 degrees to the LEFT of the way it was going.
+trick: twister basics: to leave eastwards the beam must come down into the twister from above
+motif: open field
+expect: shared>=2
+---
+L 3 13 0 b
+*R 3 3 5 k
+*R 8 3 7 k
+W 8 9 0 k
+T 5 3 0 ?
+T 8 6 0 ?
+T 11 9 0 ?
+T 13 9 0 ?

@@ -1,0 +1,25 @@
+title: Turnstile
+text: A splitter facing you is not a wall.
+trick: head-on splitter
+motif: symmetric frame
+expect: reversals>=1
+---
+L 0 7 2 w
+W 7 7 0 k
+% pocket north
+# 6 0 0 k
+# 7 0 0 k
+# 8 0 0 k
+# 6 1 0 k
+# 8 1 0 k
+T 7 1 0 ?
+% pocket south
+# 6 14 0 k
+# 7 14 0 k
+# 8 14 0 k
+# 6 13 0 k
+# 8 13 0 k
+T 7 13 0 ?
+T 10 7 0 ?
+*S 7 4 2 k
+*R 12 7 0 k

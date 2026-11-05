@@ -1,0 +1,16 @@
+title: Swing Door
+text: Red goes in. Yellow, magenta and cyan come out.
+trick: a splitter sends red round a loop both ways, so one doppler is passed from both sides: red going east turns blue, red coming back west turns green, and the loop feeds the splitter again
+motif: open field; three targets, the laser row carries two of them
+ink: 1
+expect: recolours>=2, merges>=1
+---
+L 0 7 2 r
+*S 3 7 1 k
+*D 7 7 0 k
+*R 3 2 5 k
+*R 14 2 7 k
+*R 14 7 1 k
+T 5 7 0 y
+T 13 7 0 m
+T 3 12 0 c

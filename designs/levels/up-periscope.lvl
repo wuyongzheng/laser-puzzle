@@ -1,0 +1,31 @@
+title: Up Periscope
+text: Red looks through the periscope. The others only see the backs of its mirrors.
+trick: two dual reflectors in a periscope; each turns one beam on its front and another on its back
+motif: pictogram
+expect: shared>=3
+ink: 4
+---
+L 3 0 4 r
+L 12 0 4 g
+L 1 0 4 b
+*R 3 3 3 k
+*r 7 3 3 k
+*r 7 8 3 k
+*R 12 3 1 k
+*R 1 8 3 k
+T 5 3 0 ?
+T 7 1 0 ?
+T 10 3 0 ?
+T 7 6 0 ?
+T 11 8 0 ?
+T 4 8 0 ?
+T 7 11 0 ?
+% walls
+# 6 4 0 k
+# 8 4 0 k
+# 6 5 0 k
+# 8 5 0 k
+# 6 6 0 k
+# 8 6 0 k
+# 6 7 0 k
+# 8 7 0 k

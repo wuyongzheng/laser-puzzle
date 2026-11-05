@@ -1,0 +1,46 @@
+title: Christmas Tree
+text: Red trims the left of the tree, blue the right. They cross at the very top to make the star.
+trick: two beams zigzag up the sides of a tree and cross on the two faces of one dual reflector at the top
+motif: pictogram
+expect: shared>=1
+ink: 4
+---
+L 3 14 1 r
+L 11 14 7 b
+*R 5 12 0 k
+*R 3 10 4 k
+*R 6 7 0 k
+*R 4 5 4 k
+*r 7 2 0 k
+*R 9 12 4 k
+*R 11 10 0 k
+*R 8 7 4 k
+*R 10 5 0 k
+T 4 11 0 ?
+T 5 8 0 ?
+T 5 6 0 ?
+T 6 3 0 ?
+T 6 1 0 ?
+T 10 11 0 ?
+T 9 8 0 ?
+T 9 6 0 ?
+T 8 3 0 ?
+T 8 1 0 ?
+T 4 13 0 ?
+T 10 13 0 ?
+T 4 9 0 ?
+T 10 9 0 ?
+T 5 4 0 ?
+T 9 4 0 ?
+% walls
+# 7 4 0 k
+# 7 5 0 k
+# 7 6 0 k
+# 7 7 0 k
+# 7 8 0 k
+# 7 9 0 k
+# 7 10 0 k
+# 7 11 0 k
+# 7 12 0 k
+# 7 13 0 k
+# 7 14 0 k

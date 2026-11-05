@@ -1,0 +1,17 @@
+title: White Light
+text: Prisms work in both directions.
+---
+# 0 6 0 b
+# 1 6 0 b
+# 2 6 0 b
+# 0 8 0 b
+# 1 8 0 b
+# 2 8 0 b
+# 0 7 0 b
+T 1 7 0 w
+L 14 7 6 b
+L 2 12 2 r
+L 12 1 4 g
+*R 7 12 1 b
+*B 12 12 2 b
+*P 7 7 0 b

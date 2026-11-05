@@ -1,0 +1,13 @@
+title: Standoff
+text: A pinwheel must be lit in its own colour and no other: a red beam spoils a green pinwheel. Turn each beam aside after its own pinwheel, before it reaches the other one.
+trick: colours must match; keep each beam off the other's target
+motif: two lasers facing each other
+---
+L 2 7 2 r
+L 12 7 6 g
+T 5 7 0 r
+T 9 7 0 g
+*R 6 7 1 k
+*R 8 7 5 k
+T 6 2 0 r
+T 8 12 0 g

@@ -1,0 +1,52 @@
+title: Anchor
+text: Drop in on the right, climb over the top, and come down on the left.
+trick: one beam visits both crooks of an anchor, crossing over its stock between them
+motif: pictogram
+expect: depth>=9
+ink: 4
+---
+L 11 9 6 b
+*R 10 9 5 k
+*R 10 11 1 k
+*R 8 11 3 k
+*R 8 6 5 k
+*R 10 6 1 k
+*R 10 3 7 k
+*R 2 3 5 k
+*R 2 9 3 k
+*R 4 9 7 k
+T 10 10 0 ?
+T 9 11 0 ?
+T 8 8 0 ?
+T 9 6 0 ?
+T 10 4 0 ?
+T 6 3 0 ?
+T 2 6 0 ?
+T 3 9 0 ?
+T 4 11 0 ?
+% walls
+# 7 4 0 k
+# 5 5 0 k
+# 6 5 0 k
+# 7 5 0 k
+# 8 5 0 k
+# 9 5 0 k
+# 7 6 0 k
+# 7 7 0 k
+# 7 8 0 k
+# 7 9 0 k
+# 3 10 0 k
+# 7 10 0 k
+# 11 10 0 k
+# 3 11 0 k
+# 7 11 0 k
+# 11 11 0 k
+# 3 12 0 k
+# 4 12 0 k
+# 5 12 0 k
+# 6 12 0 k
+# 7 12 0 k
+# 8 12 0 k
+# 9 12 0 k
+# 10 12 0 k
+# 11 12 0 k

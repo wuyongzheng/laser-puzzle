@@ -1,0 +1,19 @@
+title: Boomerang
+text: Throw it well and it comes back to your hand.
+trick: long chain, beam returns to its source
+motif: flight loop
+ink: 2.5
+expect: depth>=4
+---
+L 5 9 2 r
+*B 9 9 2 k
+*R 12 6 0 k
+*R 8 2 6 k
+*R 3 7 4 k
+T 7 9 0 ?
+T 10 8 0 ?
+T 10 4 0 ?
+T 6 4 0 ?
+T 4 8 0 ?
+T 11 7 0 ?
+T 7 3 0 ?

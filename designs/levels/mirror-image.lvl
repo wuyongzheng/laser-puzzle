@@ -1,0 +1,27 @@
+title: Mirror Image
+text: They meet three times and never cross.
+trick: three dual reflectors, each shared by both beams on opposite faces
+motif: symmetric frame
+expect: shared>=3
+---
+L 0 6 3 r
+L 0 8 1 b
+*r 1 7 2 k
+*r 7 7 2 k
+*r 13 7 2 k
+*R 4 4 6 k
+*R 10 4 6 k
+*R 4 10 2 k
+*R 10 10 2 k
+% red strand
+T 2 6 0 r
+T 5 5 0 r
+T 8 6 0 r
+T 11 5 0 r
+T 14 6 0 r
+% blue strand
+T 2 8 0 b
+T 5 9 0 b
+T 8 8 0 b
+T 11 9 0 b
+T 14 8 0 b

@@ -1,0 +1,33 @@
+title: Fireworks
+text: Four rockets go up from one fuse. Where the sparks cross, the colours mix.
+trick: splitters along the ground send up four white rockets; prisms burst each one into a fan, and the fans cross to make mixed colours
+motif: fireworks: four white trails rising from the bottom edge, each ending in a three-colour fan
+ink: 4
+expect: recolours>=4, shared>=4
+---
+L 0 14 2 w
+*S 2 14 1 k
+*S 5 14 1 k
+*S 9 14 1 k
+*R 12 14 1 k
+*P 2 9 3 k
+*P 5 6 6 k
+*P 9 8 3 k
+*P 12 4 3 k
+T 0 9 0 ?
+T 0 7 0 ?
+T 2 6 0 ?
+T 2 8 0 ?
+T 5 2 0 ?
+T 8 3 0 ?
+T 11 6 0 ?
+T 9 2 0 ?
+T 7 8 0 ?
+T 7 6 0 ?
+T 12 1 0 ?
+T 10 2 0 ?
+T 3 4 0 ?
+T 2 11 0 w
+T 5 11 0 w
+T 9 11 0 w
+T 12 11 0 w

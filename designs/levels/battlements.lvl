@@ -1,0 +1,36 @@
+title: Battlements
+text: Every gap in the wall turns the beam left. Walk the wall the right way, and each tower gets its own flag.
+trick: twisters at the foot of every gap turn the beam only left, so the wall has to be walked from left to right; the beam must first go the long way round to the far tower
+motif: castle wall
+expect: shared>=5
+ink: 2.5
+---
+L 13 12 6 y
+W 3 6 0 k
+W 5 6 0 k
+W 7 6 0 k
+W 9 6 0 k
+W 11 6 0 k
+R 1 12 3 k
+*R 1 4 5 k
+*R 3 4 7 k
+*R 5 4 5 k
+*R 7 4 7 k
+*R 9 4 5 k
+*R 11 4 7 k
+*R 13 6 7 k
+T 4 12 0 ?
+T 10 12 0 ?
+T 1 9 0 ?
+T 2 4 0 ?
+T 6 4 0 ?
+T 10 4 0 ?
+T 3 5 0 ?
+T 5 5 0 ?
+T 7 5 0 ?
+T 9 5 0 ?
+T 11 5 0 ?
+D 4 6 0 k
+D 8 6 0 k
+T 12 6 0 ?
+T 13 9 0 ?

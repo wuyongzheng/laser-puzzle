@@ -1,0 +1,58 @@
+title: Viaduct
+text: Three piers hold up two arches, and each lamp post needs its own colour. Which laser belongs on which pier?
+trick: fixed gates at the tops of the arches are fed by starburst rays; the red and blue lamps decide that magenta goes to the middle pier, so the lasers cross over to reach their piers
+motif: a viaduct: three starburst piers on an occupied deck between two abutments, two arches with lamp posts above, the arch feet walled below the deck
+ink: 4
+expect: depth>=3, shared>=6
+---
+L 13 0 4 y
+L 0 2 2 c
+L 0 1 2 m
+*R 13 12 1 k
+*R 3 12 3 k
+*R 1 2 7 k
+*R 1 13 3 k
+*R 11 13 1 k
+*R 14 1 7 k
+*R 14 14 1 k
+*R 7 14 3 k
+Z 3 9 0 k
+Z 7 9 0 k
+Z 11 9 0 k
+G 5 7 0 k
+G 9 7 0 k
+T 5 4 0 ?
+T 9 4 0 ?
+# 5 11 0 k
+# 9 11 0 k
+T 4 8 0 ?
+T 6 8 0 ?
+T 8 8 0 ?
+T 10 8 0 ?
+T 4 10 0 ?
+T 6 10 0 ?
+T 8 10 0 ?
+T 10 10 0 ?
+% deck
+o 1 9 0 k
+o 2 9 0 k
+o 4 9 0 k
+o 5 9 0 k
+o 6 9 0 k
+o 8 9 0 k
+o 9 9 0 k
+o 10 9 0 k
+o 12 9 0 k
+o 13 9 0 k
+% abutments
+# 2 8 0 k
+# 2 10 0 k
+# 12 8 0 k
+# 12 10 0 k
+% pier legs
+T 3 10 0 ?
+T 7 12 0 ?
+T 11 10 0 ?
+T 1 7 0 ?
+T 14 7 0 ?
+T 8 1 0 ?

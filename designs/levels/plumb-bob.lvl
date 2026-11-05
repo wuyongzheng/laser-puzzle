@@ -1,0 +1,18 @@
+title: Plumb Bob
+text: Drop the line down and it comes back up. Does it come back the same colour?
+trick: a head-on reflector returns the beam through the doppler, which shifts it back; the splitter sends the echo out the other side
+motif: plumb line with a bob
+ink: 2.5
+expect: reversals>=1, recolours>=1
+---
+L 0 1 2 r
+T 3 1 0 ?
+*R 7 1 7 k
+T 4 3 0 ?
+T 10 3 0 ?
+T 7 6 0 ?
+T 7 10 0 ?
+T 7 13 0 k
+*S 7 3 3 k
+*D 7 8 2 k
+*R 7 12 2 k

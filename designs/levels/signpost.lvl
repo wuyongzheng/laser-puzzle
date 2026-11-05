@@ -1,0 +1,14 @@
+ink: 2.5
+title: Signpost
+text: A splitter that faces the light sends some of it back the way it came. What comes back can be a different colour from what went out.
+trick: head-on splitter returns a filtered beam to the first splitter, which turns it down the other half of the post
+motif: signpost
+expect: reversals>=1, recolours>=1
+---
+L 0 7 2 w
+T 5 2 0 w
+T 5 12 0 r
+T 13 7 0 r
+*S 5 7 1 k
+*M 8 7 2 k
+*S 10 7 0 k

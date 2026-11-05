@@ -1,0 +1,40 @@
+title: Semi-Detached
+text: Two houses, one wall between them. The neighbours share.
+trick: dual reflectors: each one turns its own house beam and the visitor from next door
+motif: pictogram
+expect: shared>=2
+ink: 4
+---
+L 1 13 0 r
+L 13 13 0 b
+*R 1 9 5 k
+*r 4 9 1 k
+*R 4 5 5 k
+*r 10 5 1 k
+*R 13 5 7 k
+*R 10 9 1 k
+T 10 2 0 ?
+T 4 12 0 ?
+T 4 7 0 ?
+T 10 7 0 ?
+% walls
+# 4 1 0 k
+# 10 1 0 k
+# 3 2 0 k
+# 5 2 0 k
+# 9 2 0 k
+# 11 2 0 k
+# 2 3 0 k
+# 6 3 0 k
+# 8 3 0 k
+# 12 3 0 k
+# 1 4 0 k
+# 7 4 0 k
+# 13 4 0 k
+# 7 6 0 k
+# 7 7 0 k
+# 7 8 0 k
+# 7 10 0 k
+# 7 11 0 k
+# 7 12 0 k
+# 7 13 0 k

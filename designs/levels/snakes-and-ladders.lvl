@@ -1,0 +1,40 @@
+title: Snakes and Ladders
+text: Climb the ladders to reach the top. Mind the snakes.
+trick: fixed teleporter ladders lift the beam; snake heads swallow any beam that strays onto them
+motif: snakes and ladders: vertical ladders and diagonal snakes of conduits between teleporters
+ink: 4
+expect: depth>=5
+---
+L 0 14 2 r
+*R 2 14 1 k
+*R 2 9 5 k
+*R 6 9 1 k
+*R 6 4 5 k
+*R 11 4 1 k
+X 2 13 0 k
+C 2 12 0 k
+C 2 11 0 k
+X 2 10 0 k
+X 6 8 0 k
+C 6 7 0 k
+C 6 6 0 k
+X 6 5 0 k
+X 11 3 0 k
+C 11 2 0 k
+X 11 1 0 k
+T 11 0 0 r
+X 10 7 0 k
+C 9 8 1 k
+C 8 9 1 k
+X 7 10 0 k
+X 4 4 0 k
+C 3 5 1 k
+C 2 6 1 k
+X 1 7 0 k
+X 13 8 0 k
+C 12 9 1 k
+C 11 10 1 k
+X 10 11 0 k
+T 4 9 0 r
+T 8 4 0 r
+T 10 4 0 r

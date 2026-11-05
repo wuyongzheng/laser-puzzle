@@ -1,0 +1,33 @@
+title: Zebra Crossing
+text: People on foot walk straight over the stripes. The traffic has to find another way across.
+trick: vertical conduit stripes stop a sideways beam; a teleporter pair carries it over the whole crossing at once
+motif: zebra crossing: five stripes of conduits across a road
+ink: 4
+expect: depth>=2
+---
+L 0 13 0 r
+L 14 13 6 g
+L 14 1 6 b
+*R 0 7 5 k
+*x 2 7 0 k
+*x 12 7 0 k
+*R 8 13 3 k
+*R 4 1 5 k
+T 13 7 0 ?
+T 8 7 0 ?
+T 4 7 0 ?
+C 3 6 0 k
+C 3 7 0 k
+C 3 8 0 k
+C 5 6 0 k
+C 5 7 0 k
+C 5 8 0 k
+C 7 6 0 k
+C 7 7 0 k
+C 7 8 0 k
+C 9 6 0 k
+C 9 7 0 k
+C 9 8 0 k
+C 11 6 0 k
+C 11 7 0 k
+C 11 8 0 k

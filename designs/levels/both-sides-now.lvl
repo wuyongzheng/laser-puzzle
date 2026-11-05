@@ -1,0 +1,31 @@
+title: Both Sides Now
+text: Most corners only turn one way.
+trick: quad bender vs bender
+motif: diagonal, slot
+expect: depth>=3
+---
+L 11 0 5 r
+L 3 14 1 b
+*B 7 4 5 k
+*b 7 7 1 k
+*B 2 12 2 k
+*B 7 10 1 k
+*B 12 2 6 k
+T 9 2 0 ?
+T 7 5 0 ?
+T 5 9 0 ?
+T 0 12 0 ?
+T 1 12 0 ?
+T 5 12 0 ?
+T 7 9 0 ?
+T 9 5 0 ?
+T 14 2 0 ?
+T 13 2 0 ?
+# 6 5 0 k
+# 8 5 0 k
+# 6 6 0 k
+# 6 7 0 k
+# 8 7 0 k
+# 8 8 0 k
+# 6 9 0 k
+# 8 9 0 k

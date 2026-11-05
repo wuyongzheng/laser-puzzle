@@ -1,0 +1,20 @@
+title: Leaded Window
+text: A FILTER is coloured glass: light that crosses it leaves in the filter's colour only, and light with none of that colour is stopped. It works only for light passing straight through its two glass faces, so turn it to face the beam. Glaze the gap in the window.
+trick: a filter turns white into its own colour, and only across its glass faces
+motif: a diagonal wall with one gap, crossed by a diagonal beam
+---
+L 1 13 1 w
+*F 7 7 3 r
+T 3 11 0 ?
+T 11 3 0 ?
+% the window frame
+# 2 2 0 k
+# 3 3 0 k
+# 4 4 0 k
+# 5 5 0 k
+# 6 6 0 k
+# 8 8 0 k
+# 9 9 0 k
+# 10 10 0 k
+# 11 11 0 k
+# 12 12 0 k

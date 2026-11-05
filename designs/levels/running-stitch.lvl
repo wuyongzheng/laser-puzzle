@@ -1,0 +1,47 @@
+title: Running Stitch
+text: Two threads, one cloth. In and out, in and out.
+trick: two beams weave through the holes in a wall, their loops crossing on both sides
+motif: pictogram
+expect: shared>=3
+ink: 4
+---
+L 1 0 4 r
+L 13 14 0 b
+C 1 7 0 k
+*R 1 10 3 k
+*R 5 10 1 k
+C 5 7 0 k
+*R 5 3 5 k
+*R 9 3 7 k
+C 9 7 0 k
+*R 9 11 3 k
+C 13 7 0 k
+*R 13 4 7 k
+*R 7 4 5 k
+C 7 7 0 k
+*R 7 12 1 k
+*R 3 12 3 k
+C 3 7 0 k
+*R 3 2 7 k
+T 1 2 0 ?
+T 9 4 0 ?
+T 3 10 0 ?
+T 13 11 0 ?
+T 7 3 0 ?
+T 11 4 0 ?
+T 3 5 0 ?
+T 5 5 0 ?
+T 7 9 0 ?
+T 9 9 0 ?
+T 5 12 0 ?
+T 11 11 0 ?
+% walls
+# 0 7 0 k
+# 2 7 0 k
+# 4 7 0 k
+# 6 7 0 k
+# 8 7 0 k
+# 10 7 0 k
+# 11 7 0 k
+# 12 7 0 k
+# 14 7 0 k

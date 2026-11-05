@@ -1,0 +1,64 @@
+title: Cactus
+text: Trace every prickly edge of the cactus, arm by arm, without touching it.
+trick: one beam walks the whole outline of a cactus, into each crook and out again
+motif: pictogram
+expect: depth>=12
+ink: 4
+---
+L 6 14 0 g
+*R 6 9 7 k
+*R 3 9 3 k
+*R 3 4 5 k
+*R 5 4 7 k
+*R 5 7 3 k
+*R 6 7 1 k
+*R 6 2 5 k
+*R 8 2 7 k
+*R 8 6 3 k
+*R 9 6 1 k
+*R 9 3 5 k
+*R 11 3 7 k
+*R 11 8 1 k
+T 6 11 0 ?
+T 5 9 0 ?
+T 3 6 0 ?
+T 4 4 0 ?
+T 5 6 0 ?
+T 6 4 0 ?
+T 7 2 0 ?
+T 8 4 0 ?
+T 9 4 0 ?
+T 10 3 0 ?
+T 11 6 0 ?
+T 9 8 0 ?
+T 6 13 0 ?
+T 4 9 0 ?
+T 3 7 0 ?
+T 6 5 0 ?
+T 6 3 0 ?
+T 8 5 0 ?
+T 11 5 0 ?
+T 8 8 0 ?
+% walls
+# 7 3 0 k
+# 7 4 0 k
+# 10 4 0 k
+# 4 5 0 k
+# 7 5 0 k
+# 10 5 0 k
+# 4 6 0 k
+# 7 6 0 k
+# 10 6 0 k
+# 4 7 0 k
+# 7 7 0 k
+# 8 7 0 k
+# 9 7 0 k
+# 10 7 0 k
+# 4 8 0 k
+# 5 8 0 k
+# 6 8 0 k
+# 7 8 0 k
+# 7 9 0 k
+# 7 10 0 k
+# 7 11 0 k
+# 7 12 0 k

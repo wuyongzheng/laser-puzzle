@@ -1,0 +1,73 @@
+title: Round Trip
+text: What goes out red comes back changed.
+trick: complement + filter, mirror back
+motif: pocket
+expect: recolours>=2, reversals>=1
+proof: not proved: complementor rules are approximate in clingo; no other solution found
+---
+L 1 7 2 r
+*S 5 7 1 k
+T 5 2 0 ?
+T 5 12 0 ?
+*K 7 7 0 k
+*R 10 7 1 k
+*F 10 5 2 g
+T 10 3 0 ?
+T 10 6 0 ?
+*R 10 1 6 k
+% corridors to the two pockets, and a room for the round trip
+# 4 0 0 k
+# 5 0 0 k
+# 6 0 0 k
+# 12 0 0 k
+# 4 1 0 k
+# 5 1 0 k
+# 6 1 0 k
+# 12 1 0 k
+# 4 2 0 k
+# 6 2 0 k
+# 12 2 0 k
+# 4 3 0 k
+# 6 3 0 k
+# 12 3 0 k
+# 4 4 0 k
+# 6 4 0 k
+# 12 4 0 k
+# 4 5 0 k
+# 6 5 0 k
+# 12 5 0 k
+# 0 6 0 k
+# 1 6 0 k
+# 2 6 0 k
+# 3 6 0 k
+# 4 6 0 k
+# 6 6 0 k
+# 12 6 0 k
+# 0 7 0 k
+# 12 7 0 k
+# 0 8 0 k
+# 1 8 0 k
+# 2 8 0 k
+# 3 8 0 k
+# 4 8 0 k
+# 6 8 0 k
+# 7 8 0 k
+# 8 8 0 k
+# 9 8 0 k
+# 10 8 0 k
+# 11 8 0 k
+# 12 8 0 k
+# 4 9 0 k
+# 6 9 0 k
+# 4 10 0 k
+# 6 10 0 k
+# 4 11 0 k
+# 6 11 0 k
+# 4 12 0 k
+# 6 12 0 k
+# 4 13 0 k
+# 5 13 0 k
+# 6 13 0 k
+# 4 14 0 k
+# 5 14 0 k
+# 6 14 0 k

@@ -1,0 +1,22 @@
+ink: 2.5
+title: Pennant
+text: Fly the pennant from the top of the pole, and make the pole above it white. The prism keeps only what it can use; nothing may spill out behind it.
+trick: prism backwards: three white beams enter from three sides; the prism keeps blue itself, but red and green must be filtered first or the leftovers spill south-west
+motif: pennant on a pole
+expect: recolours>=2, black>=1
+---
+L 5 14 0 w
+L 12 14 0 w
+L 14 10 6 w
+P 5 5 7 k
+T 5 3 0 w
+T 5 1 0 w
+T 2 8 0 k
+T 8 5 0 ?
+T 8 8 0 ?
+T 12 6 0 ?
+T 11 10 0 ?
+*R 12 5 7 k
+*B 10 10 3 k
+*M 12 8 0 k
+*M 9 9 2 k

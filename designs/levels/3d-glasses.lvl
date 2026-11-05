@@ -1,0 +1,31 @@
+title: 3D Glasses
+text: One eye sees red, the other cyan. Put them back together.
+trick: filter + splitter merge
+motif: pictogram
+ink: 2.5
+expect: recolours>=2, merges>=1
+---
+L 0 0 4 w
+*R 0 3 3 k
+*S 4 3 3 k
+*R 10 3 7 k
+*F 4 7 2 r
+*F 10 7 2 c
+*R 4 11 3 k
+*S 10 11 3 k
+% daylight above the lenses
+T 4 5 0 ?
+T 10 5 0 ?
+% what each eye sees
+T 4 9 0 ?
+T 10 9 0 ?
+T 7 11 0 ?
+% what the brain sees
+T 12 11 0 ?
+T 10 13 0 ?
+% the frame
+T 3 7 0 k
+T 5 7 0 k
+T 7 7 0 k
+T 9 7 0 k
+T 11 7 0 k

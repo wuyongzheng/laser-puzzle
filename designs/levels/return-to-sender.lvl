@@ -1,0 +1,36 @@
+title: Return to Sender
+text: What goes out must come back.
+trick: mirror back
+motif: corridors
+expect: reversals>=1
+---
+L 0 7 2 r
+% corridor east of the splitter
+# 8 6 0 k
+# 9 6 0 k
+# 10 6 0 k
+# 11 6 0 k
+# 12 6 0 k
+# 13 6 0 k
+# 8 8 0 k
+# 9 8 0 k
+# 10 8 0 k
+# 11 8 0 k
+# 12 8 0 k
+# 13 8 0 k
+# 14 7 0 k
+% pockets north and south
+# 6 2 0 k
+# 8 2 0 k
+# 6 1 0 k
+# 7 1 0 k
+# 8 1 0 k
+# 6 12 0 k
+# 8 12 0 k
+# 6 13 0 k
+# 7 13 0 k
+# 8 13 0 k
+T 7 2 0 ?
+T 7 12 0 ?
+*S 7 7 1 k
+*R 12 7 0 k

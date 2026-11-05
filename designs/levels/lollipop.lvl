@@ -1,0 +1,43 @@
+title: Lollipop
+text: A red stick, and a swirl that changes flavour at every turn.
+trick: two dopplers on a square spiral; the beam climbs through one and falls through the other, so the same forward shift needs them turned opposite ways
+motif: a lollipop: a stick and a square swirl around an occupied centre
+ink: 4
+expect: recolours>=2
+---
+L 7 14 0 r
+*R 7 11 5 k
+*R 11 11 1 k
+*D 11 8 6 k
+*R 11 3 7 k
+*R 3 3 5 k
+*D 3 5 2 k
+*R 3 9 3 k
+T 7 13 0 ?
+T 11 10 0 ?
+T 11 6 0 ?
+T 7 3 0 ?
+T 3 4 0 ?
+T 3 7 0 ?
+T 6 9 0 ?
+T 9 11 0 ?
+T 11 4 0 ?
+T 5 3 0 ?
+T 8 9 0 ?
+# 9 9 0 k
+% the candy
+o 5 5 0 k
+o 6 5 0 k
+o 7 5 0 k
+o 8 5 0 k
+o 9 5 0 k
+o 5 6 0 k
+o 6 6 0 k
+o 7 6 0 k
+o 8 6 0 k
+o 9 6 0 k
+o 5 7 0 k
+o 6 7 0 k
+o 7 7 0 k
+o 8 7 0 k
+o 9 7 0 k

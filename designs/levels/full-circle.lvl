@@ -1,0 +1,29 @@
+title: Full Circle
+text: What goes around comes around.
+trick: dual reflector hit twice, from opposite sides (loop; a prism fixes the direction)
+motif: open field
+expect: shared>=1
+---
+L 0 10 2 m
+*r 7 10 1 k
+*P 7 6 6 k
+*R 12 6 7 k
+*R 12 13 1 k
+*R 7 13 3 k
+% in, magenta
+T 4 10 0 m
+T 7 8 0 m
+% blue goes on
+T 7 2 0 b
+% red goes round
+T 9 6 0 r
+T 11 6 0 r
+T 12 8 0 r
+T 12 11 0 r
+T 10 13 0 r
+T 8 13 0 r
+T 7 12 0 r
+% and out
+T 9 10 0 r
+T 12 10 0 r
+T 14 10 0 r

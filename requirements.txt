@@ -1,0 +1,6 @@
+# The solvers and pictures. The C tools also need gcc.
+clingo
+python-sat
+pillow
+# Only for web/test/ui_test.py; also run: python -m playwright install chromium
+playwright

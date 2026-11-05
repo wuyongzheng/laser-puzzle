@@ -1,0 +1,63 @@
+title: Citation Needed
+text: The red answer has been right since you opened the board, and it comes straight from the obvious source. Very confident. Yellow has no answer yet. Check your sources.
+trick: the red target looks settled, but it is lit by the wrong source: the red laser is the only red that can reach the speech bubble, and the prism only gives a red that can reach the target, so the lit target must be broken and relit by the prism's red
+motif: pictogram (a speech bubble with a tail pointing at the claim; a diagonal slit only green can use; a cited source shut off below a wall)
+expect: recolours>=1
+---
+L 14 1 6 w
+L 0 7 2 r
+T 5 7 0 r
+T 12 3 0 y
+*R 3 1 5 k
+*R 3 2 3 k
+*P 5 2 0 k
+*R 9 6 2 k
+*R 3 7 7 k
+*R 3 9 3 k
+*R 12 9 1 k
+% structure
+# 6 2 0 k
+# 7 2 0 k
+# 8 2 0 k
+# 9 2 0 k
+# 10 2 0 k
+# 11 2 0 k
+# 12 2 0 k
+# 13 2 0 k
+# 7 3 0 k
+# 14 3 0 k
+# 6 4 0 k
+# 8 4 0 k
+# 14 4 0 k
+# 7 5 0 k
+# 14 5 0 k
+# 0 6 0 k
+# 1 6 0 k
+# 2 6 0 k
+# 3 6 0 k
+# 4 6 0 k
+# 6 6 0 k
+# 7 6 0 k
+# 14 6 0 k
+# 6 7 0 k
+# 7 7 0 k
+# 14 7 0 k
+# 5 8 0 k
+# 7 8 0 k
+# 14 8 0 k
+# 14 9 0 k
+# 7 10 0 k
+# 14 10 0 k
+# 7 11 0 k
+# 14 11 0 k
+# 7 12 0 k
+# 14 12 0 k
+# 7 13 0 k
+# 14 13 0 k
+# 7 14 0 k
+# 8 14 0 k
+# 9 14 0 k
+# 10 14 0 k
+# 11 14 0 k
+# 12 14 0 k
+# 13 14 0 k

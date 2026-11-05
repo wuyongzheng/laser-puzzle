@@ -1,0 +1,27 @@
+title: Trident
+text: Three prongs from one shaft, and the hub only turns left. A splitter that faces the light sends some of it back.
+trick: head-on splitters feed a twister from new sides
+motif: trident
+ink: 2.5
+accept: idea
+expect: reversals>=2
+---
+L 7 14 0 w
+W 7 9 0 k
+T 7 12 0 ?
+T 4 9 0 ?
+T 9 9 0 ?
+T 7 6 0 ?
+T 3 7 0 ?
+T 3 5 0 ?
+T 7 3 0 ?
+T 7 1 0 ?
+T 11 7 0 ?
+T 11 5 0 ?
+*S 5 9 0 k
+*R 3 9 3 k
+*S 7 4 2 k
+*R 11 9 1 k
+*M 3 6 0 k
+*M 7 2 3 k
+*M 11 6 2 k

@@ -1,0 +1,33 @@
+title: Layer Cake
+text: White icing, yellow sponge, red jam, yellow sponge. Nothing on the plate.
+trick: filter
+motif: pictogram
+ink: 2.5
+expect: recolours>=2
+---
+L 0 1 2 w
+*R 2 1 7 k
+*S 2 4 3 k
+*F 2 5 2 y
+*S 2 7 3 k
+*S 2 9 3 k
+*F 4 9 0 r
+*R 2 11 3 k
+% icing
+T 2 3 0 ?
+T 6 4 0 ?
+T 10 4 0 ?
+% sponge
+T 6 7 0 ?
+T 10 7 0 ?
+% jam
+T 6 9 0 ?
+T 10 9 0 ?
+% sponge
+T 6 11 0 ?
+T 10 11 0 ?
+% the plate
+T 2 13 0 k
+T 5 13 0 k
+T 8 13 0 k
+T 11 13 0 k

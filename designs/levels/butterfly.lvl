@@ -1,0 +1,35 @@
+title: Butterfly
+text: Each colour flies once round its own wing and passes through the body twice.
+trick: both beams use the quad bender at the knot twice; each wing is a triangle of 135-degree turns
+motif: pictogram
+expect: shared>=2
+ink: 4
+---
+L 0 7 2 r
+L 14 7 6 b
+*b 7 7 0 k
+*b 3 11 3 k
+*b 3 3 2 k
+*b 11 3 3 k
+*b 11 11 2 k
+T 5 7 0 ?
+T 5 9 0 ?
+T 3 5 0 ?
+T 5 5 0 ?
+T 7 10 0 ?
+T 6 7 0 ?
+T 8 7 0 ?
+T 9 7 0 ?
+T 9 5 0 ?
+T 11 9 0 ?
+T 9 9 0 ?
+T 7 4 0 ?
+% walls
+# 4 5 0 k
+# 4 9 0 k
+# 10 5 0 k
+# 10 9 0 k
+# 6 1 0 k
+# 5 0 0 k
+# 8 1 0 k
+# 9 0 0 k

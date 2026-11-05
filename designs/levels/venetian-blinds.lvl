@@ -1,0 +1,23 @@
+title: Venetian Blinds
+text: The slats only let light through on the slant.
+trick: conduit
+motif: blinds
+ink: 2.5
+expect: depth>=2
+---
+L 1 9 2 r
+*B 3 9 2 k
+*B 8 4 6 k
+L 13 6 6 b
+*B 11 6 6 k
+*B 6 11 2 k
+C 7 5 1 k
+C 7 6 1 k
+C 7 7 1 k
+C 7 8 1 k
+C 7 9 1 k
+C 7 10 1 k
+T 9 4 0 ?
+T 5 11 0 ?
+T 9 8 0 ?
+T 5 7 0 ?

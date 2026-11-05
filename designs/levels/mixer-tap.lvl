@@ -1,0 +1,25 @@
+ink: 2.5
+title: Mixer Tap
+text: Hot from one pipe, cold from the other, and warm from the tap.
+trick: a splitter merges two beams into one
+motif: mixer tap
+expect: merges>=1
+---
+L 14 12 6 r
+L 13 14 0 b
+C 3 6 2 k
+C 4 6 2 k
+C 7 3 0 k
+C 7 4 0 k
+*R 1 12 3 k
+*R 1 6 5 k
+*R 13 1 7 k
+*R 7 1 5 k
+*S 7 6 3 k
+T 5 6 0 ?
+T 7 5 0 ?
+T 7 9 0 ?
+T 10 6 0 ?
+T 2 6 0 ?
+T 7 2 0 ?
+T 10 1 0 ?

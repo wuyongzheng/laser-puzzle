@@ -1,0 +1,44 @@
+title: Jailbreak
+text: Two prisoners, two cells, one getaway car waiting outside.
+trick: teleporter pairs carry each laser out through its cell wall; the routes meet at one target
+motif: a prison block: two sealed cells side by side, a laser locked in each
+ink: 4
+expect: depth>=3
+---
+L 4 7 0 r
+L 8 7 4 b
+*x 4 6 0 k
+*x 4 3 0 k
+*R 4 1 5 k
+*R 13 1 7 k
+*x 8 8 0 k
+*x 8 11 0 k
+*R 8 13 3 k
+T 13 13 0 m
+# 2 5 0 k
+# 2 9 0 k
+# 3 5 0 k
+# 3 9 0 k
+# 4 5 0 k
+# 4 9 0 k
+# 5 5 0 k
+# 5 9 0 k
+# 6 5 0 k
+# 6 9 0 k
+# 7 5 0 k
+# 7 9 0 k
+# 8 5 0 k
+# 8 9 0 k
+# 9 5 0 k
+# 9 9 0 k
+# 10 5 0 k
+# 10 9 0 k
+# 2 6 0 k
+# 2 7 0 k
+# 2 8 0 k
+# 6 6 0 k
+# 6 7 0 k
+# 6 8 0 k
+# 10 6 0 k
+# 10 7 0 k
+# 10 8 0 k

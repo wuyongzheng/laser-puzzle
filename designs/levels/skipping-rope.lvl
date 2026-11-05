@@ -1,0 +1,24 @@
+title: Skipping Rope
+text: Two children turn one rope from opposite ends. Each doppler is crossed both ways, and shifts the two colours apart.
+trick: two lasers share one route in opposite directions; each doppler shifts them opposite ways
+motif: U-shaped rope
+ink: 2.5
+expect: recolours>=5
+---
+L 2 2 4 r
+L 12 2 4 b
+*R 2 10 3 k
+*R 12 10 1 k
+*D 2 4 2 k
+*D 2 7 6 k
+*D 7 10 4 k
+*D 12 7 2 k
+*D 12 4 6 k
+T 2 3 0 ?
+T 2 5 0 ?
+T 2 8 0 ?
+T 4 10 0 ?
+T 10 10 0 ?
+T 12 8 0 ?
+T 12 5 0 ?
+T 12 3 0 ?

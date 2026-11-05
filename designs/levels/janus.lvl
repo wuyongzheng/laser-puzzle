@@ -1,0 +1,12 @@
+title: Janus
+text: A DOPPLER shifts the colour of light that passes through it from the side: one way it turns red to blue, the other way red to green. Two red beams meet head on; the same doppler shifts each of them differently.
+trick: one doppler hit from opposite sides shifts the two beams in opposite directions
+motif: two-faced head: two lasers facing each other on one upright line
+---
+L 7 1 4 r
+T 7 3 0 ?
+T 7 5 0 ?
+*D 7 7 2 k
+T 7 9 0 ?
+T 7 11 0 ?
+L 7 13 0 r

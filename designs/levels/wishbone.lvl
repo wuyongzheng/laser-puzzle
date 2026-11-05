@@ -1,0 +1,28 @@
+title: Wishbone
+text: Pull both ends and only what they share comes away.
+trick: logic gate: yellow AND cyan gives green; a splitter and two filters feed it from one white laser
+motif: a wishbone: two diagonal arms meeting at a gate, the stem below
+ink: 4
+accept: idea
+expect: recolours>=2
+---
+L 0 2 2 w
+*S 3 2 3 k
+*F 3 3 2 y
+B 3 4 4 k
+*F 11 3 2 c
+*R 11 2 7 k
+B 11 4 1 k
+G 7 8 4 k
+T 5 6 0 y
+T 9 6 0 c
+T 7 11 0 g
+T 7 13 0 g
+T 4 5 0 y
+T 10 5 0 c
+o 6 7 0 k
+o 8 7 0 k
+o 7 9 0 k
+o 7 10 0 k
+o 7 12 0 k
+o 7 14 0 k

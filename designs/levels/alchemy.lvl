@@ -1,0 +1,15 @@
+title: Alchemy
+text: Light adds up. Where two beams meet on a target, it sees both colours together: red and green make yellow, red and blue make magenta, green and blue make cyan. Turn red and green into gold.
+trick: two beams crossing on one target mix their colours
+motif: two beams folded into a cross, mirror-symmetric about the diagonal
+expect: shared>=1
+---
+L 2 13 0 r
+L 13 2 6 g
+*R 2 7 5 k
+*R 7 2 5 k
+% the gold, where they cross
+T 7 7 0 ?
+% each colour on its own, after the crossing
+T 11 7 0 ?
+T 7 11 0 ?

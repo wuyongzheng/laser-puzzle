@@ -1,0 +1,15 @@
+title: Paint Shop
+text: White holds every colour. Take away what you don't need.
+trick: filter
+motif: open field
+expect: recolours>=3
+---
+L 0 7 2 w
+T 3 1 0 ?
+T 13 7 0 ?
+T 7 13 0 ?
+*S 3 7 1 k
+*S 7 7 3 k
+*F 3 4 6 y
+*F 10 7 0 c
+*F 7 10 2 m

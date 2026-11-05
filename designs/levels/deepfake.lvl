@@ -1,0 +1,39 @@
+title: Deepfake
+text: Two identical portraits in yellow, and not a drop of yellow paint on the board. Only one of them is what it seems to be.
+trick: the fixed prism under the right portrait only gives a single yellow beam if red arrives along the row and green from the south-east; the left portrait is the fake, lit only where those same red and green beams cross on their way there, so the forgery lies on the road to the original
+motif: pictogram (two identical portraits with slotted frames, a fixed prism as the camera, and a plate for the blue left over)
+expect: recolours>=1
+proof: not proved; no other solution found in 300 s
+---
+L 11 1 6 w
+*R 1 1 5 k
+*R 1 5 3 k
+*P 2 5 0 k
+*R 2 9 3 k
+*B 8 11 3 k
+*B 14 11 1 k
+*R 9 5 1 k
+P 12 9 5 k
+T 6 9 0 y
+T 12 6 0 y
+T 9 3 0 b
+% structure
+# 9 2 0 k
+# 8 3 0 k
+# 10 3 0 k
+# 11 4 0 k
+# 13 4 0 k
+# 10 5 0 k
+# 14 5 0 k
+# 5 7 0 k
+# 7 7 0 k
+# 10 7 0 k
+# 14 7 0 k
+# 4 8 0 k
+# 8 8 0 k
+# 11 8 0 k
+# 13 8 0 k
+# 4 10 0 k
+# 8 10 0 k
+# 5 11 0 k
+# 7 11 0 k

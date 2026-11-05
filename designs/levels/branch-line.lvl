@@ -1,0 +1,23 @@
+title: Branch Line
+text: Twins of twins. Who still feels what happens to whom?
+trick: a second tangler starts a new pair and cuts the old link
+motif: branching railway line
+ink: 2.5
+accept: idea
+expect: recolours>=2
+---
+L 7 14 0 r
+*Q 7 7 6 k
+*D 5 7 4 k
+*Q 3 7 4 k
+*D 3 5 6 k
+T 13 7 0 ?
+T 3 1 0 ?
+T 3 13 0 ?
+T 10 7 0 ?
+T 6 7 0 ?
+T 4 7 0 ?
+T 8 7 0 ?
+T 3 6 0 ?
+T 3 3 0 ?
+T 3 11 0 ?

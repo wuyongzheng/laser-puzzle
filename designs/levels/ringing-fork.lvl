@@ -1,0 +1,49 @@
+title: Ringing Fork
+text: Strike the fork once and both prongs ring.
+trick: one beam struck into the fork is split once; each half runs up the inside of one prong and down its outside
+motif: pictogram
+expect: shared>=1
+ink: 4
+---
+L 7 0 4 r
+*S 7 4 3 k
+*R 7 7 1 k
+*R 5 7 3 k
+*R 5 1 7 k
+*R 3 1 5 k
+*R 9 4 1 k
+*R 9 1 5 k
+*R 11 1 7 k
+T 7 2 0 ?
+T 7 6 0 ?
+T 5 4 0 ?
+T 3 5 0 ?
+T 8 4 0 ?
+T 9 2 0 ?
+T 11 6 0 ?
+% walls
+# 4 2 0 k
+# 10 2 0 k
+# 4 3 0 k
+# 10 3 0 k
+# 4 4 0 k
+# 10 4 0 k
+# 4 5 0 k
+# 10 5 0 k
+# 4 6 0 k
+# 10 6 0 k
+# 4 7 0 k
+# 10 7 0 k
+# 4 8 0 k
+# 10 8 0 k
+# 3 9 0 k
+# 4 9 0 k
+# 5 9 0 k
+# 6 9 0 k
+# 7 9 0 k
+# 8 9 0 k
+# 9 9 0 k
+# 10 9 0 k
+# 11 9 0 k
+# 7 10 0 k
+# 7 11 0 k

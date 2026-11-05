@@ -1,0 +1,23 @@
+title: Leapfrog
+text: Hop over some squares and land on others. Count before you jump.
+trick: mobile teleporter pairs jump the beam over chosen dopplers; skipping one backward doppler does what skipping two forward ones would, with a hop to spare
+motif: a hopscotch court: a column of fixed dopplers with pads between them
+ink: 4
+expect: recolours>=1
+---
+L 7 14 0 r
+*x 7 11 0 k
+*x 7 9 0 k
+*x 7 3 0 k
+*x 7 1 0 k
+D 7 12 2 k
+D 7 10 6 k
+D 7 8 2 k
+T 7 6 0 b
+D 7 4 2 k
+D 7 2 6 k
+T 7 0 0 r
+o 6 8 0 k
+o 8 8 0 k
+o 6 4 0 k
+o 8 4 0 k

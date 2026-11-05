@@ -1,0 +1,24 @@
+title: Burgee
+text: No filter makes yellow. The two tails of this flag are yellow anyway.
+trick: split white, filter the halves red and green, then merge them in a splitter to make yellow
+motif: swallow-tailed burgee flag
+ink: 2.5
+expect: merges>=1, recolours>=2
+---
+L 2 14 0 w
+T 2 7 0 ?
+T 4 4 0 ?
+T 7 4 0 ?
+T 4 10 0 ?
+T 7 10 0 ?
+T 10 6 0 ?
+T 10 8 0 ?
+T 13 5 0 ?
+T 13 9 0 ?
+*S 2 10 1 k
+*R 2 4 5 k
+*M 5 4 2 k
+*M 5 10 1 k
+B 8 4 7 k
+B 8 10 2 k
+*S 11 7 2 k

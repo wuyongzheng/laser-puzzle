@@ -1,0 +1,36 @@
+ink: 2.5
+title: Border Crossing
+text: One gate in the wall and two tunnels under it. Someone also has to patrol the wall.
+trick: teleporter tunnels under a conduit wall; a beam can run along the wall but not across it
+motif: wall with a gate and tunnels
+expect: depth>=4
+---
+C 7 2 0 k
+C 7 3 0 k
+C 7 5 0 k
+C 7 6 0 k
+C 7 8 0 k
+C 7 9 0 k
+C 7 11 0 k
+C 7 12 0 k
+X 5 4 0 k
+X 9 4 0 k
+X 5 10 0 k
+X 9 10 0 k
+L 2 0 4 r
+L 0 12 2 g
+L 0 0 4 b
+*R 2 4 3 k
+*R 12 4 1 k
+*R 12 1 7 k
+*R 7 1 5 k
+*R 3 12 1 k
+*R 3 10 5 k
+*R 13 10 1 k
+*R 0 7 3 k
+T 7 7 0 ?
+T 13 7 0 ?
+T 11 4 0 ?
+T 11 10 0 ?
+T 10 1 0 ?
+T 7 13 0 ?

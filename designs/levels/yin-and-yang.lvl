@@ -1,0 +1,17 @@
+title: Yin and Yang
+text: A QUAD BENDER is a bender with mirrors on both faces, so it turns a beam from either side. Meet red and blue in the middle and send them off to opposite corners.
+trick: quad bender basics: one piece bends two opposite beams, one on each face
+motif: point symmetry
+expect: merges>=1
+---
+L 1 7 2 r
+L 13 7 6 b
+*b 7 7 2 k
+*B 10 4 1 k
+*B 4 10 5 k
+T 10 1 0 ?
+T 4 13 0 ?
+T 9 5 0 ?
+T 5 9 0 ?
+T 10 2 0 ?
+T 4 12 0 ?

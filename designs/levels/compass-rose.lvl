@@ -1,0 +1,26 @@
+title: Compass Rose
+text: Four roads meet at one filter. Each road leaves with its own colour.
+trick: one multi-filter colours four crossing beams
+motif: star
+ink: 2.5
+expect: recolours>=1, merges>=1
+---
+L 7 0 4 w
+L 0 4 2 w
+L 2 0 4 w
+W 2 7 0 k
+% incoming rays (white)
+T 7 5 0 ?
+T 5 7 0 ?
+T 9 5 0 ?
+T 9 3 0 ?
+T 5 5 0 ?
+% outgoing rays
+T 7 10 0 ?
+T 10 7 0 ?
+T 4 10 0 ?
+T 10 10 0 ?
+*S 7 3 3 k
+*B 11 3 0 k
+*B 4 4 7 k
+*M 7 7 0 k

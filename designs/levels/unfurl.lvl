@@ -1,0 +1,18 @@
+title: Unfurl
+text: White is three colours folded together.
+trick: split
+motif: flag
+ink: 2
+accept: idea
+expect: recolours>=1
+---
+L 1 7 2 w
+*P 4 7 0 k
+*B 5 8 3 k
+*R 4 9 3 k
+T 10 7 0 ?
+T 10 8 0 ?
+T 10 9 0 ?
+T 13 7 0 ?
+T 13 8 0 ?
+T 13 9 0 ?

@@ -1,0 +1,25 @@
+title: Hourglass
+text: Sand runs down, light runs both ways.
+trick: dual reflector: two beams share one square, one on each face
+motif: pictogram
+expect: shared>=1
+ink: 4
+---
+L 3 2 2 r
+L 11 12 6 b
+*R 7 2 7 k
+*r 7 7 3 k
+*R 7 12 3 k
+T 8 7 0 ?
+T 6 7 0 ?
+% walls
+# 5 5 0 k
+# 9 5 0 k
+# 6 6 0 k
+# 8 6 0 k
+# 5 7 0 k
+# 9 7 0 k
+# 6 8 0 k
+# 8 8 0 k
+# 5 9 0 k
+# 9 9 0 k

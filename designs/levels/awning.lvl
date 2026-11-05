@@ -1,0 +1,21 @@
+title: Awning
+text: Keep the rain off the two dark stones. Coloured glass only lets light through its faces; from the edge it is a wall.
+trick: each filter does two jobs: it colours the level beam passing through its faces and stops the falling beam that hits its edge
+motif: two rain streaks stopped by an awning
+expect: recolours>=2, black>=2
+---
+L 1 2 2 w
+L 13 14 0 w
+*S 5 2 3 k
+*R 9 2 7 k
+*R 13 9 7 k
+*F 9 9 0 y
+*F 5 9 0 r
+T 5 5 0 ?
+T 9 7 0 ?
+T 7 9 0 ?
+T 2 9 0 ?
+T 5 12 0 k
+T 9 12 0 k
+T 11 9 0 ?
+T 5 8 0 ?

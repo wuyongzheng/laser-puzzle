@@ -1,0 +1,33 @@
+title: Envelope
+text: The flap is stuck down tight, unless you come at the seams on the slant.
+trick: a diagonal wall stops straight beams but a beam crossing it at right angles slips between the bricks; straight beams need a teleporter
+motif: back of an envelope: a V-shaped flap of walls across the top
+ink: 4
+expect: depth>=2
+---
+L 0 10 2 r
+L 14 13 6 b
+L 12 14 0 g
+*B 3 10 2 k
+*R 7 13 3 k
+*x 7 8 0 k
+*x 7 5 0 k
+*B 12 9 0 k
+T 9 4 0 ?
+T 7 2 0 ?
+T 5 2 0 ?
+# 0 0 0 k
+# 1 1 0 k
+# 2 2 0 k
+# 3 3 0 k
+# 4 4 0 k
+# 5 5 0 k
+# 6 6 0 k
+# 7 7 0 k
+# 14 0 0 k
+# 13 1 0 k
+# 12 2 0 k
+# 11 3 0 k
+# 10 4 0 k
+# 9 5 0 k
+# 8 6 0 k

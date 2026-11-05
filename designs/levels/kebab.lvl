@@ -1,0 +1,14 @@
+title: Kebab
+text: The DOPPLER turns red light green, green light blue and blue light red. Turn it round and it works backwards. Tomato, pepper, tomato.
+trick: doppler
+motif: skewer
+ink: 2.5
+expect: recolours>=2
+---
+L 1 7 2 r
+T 3 7 0 ?
+*D 5 7 4 k
+T 6 7 0 ?
+T 8 7 0 ?
+*D 9 7 0 k
+T 11 7 0 ?

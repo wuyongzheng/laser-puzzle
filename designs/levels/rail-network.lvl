@@ -1,0 +1,30 @@
+title: Rail Network
+text: Three lines leave the central station. Where two lines meet there is a change of colour; where they don't, one goes underground.
+trick: prism split into three routed lines; a teleporter tunnel lets one line cross another without mixing
+motif: rail network map
+ink: 2.5
+expect: shared>=5
+---
+L 0 13 0 w
+*R 0 10 5 k
+T 1 10 0 ?
+*R 2 10 1 k
+P 2 7 6 k
+*B 4 5 6 k
+*R 2 2 5 k
+*R 12 2 7 k
+*R 5 7 7 k
+*R 5 13 3 k
+X 11 13 0 k
+X 13 13 0 k
+T 2 9 0 ?
+T 2 4 0 ?
+T 7 2 0 ?
+T 12 5 0 ?
+T 12 9 0 ?
+T 12 13 0 ?
+T 4 7 0 ?
+T 8 13 0 ?
+T 14 13 0 ?
+T 3 6 0 ?
+T 8 5 0 ?

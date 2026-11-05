@@ -1,0 +1,23 @@
+title: Harlequin
+text: Red to green to blue, and home again.
+trick: doppler
+motif: diamond
+ink: 2
+accept: idea
+expect: recolours>=3
+---
+L 2 7 1 r
+*R 7 2 6 k
+*R 12 7 0 k
+*R 7 12 2 k
+*D 8 3 5 k
+*D 11 8 7 k
+*D 6 11 1 k
+T 4 5 0 r
+T 6 3 0 r
+T 9 4 0 g
+T 11 6 0 g
+T 10 9 0 b
+T 8 11 0 b
+T 5 10 0 r
+T 3 8 0 r

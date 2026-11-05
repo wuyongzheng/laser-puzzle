@@ -1,0 +1,47 @@
+title: Hedgerows
+text: Three fields and two hedges. Don't disturb the cow in the middle field on your first trip.
+trick: one teleporter pair jumps both hedges at once, clearing the middle field; a second pair drops into it
+motif: three fields side by side, split by two hedgerows
+ink: 4
+expect: depth>=6
+---
+L 0 13 0 r
+*R 0 2 5 k
+*x 3 2 0 k
+*x 11 2 0 k
+*R 13 2 7 k
+*R 13 8 1 k
+*x 11 8 0 k
+*x 9 8 0 k
+*R 6 8 5 k
+T 7 2 0 k
+T 13 5 0 ?
+T 7 8 0 ?
+T 6 11 0 ?
+T 2 2 0 ?
+# 4 1 0 k
+# 10 1 0 k
+# 4 2 0 k
+# 10 2 0 k
+# 4 3 0 k
+# 10 3 0 k
+# 4 4 0 k
+# 10 4 0 k
+# 4 5 0 k
+# 10 5 0 k
+# 4 6 0 k
+# 10 6 0 k
+# 4 7 0 k
+# 10 7 0 k
+# 4 8 0 k
+# 10 8 0 k
+# 4 9 0 k
+# 10 9 0 k
+# 4 10 0 k
+# 10 10 0 k
+# 4 11 0 k
+# 10 11 0 k
+# 4 12 0 k
+# 10 12 0 k
+# 4 13 0 k
+# 10 13 0 k

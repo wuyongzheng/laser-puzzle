@@ -1,0 +1,13 @@
+title: Four Winds
+text: The STARBURST is fixed to the board. A beam that enters it leaves as four beams, each turned 45 degrees from it: come in on a slant and they go out straight to all four sides.
+trick: starburst basics: a diagonal beam into a starburst comes out as a plus sign
+motif: compass: four straight arms around the starburst
+expect: shared>=1
+---
+L 2 13 2 y
+*B 11 13 1 k
+Z 6 8 0 k
+T 6 5 0 ?
+T 9 8 0 ?
+T 6 11 0 ?
+T 3 8 0 ?

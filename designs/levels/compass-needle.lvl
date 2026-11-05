@@ -1,0 +1,11 @@
+title: Compass Needle
+text: The QUANTUM TANGLER sends a beam out both ways at once, and the two halves stay linked: when a doppler changes the colour of one, the other changes too, the opposite way. Paint the needle red at the north end and blue at the south.
+trick: entangled twin
+motif: compass needle
+ink: 2.5
+---
+L 4 7 2 g
+*Q 7 7 0 k
+D 7 5 6 k
+T 7 2 0 r
+T 7 12 0 b

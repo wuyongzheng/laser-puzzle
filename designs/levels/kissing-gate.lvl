@@ -1,0 +1,23 @@
+title: Kissing Gate
+text: Red and blue both come to the gate, and neither gets through. One mirror sends both away.
+trick: red and blue bounce off opposite faces of one dual reflector standing in the only gap of the fence
+motif: pictogram
+expect: shared>=1
+ink: 4
+---
+L 10 0 3 r
+L 4 14 7 b
+*R 12 2 0 k
+*r 7 7 2 k
+*R 2 12 4 k
+T 10 4 0 ?
+T 4 4 0 ?
+T 4 10 0 ?
+T 10 10 0 ?
+% walls
+# 4 7 0 k
+# 5 7 0 k
+# 6 7 0 k
+# 8 7 0 k
+# 9 7 0 k
+# 10 7 0 k

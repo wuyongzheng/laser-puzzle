@@ -1,0 +1,51 @@
+title: Pipe Organ
+text: One red note, five pipes, and a different colour sounding in the middle.
+trick: splitters along one beam feed every pipe; dopplers between them shift the colour up and back down
+motif: an organ front: five conduit pipes, tallest in the middle, each crowned with a target
+ink: 4
+expect: recolours>=4
+---
+L 0 14 2 r
+*S 3 14 1 k
+*D 4 14 4 k
+*S 5 14 1 k
+*D 6 14 4 k
+*S 7 14 1 k
+*D 8 14 0 k
+*S 9 14 1 k
+*D 10 14 0 k
+*R 11 14 1 k
+T 3 10 0 ?
+T 3 9 0 ?
+T 5 9 0 ?
+T 5 8 0 ?
+T 7 8 0 ?
+T 7 7 0 ?
+T 9 9 0 ?
+T 9 8 0 ?
+T 11 10 0 ?
+T 11 9 0 ?
+C 3 11 0 k
+C 11 11 0 k
+C 3 12 0 k
+C 11 12 0 k
+C 3 13 0 k
+C 11 13 0 k
+C 5 10 0 k
+C 9 10 0 k
+C 5 11 0 k
+C 9 11 0 k
+C 5 12 0 k
+C 9 12 0 k
+C 5 13 0 k
+C 9 13 0 k
+C 7 9 0 k
+C 7 10 0 k
+C 7 11 0 k
+C 7 12 0 k
+C 7 13 0 k
+# 3 8 0 k
+# 5 7 0 k
+# 7 6 0 k
+# 9 7 0 k
+# 11 8 0 k

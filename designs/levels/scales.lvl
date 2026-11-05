@@ -1,0 +1,27 @@
+title: Scales
+text: The pivot turns every beam to its left. Red goes up, blue goes down.
+trick: the fulcrum twister turns the left pan's beam up and the right pan's beam down
+motif: balance scales
+expect: shared>=4
+ink: 2.5
+---
+L 1 13 0 r
+L 13 13 0 b
+W 7 4 0 k
+*R 1 10 5 k
+*R 3 10 1 k
+*R 3 4 5 k
+*R 13 10 7 k
+*R 11 10 3 k
+*R 11 4 7 k
+T 1 12 0 ?
+T 2 10 0 ?
+T 3 7 0 ?
+T 5 4 0 ?
+T 7 2 0 ?
+T 13 12 0 ?
+T 12 10 0 ?
+T 11 7 0 ?
+T 9 4 0 ?
+T 7 8 0 ?
+T 7 12 0 ?

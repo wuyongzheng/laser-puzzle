@@ -1,0 +1,73 @@
+title: Three Hinges
+text: Each wing folds back on its own hinge.
+trick: quad bender reused, three times
+motif: corridors
+expect: shared>=6
+---
+L 4 14 0 g
+*b 4 10 0 k
+*B 1 7 5 k
+*B 7 7 0 k
+*b 10 10 0 k
+*B 7 13 4 k
+*B 13 13 1 k
+*b 10 4 2 k
+*B 13 7 2 k
+*B 13 1 7 k
+T 4 12 0 ?
+T 3 9 0 ?
+T 2 8 0 ?
+T 3 7 0 ?
+T 5 7 0 ?
+T 6 8 0 ?
+T 5 9 0 ?
+T 8 10 0 ?
+T 9 11 0 ?
+T 8 12 0 ?
+T 9 13 0 ?
+T 12 12 0 ?
+T 11 11 0 ?
+T 10 8 0 ?
+T 10 6 0 ?
+T 11 5 0 ?
+T 12 6 0 ?
+T 13 5 0 ?
+T 12 2 0 ?
+T 11 3 0 ?
+T 7 4 0 ?
+T 0 4 0 ?
+# 12 1 0 k
+# 12 3 0 k
+# 12 4 0 k
+# 0 5 0 k
+# 1 5 0 k
+# 2 5 0 k
+# 3 5 0 k
+# 4 5 0 k
+# 5 5 0 k
+# 6 5 0 k
+# 7 5 0 k
+# 8 5 0 k
+# 9 5 0 k
+# 12 5 0 k
+# 9 6 0 k
+# 9 7 0 k
+# 3 8 0 k
+# 4 8 0 k
+# 5 8 0 k
+# 9 8 0 k
+# 9 9 0 k
+# 3 10 0 k
+# 3 11 0 k
+# 5 11 0 k
+# 6 11 0 k
+# 7 11 0 k
+# 8 11 0 k
+# 10 11 0 k
+# 3 12 0 k
+# 5 12 0 k
+# 9 12 0 k
+# 10 12 0 k
+# 11 12 0 k
+# 3 13 0 k
+# 5 13 0 k

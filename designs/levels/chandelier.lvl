@@ -1,0 +1,22 @@
+title: Chandelier
+text: Red and blue must both reach the chandelier to make it glow magenta. They can't both come down the chain.
+trick: two beams that strike a starburst straight mix on all four diagonal rays; one mirror can't drop both lasers onto the chain, so one comes in from the side
+motif: a chandelier: a starburst hung from a rod, four magenta arms, two drops hanging from benders
+ink: 4
+expect: shared>=2
+---
+L 3 0 4 r
+L 14 3 6 b
+Z 7 6 0 k
+B 10 9 0 k
+B 4 9 5 k
+*R 3 3 3 k
+*R 7 3 7 k
+*R 13 3 5 k
+*R 13 6 1 k
+T 5 3 0 ?
+T 5 4 0 ?
+T 9 4 0 ?
+T 4 11 0 ?
+T 10 11 0 ?
+T 13 4 0 ?

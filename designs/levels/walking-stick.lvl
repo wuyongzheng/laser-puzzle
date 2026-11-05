@@ -1,0 +1,14 @@
+title: Walking Stick
+text: Drag a REFLECTOR from the toolbox onto the board, and click it to turn it. A reflector is a mirror: it bounces the beam off at a right angle. Bend the beam into a walking stick so that it lights every pinwheel.
+trick: routing with reflectors
+motif: walking stick
+ink: 2.5
+expect: shared>=2
+---
+L 10 6 0 r
+*R 10 3 7 k
+*R 7 3 5 k
+T 8 3 0 ?
+T 7 6 0 ?
+T 7 9 0 ?
+T 7 12 0 ?

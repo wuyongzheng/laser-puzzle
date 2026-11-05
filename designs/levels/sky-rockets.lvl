@@ -1,0 +1,21 @@
+ink: 2.5
+title: Sky Rockets
+text: Two rockets go up and burst into colour. Where does each one burst?
+trick: prism forwards: the coloured sparks pin where each prism sits and which way it turns
+motif: two firework bursts
+expect: shared>=0
+---
+L 0 13 2 w
+L 14 13 6 w
+T 4 10 0 ?
+T 10 10 0 ?
+T 4 2 0 ?
+T 7 3 0 ?
+T 8 6 0 ?
+T 10 1 0 ?
+T 6 5 0 ?
+T 8 3 0 ?
+*R 4 13 1 k
+*R 10 13 3 k
+*P 4 6 6 k
+*P 10 5 3 k

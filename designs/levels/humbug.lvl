@@ -1,0 +1,33 @@
+title: Humbug
+text: The wrapper is twisted at both ends, and a twist only turns left. Red wraps the top, blue the bottom.
+trick: a twist at each end of the wrapper turns each beam left, so red has to go round the top and blue round the bottom
+motif: wrapped sweet
+expect: shared>=2
+ink: 2.5
+---
+L 0 7 2 r
+L 14 7 6 b
+W 2 7 0 k
+W 12 7 0 k
+*B 2 5 5 k
+*B 4 3 6 k
+B 10 3 7 k
+*B 12 5 0 k
+*B 12 9 1 k
+*B 10 11 2 k
+B 4 11 3 k
+*B 2 9 4 k
+T 1 7 0 ?
+T 13 7 0 ?
+T 3 4 0 ?
+T 7 3 0 ?
+T 11 4 0 ?
+T 11 10 0 ?
+T 7 11 0 ?
+T 3 10 0 ?
+T 2 6 0 ?
+T 12 6 0 ?
+T 12 8 0 ?
+T 2 8 0 ?
+T 5 3 0 ?
+T 9 11 0 ?

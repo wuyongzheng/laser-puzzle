@@ -1,0 +1,22 @@
+title: Tricolour
+text: Run the flag up the pole. Each stripe needs its own angle.
+trick: multi-filter angles
+motif: flag
+ink: 2.5
+expect: recolours>=3
+---
+L 12 14 0 w
+W 12 2 0 k
+T 12 10 0 ?
+T 12 3 0 ?
+T 10 2 0 ?
+T 10 4 0 ?
+T 10 6 0 ?
+T 3 2 0 ?
+T 3 4 0 ?
+T 3 6 0 ?
+*S 12 4 3 k
+*S 12 6 3 k
+*M 11 2 2 k
+*M 11 4 1 k
+*M 11 6 0 k

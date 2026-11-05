@@ -1,0 +1,36 @@
+title: Birdbath
+text: Three jets fall into the basin, and one more stream must run on.
+trick: the prism sits on a blue beam, which passes straight through, while it splits a white beam arriving diagonally into the three jets
+motif: pictogram
+expect: recolours>=2
+proof: not proved; no other solution found in 300 s
+---
+L 14 8 6 w
+T 2 13 0 r
+T 7 13 0 g
+T 12 13 0 b
+T 0 8 0 b
+T 7 2 0 w
+*S 12 8 3 k
+*B 1 2 5 k
+*M 10 8 0 k
+*R 12 2 7 k
+*P 7 8 1 k
+% basin
+# 1 12 0 k
+# 1 13 0 k
+# 13 12 0 k
+# 13 13 0 k
+# 1 14 0 k
+# 2 14 0 k
+# 3 14 0 k
+# 4 14 0 k
+# 5 14 0 k
+# 6 14 0 k
+# 7 14 0 k
+# 8 14 0 k
+# 9 14 0 k
+# 10 14 0 k
+# 11 14 0 k
+# 12 14 0 k
+# 13 14 0 k

@@ -1,0 +1,16 @@
+title: Big Top
+text: Now mix them. A reflector turns a diagonal beam by a right angle too. Raise the roof of the circus tent.
+trick: benders lift and lower the beam; a reflector on the diagonal makes the peak
+motif: circus tent
+expect: shared>=2
+---
+L 1 12 2 b
+*B 4 12 2 k
+T 5 11 0 ?
+T 7 9 0 ?
+*R 8 8 6 k
+T 9 9 0 ?
+T 11 11 0 ?
+*B 12 12 3 k
+T 13 12 0 ?
+T 14 12 0 ?

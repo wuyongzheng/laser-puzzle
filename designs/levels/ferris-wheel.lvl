@@ -1,0 +1,41 @@
+title: Ferris Wheel
+text: Red on the way up, blue at the top, red again by the time you get off. If the colours don't come round right, the whole wheel blurs to white.
+trick: a fixed splitter feeds the beam round a loop and back into itself; two dopplers on the loop must undo each other, or every lap shifts again and the loop goes white
+motif: a ferris wheel: a square wheel with a spoke up the middle, on an A-frame stand of occupied squares
+ink: 4
+expect: recolours>=2
+accept: idea
+---
+L 0 13 2 r
+*R 7 13 1 k
+S 7 11 1 k
+*R 11 11 1 k
+*D 11 7 6 k
+*R 11 3 7 k
+*R 3 3 5 k
+*D 3 7 6 k
+*R 3 11 3 k
+T 5 3 0 ?
+T 7 3 0 ?
+T 9 3 0 ?
+T 5 11 0 ?
+T 9 11 0 ?
+T 3 5 0 ?
+T 3 9 0 ?
+T 11 5 0 ?
+T 11 9 0 ?
+T 11 8 0 ?
+T 3 6 0 ?
+T 3 8 0 ?
+T 11 6 0 ?
+T 7 7 0 ?
+T 7 1 0 ?
+T 7 12 0 ?
+# 7 0 0 k
+% the stand
+o 6 12 0 k
+o 5 13 0 k
+o 4 14 0 k
+o 8 12 0 k
+o 9 13 0 k
+o 10 14 0 k

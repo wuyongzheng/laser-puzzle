@@ -1,0 +1,25 @@
+title: Backwash
+text: Not all light travels away from its laser.
+trick: blue joins the red beam at a splitter on a loop and flows back along red's whole path, through two reflectors, into the magenta target at the red laser's muzzle; the same loop turns the splitter's light south
+motif: open field
+proof: not proved; no other solution found in 300 s
+expect: merges>=1, reversals>=1
+---
+L 0 12 2 r
+L 14 1 6 b
+# 3 11 0 k
+# 4 12 0 k
+*R 2 12 1 k
+*R 2 9 5 k
+*S 5 9 1 k
+*B 9 9 1 k
+*B 5 5 6 k
+*S 7 7 2 k
+*B 13 1 6 k
+T 1 12 0 ?
+T 5 13 0 ?
+T 10 4 0 ?
+T 7 9 0 ?
+T 7 1 0 k
+T 1 13 0 k
+T 5 2 0 k

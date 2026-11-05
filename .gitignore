@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Solver binaries, built on demand from the .c sources
+tools/beamsolve
+tools/fastsim
+tools/playersim
+
+# Test output, editor and OS clutter
+web/test/out/
+*.swp
+*~
+.DS_Store

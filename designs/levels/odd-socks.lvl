@@ -1,0 +1,15 @@
+title: Odd Socks
+text: They went into the wash as a yellow pair. One came out pink, the other blue.
+trick: entangled twin on a mixed colour, timed by distance
+motif: clothesline
+ink: 2.5
+expect: recolours>=1
+---
+L 7 0 4 y
+*Q 7 4 2 k
+*D 4 4 4 k
+T 10 4 0 y
+T 11 4 0 c
+T 12 4 0 c
+T 2 4 0 m
+T 1 4 0 m

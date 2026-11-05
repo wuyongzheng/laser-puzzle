@@ -1,0 +1,63 @@
+title: Ice Bucket Challenge
+text: Cold pours in, and it must carry on to the bucket downstairs. Trouble is, water that lands on the bottom stays on the bottom. And somebody left the hot tap running into the top bucket.
+trick: blue cannot drop straight onto the floor of the top bucket: it would stop there. It has to come in on a slant, slosh flat along the floor through the target, and leave by a sharp 135-degree turn over the rim, then go round by the drainpipe to the lower bucket. Red has to be turned off the same column before it spoils the water.
+motif: pictogram (a bucket on a shelf above a bucket on the ground, a drainpipe, a hot tap over the top bucket)
+expect: depth>=5
+---
+L 0 2 2 b
+L 6 0 4 r
+*B 3 2 7 k
+*B 7 6 1 k
+*B 5 6 4 k
+*B 11 0 7 k
+*R 11 8 1 k
+*R 5 8 5 k
+*R 6 3 3 k
+T 6 6 0 b
+T 5 13 0 b
+T 10 3 0 r
+% walls
+# 9 4 0 k
+# 4 5 0 k
+# 8 5 0 k
+# 9 5 0 k
+# 12 5 0 k
+# 4 6 0 k
+# 8 6 0 k
+# 9 6 0 k
+# 12 6 0 k
+# 0 7 0 k
+# 1 7 0 k
+# 2 7 0 k
+# 3 7 0 k
+# 4 7 0 k
+# 5 7 0 k
+# 6 7 0 k
+# 7 7 0 k
+# 8 7 0 k
+# 9 7 0 k
+# 10 7 0 k
+# 12 7 0 k
+# 12 8 0 k
+# 12 9 0 k
+# 2 10 0 k
+# 8 10 0 k
+# 10 10 0 k
+# 12 10 0 k
+# 2 11 0 k
+# 8 11 0 k
+# 10 11 0 k
+# 2 12 0 k
+# 8 12 0 k
+# 10 12 0 k
+# 2 13 0 k
+# 8 13 0 k
+# 10 13 0 k
+# 2 14 0 k
+# 3 14 0 k
+# 4 14 0 k
+# 5 14 0 k
+# 6 14 0 k
+# 7 14 0 k
+# 8 14 0 k
+# 10 14 0 k

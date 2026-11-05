@@ -1,0 +1,16 @@
+title: Carving Fork
+text: A SPLITTER is a half-silvered mirror: half the light goes straight through it and half bounces off at a right angle, so one beam becomes two. Hit it face-on and the bounced half goes straight back. Give the fork its second tine.
+trick: one beam split in two
+motif: two-tined carving fork
+expect: shared>=1
+---
+L 7 14 0 g
+*S 7 10 1 k
+*R 10 10 1 k
+% handle
+T 7 12 0 ?
+% the bar between the tines
+T 8 10 0 ?
+% tines
+T 7 3 0 ?
+T 10 3 0 ?

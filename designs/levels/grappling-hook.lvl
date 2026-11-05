@@ -1,0 +1,22 @@
+title: Grappling Hook
+text: When a linked beam goes through a second tangler, it forgets its old twin and makes a new pair with its new partner. Paint the ring red, then paint the flukes without touching the ring.
+trick: entangled twin; a second tangler breaks the link
+motif: grappling hook
+ink: 2.5
+accept: idea
+expect: recolours>=2
+---
+L 5 2 2 g
+*Q 7 2 0 k
+*D 7 1 6 k
+*Q 7 6 2 k
+*D 8 6 4 k
+B 10 6 2 k
+B 4 6 3 k
+T 7 0 0 ?
+T 6 2 0 ?
+T 7 4 0 ?
+T 9 6 0 ?
+T 5 6 0 ?
+T 11 5 0 ?
+T 3 5 0 ?

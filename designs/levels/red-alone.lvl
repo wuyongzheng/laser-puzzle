@@ -1,0 +1,64 @@
+title: Red Alone
+text: Yellow, from nothing but red.
+trick: doppler + prism merge
+motif: rooms
+expect: merges>=1, recolours>=1
+---
+L 4 12 0 r
+L 12 4 6 r
+*R 4 10 5 k
+*R 7 10 1 k
+*R 10 4 5 k
+*D 10 6 6 k
+*B 10 10 2 k
+*P 7 7 0 k
+% the yellow target sits in a pocket on the west wall
+T 3 7 0 ?
+# 3 6 0 k
+# 3 8 0 k
+% the room
+# 2 2 0 k
+# 2 12 0 k
+# 12 2 0 k
+# 3 2 0 k
+# 3 12 0 k
+# 2 3 0 k
+# 12 3 0 k
+# 4 2 0 k
+# 2 4 0 k
+# 5 2 0 k
+# 5 12 0 k
+# 2 5 0 k
+# 12 5 0 k
+# 6 2 0 k
+# 6 12 0 k
+# 2 6 0 k
+# 12 6 0 k
+# 7 2 0 k
+# 7 12 0 k
+# 2 7 0 k
+# 12 7 0 k
+# 8 2 0 k
+# 8 12 0 k
+# 2 8 0 k
+# 12 8 0 k
+# 9 2 0 k
+# 9 12 0 k
+# 2 9 0 k
+# 12 9 0 k
+# 10 2 0 k
+# 10 12 0 k
+# 2 10 0 k
+# 12 10 0 k
+# 11 2 0 k
+# 11 12 0 k
+# 2 11 0 k
+# 12 11 0 k
+# 12 12 0 k
+% the pocket is two deep
+# 4 6 0 k
+# 4 8 0 k
+% clues
+T 9 9 0 g
+T 6 10 0 r
+T 10 5 0 r

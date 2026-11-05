@@ -1,0 +1,23 @@
+title: Cat Flap
+text: The flap swings both ways, but the cat comes home a different colour.
+trick: a fixed doppler shifts red to blue going out and to green coming in; to come in green the beam must leave by another way
+motif: a door of conduits with a doppler flap at the bottom
+ink: 4
+expect: recolours>=1
+---
+L 0 10 2 r
+*R 1 10 1 k
+*R 1 1 5 k
+*R 13 1 7 k
+*R 13 10 1 k
+D 7 10 0 k
+T 4 10 0 ?
+T 7 1 0 ?
+C 7 3 0 k
+C 7 4 0 k
+C 7 5 0 k
+C 7 6 0 k
+C 7 7 0 k
+C 7 8 0 k
+C 7 9 0 k
+C 7 11 0 k

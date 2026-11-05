@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Laser Puzzle</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="bar">
+  <button id="menuBtn" class="icon-btn" aria-label="Levels" title="Levels">☰</button>
+  <div class="heading">
+    <div id="packName" class="pack-name"></div>
+    <div id="levelTitle" class="level-title"></div>
+  </div>
+  <button id="prevBtn" class="icon-btn" aria-label="Previous level" title="Previous level">‹</button>
+  <button id="nextBtn" class="icon-btn" aria-label="Next level" title="Next level">›</button>
+  <button id="moreBtn" class="icon-btn" aria-label="More" title="More">⋯</button>
+</header>
+<div id="moreMenu" class="popover" hidden></div>
+
+<main class="play">
+  <div class="board-col">
+    <p id="hint" class="hint"></p>
+    <div class="board-wrap">
+      <svg id="board" viewBox="-0.25 -0.25 15.5 15.5" role="img" aria-label="Board"></svg>
+      <div id="banner" class="banner" hidden></div>
+    </div>
+  </div>
+
+  <aside id="playPanel" class="side">
+    <div class="actions">
+      <button id="rotL" class="icon-btn" title="Turn left (Q)" aria-label="Turn left">⟲</button>
+      <button id="rotR" class="icon-btn" title="Turn right (E)" aria-label="Turn right">⟳</button>
+      <button id="takeBack" class="icon-btn" title="Back to toolbox (Delete)" aria-label="Back to toolbox">✕</button>
+      <span class="grow"></span>
+      <button id="backToEditor" class="text-btn" hidden>✎ Editor</button>
+      <button id="resetBtn" class="icon-btn" title="Reset" aria-label="Reset">↺</button>
+    </div>
+    <div id="toolbox" class="toolbox"></div>
+  </aside>
+
+  <aside id="editPanel" class="side editor" hidden>
+    <div class="row">
+      <span class="grow"></span>
+      <button id="edTest" class="text-btn">▶ Test</button>
+      <button id="edSave" class="text-btn">Save</button>
+      <button id="edClose" class="text-btn">Close</button>
+    </div>
+    <input id="edTitle" placeholder="Title">
+    <textarea id="edText" rows="2" placeholder="Hint text"></textarea>
+    <div id="edPalette" class="palette"></div>
+    <div id="edColours" class="colours"></div>
+    <div class="row">
+      <label class="check"><input type="checkbox" id="edMovable"> toolbox piece</label>
+      <span class="grow"></span>
+      <button id="edRotL" class="icon-btn" title="Turn left (Q)" aria-label="Turn left">⟲</button>
+      <button id="edRotR" class="icon-btn" title="Turn right (E)" aria-label="Turn right">⟳</button>
+      <button id="edDelete" class="icon-btn" title="Delete (Delete)" aria-label="Delete">✕</button>
+    </div>
+    <div id="edStatus" class="status"></div>
+    <div class="row">
+      <button id="edExport" class="text-btn">Export</button>
+      <button id="edImport" class="text-btn">Import</button>
+      <span class="grow"></span>
+      <button id="edClear" class="text-btn">Clear board</button>
+    </div>
+  </aside>
+</main>
+
+<div id="drawer" class="drawer" hidden>
+  <div class="drawer-head">
+    <strong>Laser Puzzle</strong>
+    <span class="grow"></span>
+    <button id="drawerClose" class="icon-btn" aria-label="Close">✕</button>
+  </div>
+  <div id="packList"></div>
+</div>
+
+<dialog id="textDialog">
+  <form method="dialog" class="dialog">
+    <strong id="textDialogTitle"></strong>
+    <p id="textDialogNote" class="note"></p>
+    <textarea id="textDialogText" rows="14" spellcheck="false"></textarea>
+    <div class="row">
+      <input type="file" id="textDialogFile" accept=".lvl,.txt,.json" hidden>
+      <button type="button" id="textDialogPick" class="text-btn">Choose file…</button>
+      <button type="button" id="textDialogCopy" class="text-btn">Copy</button>
+      <button type="button" id="textDialogDownload" class="text-btn">Download</button>
+      <span class="grow"></span>
+      <button value="cancel" class="text-btn">Cancel</button>
+      <button type="button" id="textDialogOk" class="text-btn primary">OK</button>
+    </div>
+    <p id="textDialogError" class="error"></p>
+  </form>
+</dialog>
+
+<script src="engine.js"></script>
+<script src="lvl.js"></script>
+<script src="render.js"></script>
+<script src="episodes.js"></script>
+<script src="app.js"></script>
+<script src="editor.js"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+title: Musical Chairs
+text: Red and blue trade seats; green keeps its own.
+trick: doppler + prism merge (split given)
+motif: flag
+ink: 2
+accept: idea
+expect: recolours>=2, merges>=1
+---
+L 1 6 2 w
+P 3 6 0 k
+B 4 7 3 k
+R 3 8 3 k
+*D 7 6 4 k
+*D 7 8 0 k
+*P 11 8 4 k
+*B 10 7 7 k
+*R 11 6 7 k
+T 6 6 0 ?
+T 6 7 0 ?
+T 6 8 0 ?
+T 8 6 0 ?
+T 8 7 0 ?
+T 8 8 0 ?
+T 12 8 0 w
+T 13 8 0 w
+T 14 8 0 w

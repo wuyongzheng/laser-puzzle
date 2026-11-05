@@ -1,0 +1,21 @@
+title: Barber's Pole
+text: Down through the base and back up again. Every stripe on the pole is painted twice.
+trick: entangled beam passes three dopplers out and back; its twin shows the palindrome
+motif: striped pole
+ink: 2.5
+expect: recolours>=3, reversals>=1
+---
+L 4 10 2 r
+R 7 14 2 k
+*Q 7 10 0 k
+*D 7 11 2 k
+*D 7 12 6 k
+*D 7 13 6 k
+T 7 9 0 r
+T 7 8 0 g
+T 7 7 0 r
+T 7 6 0 b
+T 7 5 0 b
+T 7 4 0 r
+T 7 3 0 g
+T 7 2 0 r

@@ -1,0 +1,20 @@
+title: Stopover
+text: A teleporter does not care where it was meant to send you. It sends you to the first one it finds.
+trick: a mobile teleporter dropped between a fixed pair catches the red jump halfway (so a quad bender can feed the starburst diagonally), and later throws blue back out of the far teleporter onto the red laser's own line
+motif: open field
+proof: not proved; no other solution found in 300 s
+expect: depth>=4
+---
+L 0 12 0 r
+L 14 12 6 b
+X 2 5 0 k
+X 12 5 0 k
+Z 10 7 0 k
+*R 0 5 5 k
+*R 4 12 3 k
+*x 5 5 0 k
+*b 8 5 3 k
+*r 4 7 1 k
+T 1 5 0 ?
+T 6 7 0 ?
+T 10 2 0 ?

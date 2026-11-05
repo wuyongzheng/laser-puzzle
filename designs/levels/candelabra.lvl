@@ -1,0 +1,68 @@
+title: Candelabra
+text: Each flame lights the far side of the candelabra.
+trick: the side flames cross over the top into the opposite bays, and the centre flame comes all the way round to the foot
+motif: pictogram
+expect: shared>=2
+ink: 4
+---
+L 3 4 0 r
+L 11 4 0 b
+L 7 3 0 g
+*R 3 1 5 k
+*R 10 1 7 k
+*R 10 3 1 k
+*R 8 3 5 k
+*R 11 2 7 k
+*R 4 2 5 k
+*R 4 4 3 k
+*R 6 4 7 k
+*R 7 0 7 k
+*R 0 0 5 k
+*R 0 11 3 k
+*R 5 11 7 k
+T 3 2 0 ?
+T 5 1 0 ?
+T 7 1 0 ?
+T 10 2 0 ?
+T 9 3 0 ?
+T 8 6 0 ?
+T 11 3 0 ?
+T 7 2 0 ?
+T 4 3 0 ?
+T 5 4 0 ?
+T 6 7 0 ?
+T 3 0 0 ?
+T 0 6 0 ?
+T 3 11 0 ?
+T 5 12 0 ?
+% walls
+# 7 4 0 k
+# 3 5 0 k
+# 7 5 0 k
+# 11 5 0 k
+# 3 6 0 k
+# 7 6 0 k
+# 11 6 0 k
+# 3 7 0 k
+# 7 7 0 k
+# 11 7 0 k
+# 3 8 0 k
+# 7 8 0 k
+# 11 8 0 k
+# 3 9 0 k
+# 4 9 0 k
+# 5 9 0 k
+# 6 9 0 k
+# 7 9 0 k
+# 8 9 0 k
+# 9 9 0 k
+# 10 9 0 k
+# 11 9 0 k
+# 7 10 0 k
+# 7 11 0 k
+# 7 12 0 k
+# 5 13 0 k
+# 6 13 0 k
+# 7 13 0 k
+# 8 13 0 k
+# 9 13 0 k

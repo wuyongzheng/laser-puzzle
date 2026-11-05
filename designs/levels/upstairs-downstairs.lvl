@@ -1,0 +1,36 @@
+title: Upstairs, Downstairs
+text: Two rooms upstairs with no door between them. Each laser can see its target through the wall, and the only way round is through the cellar.
+trick: one bender in the cellar's east corner turns both beams: green, which went down the middle stairwell, by 135 degrees back along the cellar floor and up the same stairwell on the other diagonal; red, coming down the east stairwell, by 45 degrees towards the west stairwell
+motif: rooms (a house in cross-section: two upstairs rooms, a floor with three stairwells, a cellar)
+expect: merges>=1, depth>=3
+---
+% the house: the floor with three stairwells, and the wall between the upstairs rooms
+L 0 5 2 g
+L 14 4 6 r
+*B 5 5 7 k
+*R 11 4 5 k
+*B 11 11 1 k
+*R 9 13 2 k
+*B 3 11 4 k
+T 9 5 0 g
+T 0 4 0 r
+T 3 7 0 r
+# 0 7 0 k
+# 1 7 0 k
+# 2 7 0 k
+# 4 7 0 k
+# 5 7 0 k
+# 6 7 0 k
+# 8 7 0 k
+# 9 7 0 k
+# 10 7 0 k
+# 12 7 0 k
+# 13 7 0 k
+# 14 7 0 k
+# 7 0 0 k
+# 7 1 0 k
+# 7 2 0 k
+# 7 3 0 k
+# 7 4 0 k
+# 7 5 0 k
+# 7 6 0 k

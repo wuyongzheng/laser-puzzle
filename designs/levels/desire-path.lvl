@@ -1,0 +1,15 @@
+title: Desire Path
+text: Everyone keeps to the pavement until two of them meet at the corner. Then they cut across the lawn.
+trick: logic gate basics: two straight beams meeting at a right angle make one diagonal beam
+motif: a lawn with a worn diagonal path from one corner to the other; beams along two pavements
+ink: 4
+expect: merges>=1
+---
+L 0 6 4 w
+L 3 14 0 y
+*R 0 11 3 k
+*G 3 11 1 k
+T 5 9 0 ?
+T 7 7 0 ?
+T 9 5 0 ?
+T 11 3 0 ?

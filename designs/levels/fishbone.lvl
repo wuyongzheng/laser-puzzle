@@ -1,0 +1,18 @@
+title: Fishbone
+text: Every rib has two sides. The light only has one way in.
+trick: mirror back through splitters
+motif: fish skeleton
+ink: 2.5
+expect: reversals>=1, shared>=3
+---
+L 1 7 2 g
+*S 4 7 1 k
+*S 7 7 1 k
+*S 10 7 1 k
+*R 13 7 0 k
+T 4 4 0 ?
+T 7 2 0 ?
+T 10 0 0 ?
+T 4 10 0 ?
+T 7 12 0 ?
+T 10 14 0 ?

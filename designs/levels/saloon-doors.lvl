@@ -1,0 +1,36 @@
+title: Saloon Doors
+text: The doors swing both ways. Go out through one, come back in through the other, and meet up at the bar.
+trick: a fixed splitter halves one red beam; one half goes north through a doppler door and turns green, the other goes round the wall and comes south through the other door and turns blue; the fixed splitter at the bar mixes them to cyan
+motif: a wall of conduits with a pair of saloon doors (dopplers) in the middle
+ink: 4
+expect: depth>=4
+---
+L 0 12 2 r
+S 6 12 1 k
+*R 6 2 7 k
+*R 1 2 5 k
+S 1 9 1 k
+*R 13 12 1 k
+*R 13 4 7 k
+*R 8 4 5 k
+*R 8 9 1 k
+D 6 7 2 k
+D 8 7 2 k
+T 6 10 0 ?
+T 6 4 0 ?
+T 4 2 0 ?
+T 13 8 0 ?
+T 11 4 0 ?
+T 4 9 0 ?
+T 1 11 0 ?
+T 0 9 0 ?
+% the wall
+C 2 7 2 k
+C 3 7 2 k
+C 4 7 2 k
+C 5 7 2 k
+C 7 7 2 k
+C 9 7 2 k
+C 10 7 2 k
+C 11 7 2 k
+C 12 7 2 k

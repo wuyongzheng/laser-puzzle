@@ -1,0 +1,66 @@
+title: Courtyard
+text: Four gates in, four gates out. Everyone crosses the courtyard.
+trick: four rotated routes enter and leave a walled courtyard, crossing inside
+motif: pictogram
+expect: shared>=6
+ink: 4
+---
+L 2 0 4 r
+L 14 2 6 g
+L 12 14 0 b
+L 0 12 2 y
+*R 2 5 3 k
+C 4 5 2 k
+*R 8 5 7 k
+C 8 10 0 k
+*R 8 12 3 k
+*R 9 2 5 k
+C 9 4 0 k
+*R 9 8 1 k
+C 4 8 2 k
+*R 2 8 5 k
+*R 12 9 7 k
+C 10 9 2 k
+*R 6 9 3 k
+C 6 4 0 k
+*R 6 2 7 k
+*R 5 12 1 k
+C 5 10 0 k
+*R 5 6 5 k
+C 10 6 2 k
+*R 12 6 1 k
+T 10 12 0 ?
+T 2 10 0 ?
+T 4 2 0 ?
+T 12 4 0 ?
+T 2 3 0 ?
+T 11 2 0 ?
+T 12 11 0 ?
+T 3 12 0 ?
+T 6 5 0 ?
+T 8 6 0 ?
+T 6 8 0 ?
+T 8 9 0 ?
+T 6 6 0 ?
+T 8 8 0 ?
+T 2 2 0 ?
+T 12 2 0 ?
+T 12 12 0 ?
+T 2 12 0 ?
+% walls
+# 4 4 0 k
+# 5 4 0 k
+# 7 4 0 k
+# 8 4 0 k
+# 10 4 0 k
+# 10 5 0 k
+# 4 6 0 k
+# 4 7 0 k
+# 10 7 0 k
+# 10 8 0 k
+# 4 9 0 k
+# 4 10 0 k
+# 6 10 0 k
+# 7 10 0 k
+# 9 10 0 k
+# 10 10 0 k

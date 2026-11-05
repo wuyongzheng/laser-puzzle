@@ -1,0 +1,28 @@
+title: Whirligig
+text: Blow on it and every vane turns the same way.
+trick: four starburst rays each turned a quarter-step the same way round
+motif: whirligig (paper windmill) on a stick of occupied squares
+ink: 4
+expect: shared>=4
+---
+L 7 14 0 c
+*B 9 5 6 k
+*B 9 9 0 k
+*B 5 9 2 k
+*B 5 5 4 k
+% map
+T 5 1 0 ?
+T 5 4 0 ?
+T 10 5 0 ?
+T 13 5 0 ?
+Z 7 7 0 k
+T 1 9 0 ?
+T 4 9 0 ?
+o 7 9 0 k
+o 7 10 0 k
+T 9 10 0 ?
+o 7 11 0 k
+o 7 12 0 k
+o 7 13 0 k
+T 9 13 0 ?
+% end map

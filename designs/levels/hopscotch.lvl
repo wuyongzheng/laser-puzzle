@@ -1,0 +1,22 @@
+title: Hopscotch
+text: Hop over the dark squares. Where you start decides where you land.
+trick: teleport chain, entry parity
+motif: hopscotch court
+ink: 2.5
+expect: depth>=2
+---
+L 12 0 4 r
+X 7 1 0 k
+X 7 3 0 k
+X 7 5 0 k
+X 7 7 0 k
+X 7 9 0 k
+X 7 11 0 k
+X 7 13 0 k
+*R 12 12 1 k
+*R 7 12 3 k
+T 7 0 0 ?
+T 7 8 0 ?
+T 7 6 0 k
+T 7 4 0 ?
+T 7 10 0 k

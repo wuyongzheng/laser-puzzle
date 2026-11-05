@@ -1,0 +1,57 @@
+title: Customs House
+text: The crystal in the gate lets some colours in and turns others away. Both lamps inside the house must burn.
+trick: the gate prism lets only blue (straight) and green (bent) in, and the red the laser carries is lost; a doppler turns the blue back into red, which runs back along the green ray (yellow) and bounces off the back of the gate crystal to the red lamp
+motif: a walled customs house with a crystal in its only gate; the laser outside aims straight at the gate as a decoy
+accept: idea
+expect: recolours>=2
+---
+L 0 14 1 w
+*B 3 11 1 k
+*R 3 7 5 k
+P 7 7 0 k
+*D 10 7 4 k
+*R 13 7 7 k
+*B 13 13 2 k
+T 12 12 0 ?
+T 13 1 0 ?
+# 7 0 0 k
+# 7 1 0 k
+# 7 2 0 k
+# 7 3 0 k
+# 7 4 0 k
+# 7 5 0 k
+# 7 6 0 k
+# 7 8 0 k
+# 7 9 0 k
+# 7 10 0 k
+# 7 11 0 k
+# 7 12 0 k
+# 7 13 0 k
+# 7 14 0 k
+# 8 0 0 k
+# 8 14 0 k
+# 9 0 0 k
+# 9 14 0 k
+# 10 0 0 k
+# 10 14 0 k
+# 11 0 0 k
+# 11 14 0 k
+# 12 0 0 k
+# 12 14 0 k
+# 13 0 0 k
+# 13 14 0 k
+# 14 0 0 k
+# 14 14 0 k
+# 14 1 0 k
+# 14 2 0 k
+# 14 3 0 k
+# 14 4 0 k
+# 14 5 0 k
+# 14 6 0 k
+# 14 7 0 k
+# 14 8 0 k
+# 14 9 0 k
+# 14 10 0 k
+# 14 11 0 k
+# 14 12 0 k
+# 14 13 0 k

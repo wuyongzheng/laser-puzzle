@@ -1,0 +1,15 @@
+ink: 2.5
+title: Folding Fan
+text: The prism opens the fan into three ribs. Only one rib should catch the light.
+trick: multi-filter picks a colour before the prism, so only one rib lights; black targets on the others
+motif: fan
+expect: recolours>=1
+---
+L 0 12 2 w
+P 7 9 3 k
+T 7 11 0 w
+T 7 4 0 k
+T 2 9 0 k
+T 3 5 0 g
+*R 7 12 1 k
+*M 7 10 3 k

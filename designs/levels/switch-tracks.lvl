@@ -1,0 +1,28 @@
+ink: 2.5
+title: Switch Tracks
+text: The train and the car are each on the wrong road. Swap them, and let them meet at the crossing.
+trick: each laser starts on the other track; detour around the conduits
+motif: level crossing
+expect: depth>=2
+---
+L 7 0 4 r
+L 0 7 2 b
+C 4 7 2 k
+C 5 7 2 k
+C 9 7 2 k
+C 10 7 2 k
+C 7 4 0 k
+C 7 5 0 k
+C 7 9 0 k
+C 7 10 0 k
+*R 7 2 3 k
+*R 12 2 7 k
+*R 12 7 1 k
+*R 2 7 7 k
+*R 2 12 3 k
+*R 7 12 1 k
+T 7 7 0 ?
+T 3 7 0 ?
+T 1 7 0 ?
+T 7 1 0 ?
+T 7 3 0 ?

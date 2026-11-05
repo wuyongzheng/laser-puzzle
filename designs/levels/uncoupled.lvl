@@ -1,0 +1,46 @@
+title: Uncoupled
+text: Twins share everything, until they don't.
+trick: disentangle
+motif: corridors
+expect: recolours>=2
+---
+L 0 5 2 r
+Q 7 5 0 k
+% the feed pipe
+C 1 5 2 k
+C 2 5 2 k
+C 3 5 2 k
+C 4 5 2 k
+C 5 5 2 k
+C 6 5 2 k
+% the twin's tube
+C 7 6 0 k
+C 7 7 0 k
+C 7 8 0 k
+C 7 9 0 k
+C 7 10 0 k
+C 7 11 0 k
+C 7 12 0 k
+% pocket south
+# 6 14 0 k
+# 7 14 0 k
+# 8 14 0 k
+# 6 13 0 k
+# 8 13 0 k
+T 7 13 0 ?
+% tall pocket north
+# 6 0 0 k
+# 7 0 0 k
+# 8 0 0 k
+# 6 1 0 k
+# 8 1 0 k
+# 6 2 0 k
+# 8 2 0 k
+T 6 3 0 k
+T 8 3 0 k
+# 6 4 0 k
+# 8 4 0 k
+T 7 1 0 ?
+*D 7 4 6 k
+*S 7 3 2 k
+*D 7 2 2 k

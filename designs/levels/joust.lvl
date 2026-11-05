@@ -1,0 +1,25 @@
+title: Joust
+text: Two knights charge down the lists. Only one of them gets past the other.
+trick: a red filter passes red from yellow but stops cyan dead, so one side of it stays yellow and the other side mixes to white
+motif: a joust: the tilt barrier is a row of conduits, the knights ride in from opposite corners
+ink: 4
+expect: recolours>=1
+---
+L 4 13 6 y
+L 10 1 2 c
+*R 0 13 3 k
+*R 0 7 5 k
+*R 14 1 7 k
+*R 14 7 1 k
+*F 7 7 0 r
+T 0 10 0 ?
+T 14 4 0 ?
+T 2 7 0 ?
+T 12 7 0 ?
+% the tilt
+C 3 7 2 k
+C 4 7 2 k
+C 6 7 2 k
+C 8 7 2 k
+C 10 7 2 k
+C 11 7 2 k

@@ -1,0 +1,19 @@
+title: Slingshot
+text: One handle, two prongs, and only one beam to feed them both.
+trick: two-way splitter
+motif: pictogram
+ink: 2.5
+expect: shared>=4
+---
+L 7 13 0 c
+*S 7 10 1 k
+*R 7 8 7 k
+*R 5 8 3 k
+*R 9 10 1 k
+T 5 3 0 ?
+T 9 3 0 ?
+T 5 6 0 ?
+T 9 6 0 ?
+T 6 8 0 ?
+T 8 10 0 ?
+T 7 9 0 ?

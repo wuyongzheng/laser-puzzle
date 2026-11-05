@@ -1,0 +1,22 @@
+ink: 2.5
+title: Paper Lantern
+text: The light goes into the lantern white and comes out white. Inside, it takes the long way round.
+trick: prism forwards then backwards: split white, carry each colour round its own path, merge it again
+motif: lantern on a cord
+expect: shared>=0
+---
+L 0 13 2 w
+T 2 13 0 ?
+T 5 2 0 ?
+T 5 8 0 ?
+T 7 10 0 ?
+T 7 6 0 ?
+T 8 12 0 ?
+T 11 8 0 ?
+T 8 4 0 ?
+*R 5 13 1 k
+*P 5 12 6 k
+P 5 4 7 k
+*R 9 8 0 k
+*R 11 12 1 k
+*R 11 4 7 k

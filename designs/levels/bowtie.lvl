@@ -1,0 +1,20 @@
+title: Bowtie
+text: The knot in the middle turns everything left. Tie it so one wing comes out red.
+trick: diagonal beams through a twister
+motif: bowtie
+ink: 2.5
+expect: recolours>=1
+---
+L 1 1 3 w
+W 7 7 0 k
+T 4 4 0 ?
+T 10 4 0 ?
+T 13 7 0 ?
+T 11 11 0 ?
+T 9 9 0 r
+T 4 10 0 ?
+T 1 7 0 ?
+*B 13 1 7 k
+*B 13 13 2 k
+*B 1 13 3 k
+*M 10 10 3 k

@@ -1,0 +1,91 @@
+title: Traffic Light
+text: Stop. Wait. Go.
+trick: splitter merge
+motif: pictogram
+expect: merges>=1, recolours>=1
+proof: not proved under the unified rules; no other solution found in 1200 s
+---
+L 13 3 6 r
+% the lamps, set in a solid housing; the box stands on a pole
+T 3 3 0 ?
+T 3 7 0 ?
+T 3 11 0 ?
+# 2 1 0 k
+# 3 1 0 k
+# 4 1 0 k
+# 2 2 0 k
+# 3 2 0 k
+# 4 2 0 k
+# 2 3 0 k
+# 2 4 0 k
+# 3 4 0 k
+# 4 4 0 k
+# 2 5 0 k
+# 3 5 0 k
+# 4 5 0 k
+# 2 6 0 k
+# 3 6 0 k
+# 4 6 0 k
+# 2 7 0 k
+# 2 8 0 k
+# 3 8 0 k
+# 4 8 0 k
+# 2 9 0 k
+# 3 9 0 k
+# 4 9 0 k
+# 2 10 0 k
+# 3 10 0 k
+# 4 10 0 k
+# 2 11 0 k
+# 2 12 0 k
+# 3 12 0 k
+# 4 12 0 k
+# 2 13 0 k
+# 3 13 0 k
+# 4 13 0 k
+# 7 14 0 k
+# 8 14 0 k
+% hoods over the lamps
+# 5 2 0 k
+# 5 4 0 k
+# 5 6 0 k
+# 5 8 0 k
+# 5 10 0 k
+# 5 12 0 k
+% the box the light is wired in
+# 5 1 0 k
+# 5 13 0 k
+# 6 1 0 k
+# 6 13 0 k
+# 7 1 0 k
+# 7 13 0 k
+# 8 1 0 k
+# 8 13 0 k
+# 9 1 0 k
+# 9 13 0 k
+# 10 1 0 k
+# 10 13 0 k
+# 11 1 0 k
+# 11 13 0 k
+# 12 1 0 k
+# 12 13 0 k
+# 13 1 0 k
+# 13 13 0 k
+# 13 2 0 k
+# 13 4 0 k
+# 13 5 0 k
+# 13 6 0 k
+# 13 7 0 k
+# 13 8 0 k
+# 13 9 0 k
+# 13 10 0 k
+# 13 11 0 k
+# 13 12 0 k
+% a clue where the amber wire crosses the green one
+T 8 11 0 y
+*S 11 3 1 k
+*D 11 5 6 k
+*S 11 7 1 k
+*R 11 11 1 k
+*S 8 3 1 k
+*S 8 7 1 k

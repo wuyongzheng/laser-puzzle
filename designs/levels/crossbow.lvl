@@ -1,0 +1,20 @@
+title: Crossbow
+text: Shoot two colours back at the prism and see where they land.
+trick: head-on splitters send two colours back through the prism, which returns them as one beam along the white path to the first splitter
+motif: crossbow
+ink: 2.5
+expect: reversals>=2
+---
+L 0 7 2 w
+T 3 4 0 ?
+T 3 10 0 ?
+T 3 13 0 ?
+T 11 7 0 ?
+T 7 9 0 ?
+T 7 13 0 ?
+T 9 9 0 ?
+T 12 12 0 ?
+*S 3 7 1 k
+*P 7 7 0 k
+*S 10 10 1 k
+*S 7 11 2 k

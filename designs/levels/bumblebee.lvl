@@ -1,0 +1,24 @@
+title: Bumblebee
+text: Yellow stripes, black stripes. Keep the black ones dark.
+trick: splitter merge
+motif: pictogram
+ink: 2.5
+expect: merges>=1
+---
+L 0 12 0 r
+L 14 1 6 g
+*R 0 5 5 k
+*R 4 1 5 k
+*S 4 5 3 k
+*R 4 9 3 k
+% stripes
+T 7 3 0 k
+T 10 3 0 k
+T 7 5 0 ?
+T 10 5 0 ?
+T 7 7 0 k
+T 10 7 0 k
+T 7 9 0 ?
+T 10 9 0 ?
+T 7 11 0 k
+T 10 11 0 k

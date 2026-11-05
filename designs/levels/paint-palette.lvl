@@ -1,0 +1,28 @@
+title: Paint Palette
+text: Mix one yellow, then let the dopplers do the rest.
+trick: splitter merge + doppler
+motif: pictogram
+ink: 2.5
+expect: merges>=1, recolours>=2
+---
+L 0 10 2 r
+L 4 14 0 g
+*S 4 10 1 k
+*D 4 6 2 k
+*D 8 10 0 k
+*R 4 3 5 k
+*R 11 10 1 k
+% paint
+T 4 12 0 ?
+T 2 10 0 ?
+T 4 8 0 ?
+T 4 5 0 ?
+T 7 3 0 ?
+T 10 10 0 ?
+T 11 7 0 ?
+T 11 3 0 ?
+% thumb hole
+T 7 6 0 k
+T 8 6 0 k
+T 7 7 0 k
+T 8 7 0 k

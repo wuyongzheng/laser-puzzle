@@ -1,0 +1,14 @@
+title: Hare and Tortoise
+text: Two runners leave together. One of them knows a shortcut.
+trick: entangled twin, timing through a teleporter
+motif: race lanes
+ink: 2.5
+expect: recolours>=1
+---
+L 0 7 2 r
+X 7 8 0 k
+X 7 13 0 k
+T 7 14 0 ?
+T 7 0 0 ?
+*Q 7 7 0 k
+*D 7 6 6 k

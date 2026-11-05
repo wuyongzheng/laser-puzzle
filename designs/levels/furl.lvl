@@ -1,0 +1,20 @@
+title: Furl
+text: Fold the flag back up.
+trick: prism merge
+motif: flag
+ink: 2
+accept: idea
+expect: merges>=1
+---
+L 13 7 6 b
+L 13 8 6 g
+L 13 9 6 r
+*P 4 7 0 k
+*B 5 8 3 k
+*R 4 9 3 k
+T 1 7 0 w
+T 2 7 0 w
+T 3 7 0 w
+T 10 7 0 ?
+T 10 8 0 ?
+T 10 9 0 ?

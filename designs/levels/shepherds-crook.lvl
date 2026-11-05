@@ -1,0 +1,13 @@
+ink: 2.5
+title: Shepherd's Crook
+text: The knot at the top of the crook only ever turns left. Come at it from the right side.
+trick: a twister turns the beam left, whichever way it comes in; enter it from below to bend the hook over to the staff
+motif: crook
+expect: depth>=2
+---
+L 14 7 6 r
+W 6 3 0 k
+T 5 3 0 ?
+T 4 9 0 ?
+*R 6 7 3 k
+*R 4 3 5 k

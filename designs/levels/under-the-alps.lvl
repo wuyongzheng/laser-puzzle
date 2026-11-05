@@ -1,0 +1,48 @@
+title: Under the Alps
+text: A MOBILE TELEPORTER is a teleporter you place yourself. Light entering one jumps ahead to the next teleporter in its direction of travel, so two of them make a tunnel through anything in between, in any direction.
+trick: two mobile teleporters, one on each side of the mountain, form a tunnel
+motif: snowy mountain with a railway tunnel through it
+---
+L 0 14 1 m
+T 1 13 0 ?
+*x 3 11 0 k
+*x 9 5 0 k
+T 11 3 0 ?
+T 13 1 0 ?
+% the mountain
+# 7 5 0 k
+# 6 6 0 k
+# 7 6 0 k
+# 8 6 0 k
+# 5 7 0 k
+# 6 7 0 k
+# 7 7 0 k
+# 8 7 0 k
+# 9 7 0 k
+# 4 8 0 k
+# 5 8 0 k
+# 6 8 0 k
+# 7 8 0 k
+# 8 8 0 k
+# 9 8 0 k
+# 10 8 0 k
+# 3 9 0 k
+# 4 9 0 k
+# 5 9 0 k
+# 6 9 0 k
+# 7 9 0 k
+# 8 9 0 k
+# 9 9 0 k
+# 10 9 0 k
+# 11 9 0 k
+# 2 10 0 k
+# 3 10 0 k
+# 4 10 0 k
+# 5 10 0 k
+# 6 10 0 k
+# 7 10 0 k
+# 8 10 0 k
+# 9 10 0 k
+# 10 10 0 k
+# 11 10 0 k
+# 12 10 0 k

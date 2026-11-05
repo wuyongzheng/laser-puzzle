@@ -1,0 +1,56 @@
+title: Raising the Colours
+text: Three colours, one filter, one flag.
+trick: three white copies (two splitters, a reflector and a 135-degree bender from the bottom) cross at one multi-filter; the one coming down leaves red, the one from the side blue, the diagonal one green; a reflector and a bender then lay red and green along the flag beside blue, so no target line points back at the junction
+motif: pictogram (a flag on a pole: the flag is occupied squares, the pole a wall; the laser line is the halyard to the pole top)
+expect: shared>=2
+proof: not proved; no other solution found in 300 s
+---
+L 0 2 2 w
+*S 2 2 3 k
+*R 7 2 7 k
+*S 2 7 3 k
+*B 2 12 3 k
+*M 7 7 0 k
+*R 7 9 3 k
+*B 9 5 6 k
+T 12 5 0 ?
+T 12 7 0 ?
+T 12 9 0 ?
+o 10 4 0 k
+o 11 4 0 k
+o 12 4 0 k
+o 13 4 0 k
+o 10 5 0 k
+o 11 5 0 k
+o 13 5 0 k
+o 10 6 0 k
+o 11 6 0 k
+o 12 6 0 k
+o 13 6 0 k
+o 10 7 0 k
+o 11 7 0 k
+o 13 7 0 k
+o 10 8 0 k
+o 11 8 0 k
+o 12 8 0 k
+o 13 8 0 k
+o 10 9 0 k
+o 11 9 0 k
+o 13 9 0 k
+o 10 10 0 k
+o 11 10 0 k
+o 12 10 0 k
+o 13 10 0 k
+# 14 3 0 k
+# 14 4 0 k
+# 14 5 0 k
+# 14 6 0 k
+# 14 7 0 k
+# 14 8 0 k
+# 14 9 0 k
+# 14 10 0 k
+# 14 11 0 k
+# 14 12 0 k
+# 14 13 0 k
+# 14 14 0 k
+# 14 2 0 k

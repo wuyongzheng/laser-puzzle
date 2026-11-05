@@ -1,0 +1,49 @@
+title: Trading Places
+text: Four rooms and two cannons. Each muzzle wants a colour its own laser does not have.
+trick: blue reaches the red muzzle by running backwards up red's own beam: one splitter in the south-west room, where the two beams cross at right angles, sends each colour back along the other's path into the other's barrel, and its straight-through blue turns down to the blue target
+motif: rooms (a floor plan: four rooms, four doors, two cannons in opposite corners)
+expect: merges>=1, reversals>=1
+---
+L 0 4 2 r
+L 14 12 6 b
+T 1 4 0 m
+T 13 12 0 m
+T 0 10 0 b
+# 0 3 0 k
+# 1 3 0 k
+# 0 5 0 k
+# 1 5 0 k
+# 14 11 0 k
+# 13 11 0 k
+# 14 13 0 k
+# 13 13 0 k
+# 0 7 0 k
+# 1 7 0 k
+# 2 7 0 k
+# 4 7 0 k
+# 5 7 0 k
+# 6 7 0 k
+# 7 7 0 k
+# 8 7 0 k
+# 9 7 0 k
+# 10 7 0 k
+# 12 7 0 k
+# 13 7 0 k
+# 14 7 0 k
+# 7 0 0 k
+# 7 1 0 k
+# 7 2 0 k
+# 7 3 0 k
+# 7 4 0 k
+# 7 6 0 k
+# 7 8 0 k
+# 7 10 0 k
+# 7 11 0 k
+# 7 12 0 k
+# 7 13 0 k
+# 7 14 0 k
+*reflector 3 4 7 k
+*reflector 12 12 3 k
+*reflector 12 9 7 k
+*splitter 3 9 3 k
+*bender 1 9 6 k

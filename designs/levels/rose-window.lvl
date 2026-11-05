@@ -1,0 +1,33 @@
+title: Rose Window
+text: Yellow glass in the window, and not a yellow filter in sight.
+trick: one prism is lit by two white beams at once, from below and from the south-east; the red of one and the green of the other leave together as yellow, twice, and the prism swallows both blues
+motif: symmetric frame
+expect: merges>=1
+proof: not proved; no other solution found in 300 s
+---
+L 11 14 0 w
+T 4 7 0 y
+T 10 4 0 y
+T 14 0 0 g
+*S 11 13 3 k
+*R 7 13 3 k
+*B 11 11 0 k
+*P 7 7 0 k
+*M 12 2 0 k
+% the rose window
+# 4 5 0 k
+# 4 6 0 k
+# 4 8 0 k
+# 4 9 0 k
+# 5 4 0 k
+# 5 10 0 k
+# 6 4 0 k
+# 6 10 0 k
+# 8 4 0 k
+# 8 10 0 k
+# 9 4 0 k
+# 9 10 0 k
+# 10 5 0 k
+# 10 6 0 k
+# 10 8 0 k
+# 10 9 0 k

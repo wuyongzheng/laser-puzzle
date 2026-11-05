@@ -1,0 +1,20 @@
+title: Paper Fan
+text: Open the fan, then fold it shut again.
+trick: split + prism merge + mirror back
+motif: fan
+ink: 2.5
+expect: reversals>=1, merges>=1
+---
+L 1 6 2 w
+*S 4 6 1 k
+*P 7 6 0 k
+*R 12 6 0 k
+*R 11 10 1 k
+*R 7 11 2 k
+T 4 0 0 ?
+T 4 14 0 ?
+T 10 6 0 ?
+T 9 8 0 ?
+T 7 9 0 ?
+T 4 2 0 ?
+T 4 10 0 ?

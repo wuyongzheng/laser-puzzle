@@ -1,0 +1,11 @@
+title: Chameleon
+text: A MULTI-FILTER is glass with a different colour on each side: light keeps only red, green or blue depending on which side it enters by, and between them are corners where it passes unchanged. Find the one turn that colours both beams right.
+trick: one multi-filter gives two crossing beams two different colours
+motif: two white beams crossing, one level and one diagonal
+---
+L 1 9 2 w
+L 8 14 1 w
+*M 7 9 1 k
+*R 10 12 0 k
+T 11 9 0 ?
+T 4 6 0 ?

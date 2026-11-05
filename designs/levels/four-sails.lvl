@@ -1,0 +1,52 @@
+title: Four Sails
+text: Catch the wind in every sail.
+trick: four rotated routes; each ends in a sail, and they cross around the hub
+motif: pictogram
+expect: shared>=4
+ink: 4
+---
+L 14 1 6 r
+L 13 14 0 g
+L 0 13 2 b
+L 1 0 4 y
+*R 11 1 5 k
+*R 11 6 1 k
+*R 13 11 7 k
+*R 8 11 3 k
+*R 3 13 1 k
+*R 3 8 5 k
+*R 1 3 3 k
+*R 6 3 7 k
+T 3 6 0 ?
+T 8 3 0 ?
+T 11 8 0 ?
+T 6 11 0 ?
+T 8 6 0 ?
+T 6 6 0 ?
+T 8 8 0 ?
+T 6 8 0 ?
+% walls
+# 7 2 0 k
+# 8 2 0 k
+# 9 2 0 k
+# 7 3 0 k
+# 7 4 0 k
+# 2 5 0 k
+# 7 5 0 k
+# 2 6 0 k
+# 2 7 0 k
+# 3 7 0 k
+# 4 7 0 k
+# 5 7 0 k
+# 9 7 0 k
+# 10 7 0 k
+# 11 7 0 k
+# 12 7 0 k
+# 12 8 0 k
+# 7 9 0 k
+# 12 9 0 k
+# 7 10 0 k
+# 7 11 0 k
+# 5 12 0 k
+# 6 12 0 k
+# 7 12 0 k

@@ -1,0 +1,19 @@
+title: Spooky Action
+text: Nothing can be placed in the conduits. Then again, nothing has to be.
+---
+L 0 7 2 r
+C 7 3 0 b
+C 7 4 0 b
+C 7 5 0 b
+C 7 6 0 b
+T 7 2 0 g
+# 6 1 0 b
+# 7 1 0 b
+# 8 1 0 b
+# 6 2 0 b
+# 8 2 0 b
+# 6 3 0 b
+# 8 3 0 b
+T 7 12 0 b
+*D 7 10 2 b
+*Q 7 7 0 b

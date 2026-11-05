@@ -1,0 +1,23 @@
+title: Curtain Call
+text: WHITE light is red, green and blue together. A white target is only happy when all three reach it at once. Bring every stage light down on the star of the show.
+trick: three primaries meet on one target to make white
+motif: a lighting rig of three lasers whose beams fan down onto a stage
+---
+% the rig
+L 2 1 4 g
+L 7 1 4 r
+L 12 1 4 b
+*B 2 5 4 k
+*B 12 5 1 k
+% the star
+T 7 10 0 ?
+% the stage
+# 3 12 0 k
+# 4 12 0 k
+# 5 12 0 k
+# 6 12 0 k
+# 7 12 0 k
+# 8 12 0 k
+# 9 12 0 k
+# 10 12 0 k
+# 11 12 0 k

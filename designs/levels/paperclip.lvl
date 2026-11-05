@@ -1,0 +1,27 @@
+title: Paperclip
+text: Bend the wire round twice. Where it doubles back on itself, let it slip through.
+trick: teleport bridges, one row used both ways
+motif: paperclip
+ink: 2.5
+expect: depth>=5
+---
+L 0 13 2 b
+X 4 4 0 k
+X 6 4 0 k
+X 8 4 0 k
+X 10 4 0 k
+*R 2 13 1 k
+*R 2 4 5 k
+*R 12 4 7 k
+*R 12 10 1 k
+*R 9 10 3 k
+*R 9 4 7 k
+*R 5 4 5 k
+T 2 8 0 ?
+T 7 4 0 ?
+T 12 7 0 ?
+T 10 10 0 ?
+T 9 5 0 ?
+T 5 5 0 ?
+T 9 7 0 ?
+T 3 4 0 ?

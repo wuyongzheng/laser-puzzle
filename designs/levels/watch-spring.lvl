@@ -1,0 +1,26 @@
+ink: 2.5
+title: Watch Spring
+text: Wind the spring inwards. It only ever turns left, and somewhere along the way it turns red.
+trick: an inward spiral of left turns; two fixed twisters show the way round, one multi-filter changes the colour partway
+motif: paper clip
+expect: recolours>=1
+---
+L 12 14 0 w
+W 2 12 0 k
+W 4 10 0 k
+T 12 8 0 ?
+T 7 2 0 ?
+T 2 7 0 ?
+T 9 12 0 ?
+T 10 8 0 ?
+T 7 4 0 ?
+T 4 7 0 ?
+T 6 10 0 ?
+T 8 7 0 ?
+*R 12 2 7 k
+*R 2 2 5 k
+*R 10 12 1 k
+*M 10 10 0 k
+*R 10 4 7 k
+*R 4 4 5 k
+*R 8 10 1 k

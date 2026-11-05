@@ -1,0 +1,38 @@
+title: Swimming Pool
+text: Only blue is allowed in the pool. Swim a lap.
+trick: the prism in the gap is turned so that it lets only blue through; turned the usual way, its green would spill into the pool
+motif: pictogram
+expect: shared>=1
+ink: 4
+accept: idea
+---
+L 7 1 4 w
+*P 7 8 3 k
+*R 7 10 1 k
+*R 5 10 3 k
+*R 5 9 5 k
+*R 9 9 7 k
+*R 9 10 1 k
+T 7 7 0 ?
+T 6 10 0 ?
+T 6 9 0 ?
+T 8 9 0 ?
+T 8 10 0 ?
+% walls
+# 4 8 0 k
+# 5 8 0 k
+# 6 8 0 k
+# 8 8 0 k
+# 9 8 0 k
+# 10 8 0 k
+# 4 9 0 k
+# 10 9 0 k
+# 4 10 0 k
+# 10 10 0 k
+# 4 11 0 k
+# 5 11 0 k
+# 6 11 0 k
+# 7 11 0 k
+# 8 11 0 k
+# 9 11 0 k
+# 10 11 0 k

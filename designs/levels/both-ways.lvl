@@ -1,0 +1,15 @@
+title: Both Ways
+text: A doppler cares which way you go through it.
+trick: doppler
+motif: open field
+expect: recolours>=2
+---
+L 0 9 2 r
+T 12 5 0 ?
+T 12 9 0 ?
+T 6 9 0 ?
+T 6 5 0 ?
+*S 4 9 1 k
+*R 4 5 5 k
+*D 8 5 0 k
+*D 8 9 4 k

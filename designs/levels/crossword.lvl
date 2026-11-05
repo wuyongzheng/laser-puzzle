@@ -1,0 +1,51 @@
+title: Crossword
+text: Across, then down. Where words cross, letters mix.
+trick: reflector routes that cross; crossing squares take both colours
+motif: pictogram
+expect: shared>=3
+ink: 4
+---
+L 0 1 2 r
+L 14 13 6 b
+L 7 0 4 g
+L 7 14 0 g
+*R 9 1 7 k
+*R 9 5 1 k
+*R 2 5 5 k
+*R 2 10 3 k
+*R 5 13 3 k
+*R 5 9 5 k
+*R 12 9 1 k
+*R 12 4 7 k
+*R 7 6 3 k
+*R 7 8 7 k
+T 9 4 0 ?
+T 5 10 0 ?
+T 7 10 0 ?
+T 7 4 0 ?
+T 8 6 0 ?
+T 6 8 0 ?
+% walls
+# 4 0 0 k
+# 10 1 0 k
+# 3 2 0 k
+# 8 2 0 k
+# 0 3 0 k
+# 1 3 0 k
+# 12 3 0 k
+# 6 4 0 k
+# 13 4 0 k
+# 1 5 0 k
+# 9 6 0 k
+# 7 7 0 k
+# 5 8 0 k
+# 13 9 0 k
+# 1 10 0 k
+# 8 10 0 k
+# 2 11 0 k
+# 13 11 0 k
+# 14 11 0 k
+# 6 12 0 k
+# 11 12 0 k
+# 4 13 0 k
+# 10 14 0 k

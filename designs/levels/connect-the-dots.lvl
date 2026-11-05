@@ -1,0 +1,21 @@
+title: Connect the Dots
+text: One beam. Every pinwheel.
+trick: shared beam
+motif: open field
+expect: depth>=4, shared>=3
+---
+L 1 13 0 r
+T 1 9 0 ?
+T 5 2 0 ?
+T 12 8 0 ?
+T 8 11 0 ?
+T 5 6 0 ?
+*R 1 2 5 k
+*B 9 2 7 k
+*B 12 5 0 k
+*R 12 11 1 k
+*R 5 11 3 k
+T 1 7 0 r  % repair
+T 10 3 0 r  % repair
+T 11 4 0 r  % repair
+T 7 2 0 r  % repair

@@ -1,0 +1,61 @@
+title: Rigging
+text: Rig the ship from bow and stern. The red and blue stays are mirror images.
+trick: two mirror-image diagonal beams zigzag over the masts as stays, crossing each other at every magenta knot, and end against the masts
+motif: pictogram
+expect: shared>=4
+ink: 4
+---
+L 0 8 1 r
+L 14 8 7 b
+*R 3 5 0 k
+*R 0 2 4 k
+*R 2 0 6 k
+*R 5 3 2 k
+*R 8 0 6 k
+*R 13 5 0 k
+*R 11 5 4 k
+*R 14 2 0 k
+*R 12 0 6 k
+*R 9 3 2 k
+*R 6 0 6 k
+*R 1 5 4 k
+T 1 1 0 ?
+T 2 4 0 ?
+T 2 6 0 ?
+T 4 2 0 ?
+T 7 1 0 ?
+T 10 2 0 ?
+T 12 4 0 ?
+T 12 6 0 ?
+T 13 1 0 ?
+% walls
+# 7 3 0 k
+# 7 4 0 k
+# 4 5 0 k
+# 7 5 0 k
+# 10 5 0 k
+# 4 6 0 k
+# 7 6 0 k
+# 10 6 0 k
+# 4 7 0 k
+# 7 7 0 k
+# 10 7 0 k
+# 4 8 0 k
+# 7 8 0 k
+# 10 8 0 k
+# 4 9 0 k
+# 7 9 0 k
+# 10 9 0 k
+# 1 10 0 k
+# 2 10 0 k
+# 3 10 0 k
+# 4 10 0 k
+# 5 10 0 k
+# 6 10 0 k
+# 7 10 0 k
+# 8 10 0 k
+# 9 10 0 k
+# 10 10 0 k
+# 11 10 0 k
+# 12 10 0 k
+# 13 10 0 k

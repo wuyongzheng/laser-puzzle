@@ -1,0 +1,16 @@
+title: Double Glazing
+text: There is no red glass and no green glass in the box. Two panes together can still do it.
+trick: stacked filters: yellow then cyan leaves green, yellow then magenta leaves red; with one yellow pane it must go before the split
+motif: open field
+expect: recolours>=3
+---
+L 0 9 2 w
+*F 2 9 0 y
+*S 6 9 1 k
+*F 9 9 0 c
+*F 6 6 2 m
+*R 6 4 5 k
+T 4 9 0 ?
+T 12 9 0 ?
+T 11 4 0 ?
+T 6 5 0 ?

@@ -1,0 +1,11 @@
+title: Street Lamp
+text: Light passes straight through a pinwheel and keeps going, so one beam can light several pinwheels in a row. Every pinwheel must be lit.
+trick: one beam passes through several targets
+motif: street lamp
+expect: shared>=1
+---
+L 12 2 6 b
+T 8 2 0 ?
+*R 3 2 5 k
+T 3 7 0 ?
+T 3 12 0 ?

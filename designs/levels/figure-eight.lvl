@@ -1,0 +1,39 @@
+title: Figure Eight
+text: A skater crosses her own tracks, and the ice remembers both colours.
+trick: the beam crosses its own path at the middle of an eight; a doppler on one loop makes the two passes differ, so the crossing mixes both
+motif: a figure eight skated round two patches of ice (occupied squares)
+ink: 4
+expect: recolours>=1
+accept: idea
+---
+L 3 14 0 r
+*R 3 7 5 k
+*R 11 7 1 k
+*D 11 5 6 k
+*R 11 3 7 k
+*R 7 3 5 k
+*R 7 11 1 k
+T 7 7 0 ?
+T 9 7 0 ?
+T 9 3 0 ?
+T 5 11 0 ?
+T 3 11 0 ?
+% ice
+o 8 4 0 k
+o 9 4 0 k
+o 10 4 0 k
+o 8 5 0 k
+o 9 5 0 k
+o 10 5 0 k
+o 8 6 0 k
+o 9 6 0 k
+o 10 6 0 k
+o 4 8 0 k
+o 5 8 0 k
+o 6 8 0 k
+o 4 9 0 k
+o 5 9 0 k
+o 6 9 0 k
+o 4 10 0 k
+o 5 10 0 k
+o 6 10 0 k

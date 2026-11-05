@@ -1,0 +1,21 @@
+title: Watermelon
+text: A slice with a green rind, red flesh and dark seeds.
+trick: split
+motif: pictogram
+ink: 2.5
+expect: recolours>=1
+---
+L 14 13 0 w
+*B 14 7 7 k
+*P 13 8 3 k
+*S 7 2 2 k
+% rind
+T 4 8 0 ?
+T 10 8 0 ?
+% flesh
+T 5 4 0 ?
+T 9 4 0 ?
+% seeds
+T 7 4 0 k
+T 6 6 0 k
+T 8 6 0 k

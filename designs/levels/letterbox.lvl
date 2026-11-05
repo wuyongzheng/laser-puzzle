@@ -1,0 +1,25 @@
+title: Letterbox
+text: Only one slot in the wall, and two letters to post. Sort them again on the other side.
+trick: merge red and blue in a splitter to squeeze both through one slot, then split the magenta and filter it back into red and blue
+motif: fence with one slot
+expect: merges>=1, recolours>=2
+---
+L 1 7 2 r
+L 4 13 0 b
+*S 4 7 1 k
+*S 10 7 3 k
+*F 12 7 0 r
+*F 10 10 2 b
+T 7 7 0 ?
+T 13 7 0 ?
+T 10 12 0 ?
+# 7 2 0 k
+# 7 3 0 k
+# 7 4 0 k
+# 7 5 0 k
+# 7 6 0 k
+# 7 8 0 k
+# 7 9 0 k
+# 7 10 0 k
+# 7 11 0 k
+# 7 12 0 k

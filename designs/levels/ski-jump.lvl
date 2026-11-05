@@ -1,0 +1,14 @@
+title: Ski Jump
+text: The BENDER is a mirror set at a slant. It turns a beam halfway round a corner: from straight to diagonal, or from diagonal to straight. Send the skier down the slope and off the jump.
+trick: routing with benders, diagonal to straight and back
+motif: ski jump
+ink: 2.5
+expect: shared>=2
+---
+L 1 3 3 b
+*B 7 9 3 k
+*B 11 9 2 k
+T 4 6 0 ?
+T 9 9 0 ?
+T 12 8 0 ?
+T 14 6 0 ?

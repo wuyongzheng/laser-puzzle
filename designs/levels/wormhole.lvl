@@ -1,0 +1,25 @@
+title: Wormhole
+text: The purple rings are TELEPORTERS. Light entering one comes out of the next one straight ahead, still going the same way, skipping anything in between, even a wall.
+trick: a fixed teleporter pair carries the beam through a wall; it carries on after the jump
+motif: a wall with a wormhole through it
+---
+L 2 12 0 r
+*R 2 6 5 k
+X 4 6 0 k
+X 10 6 0 k
+*R 12 6 7 k
+T 12 10 0 ?
+T 11 6 0 ?
+# 7 1 0 k
+# 7 2 0 k
+# 7 3 0 k
+# 7 4 0 k
+# 7 5 0 k
+# 7 6 0 k
+# 7 7 0 k
+# 7 8 0 k
+# 7 9 0 k
+# 7 10 0 k
+# 7 11 0 k
+# 7 12 0 k
+# 7 13 0 k

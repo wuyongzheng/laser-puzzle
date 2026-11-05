@@ -1,0 +1,87 @@
+title: Speaking Tube
+text: Shout into one pipe and listen. An old ship's voice pipe carries your words a long way, and what you hear back is not always quite what you said.
+trick: the yellow target is at the top of a pipe that opens only onto the white beam's own lane: red and green are sent straight back by two head-on reflectors, recombine in the prism, run home along the white beam, and a splitter on that lane taps the returning yellow off up the pipe
+motif: pictogram (a ship's voice pipes: a sealed pipe to the yellow target, a feed pipe up into a room, a hall below)
+expect: reversals>=2, merges>=1
+---
+L 0 7 2 w
+T 4 1 0 y
+T 4 13 0 w
+T 13 1 0 b
+*S 4 7 3 k
+*R 8 7 1 k
+*R 8 1 5 k
+*P 10 1 0 k
+*R 10 4 2 k
+*R 12 3 1 k
+% structure
+# 3 0 0 k
+# 4 0 0 k
+# 5 0 0 k
+# 6 0 0 k
+# 7 0 0 k
+# 8 0 0 k
+# 9 0 0 k
+# 10 0 0 k
+# 11 0 0 k
+# 12 0 0 k
+# 13 0 0 k
+# 14 0 0 k
+# 3 1 0 k
+# 5 1 0 k
+# 14 1 0 k
+# 3 2 0 k
+# 5 2 0 k
+# 7 2 0 k
+# 9 2 0 k
+# 14 2 0 k
+# 3 3 0 k
+# 5 3 0 k
+# 7 3 0 k
+# 9 3 0 k
+# 14 3 0 k
+# 3 4 0 k
+# 5 4 0 k
+# 7 4 0 k
+# 9 4 0 k
+# 14 4 0 k
+# 3 5 0 k
+# 5 5 0 k
+# 7 5 0 k
+# 9 5 0 k
+# 14 5 0 k
+# 0 6 0 k
+# 1 6 0 k
+# 2 6 0 k
+# 3 6 0 k
+# 5 6 0 k
+# 6 6 0 k
+# 7 6 0 k
+# 9 6 0 k
+# 10 6 0 k
+# 11 6 0 k
+# 12 6 0 k
+# 13 6 0 k
+# 14 6 0 k
+# 14 7 0 k
+# 14 8 0 k
+# 14 9 0 k
+# 14 10 0 k
+# 14 11 0 k
+# 14 12 0 k
+# 14 13 0 k
+# 0 14 0 k
+# 1 14 0 k
+# 2 14 0 k
+# 3 14 0 k
+# 4 14 0 k
+# 5 14 0 k
+# 6 14 0 k
+# 7 14 0 k
+# 8 14 0 k
+# 9 14 0 k
+# 10 14 0 k
+# 11 14 0 k
+# 12 14 0 k
+# 13 14 0 k
+# 14 14 0 k

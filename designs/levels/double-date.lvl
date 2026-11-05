@@ -1,0 +1,27 @@
+title: Double Date
+text: Two colours, two targets, one meeting place.
+trick: splitter merge
+motif: symmetric frame
+expect: merges>=1, shared>=2
+---
+L 5 14 6 r
+L 0 9 4 b
+% pocket north, open to the south
+# 6 0 0 k
+# 7 0 0 k
+# 8 0 0 k
+# 6 1 0 k
+# 8 1 0 k
+T 7 1 0 ?
+% pocket east, open to the west (mirror image)
+# 14 6 0 k
+# 14 7 0 k
+# 14 8 0 k
+# 13 6 0 k
+# 13 8 0 k
+T 13 7 0 ?
+*R 2 7 5 k
+*R 7 12 1 k
+*S 7 7 1 k
+*R 2 14 3 k
+*R 0 12 3 k

@@ -1,0 +1,27 @@
+title: Snowman
+text: Build him out of red, green and blue. Then give him a hat.
+trick: prism merge
+motif: pictogram
+ink: 2.5
+expect: merges>=1
+---
+L 1 6 4 r
+L 0 13 2 g
+L 13 14 6 b
+*R 1 12 3 k
+*B 6 13 2 k
+*R 7 14 3 k
+*P 7 12 2 k
+% three snowballs
+T 7 10 0 w
+T 7 7 0 w
+T 7 4 0 w
+% coal eyes
+T 6 4 0 k
+T 8 4 0 k
+% his top hat
+# 6 3 0 k
+# 7 3 0 k
+# 8 3 0 k
+# 7 2 0 k
+# 7 1 0 k

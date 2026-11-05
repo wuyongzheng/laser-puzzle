@@ -1,0 +1,11 @@
+title: Purple Patch
+---
+L 14 8 6 r
+L 0 12 2 b
+T 12 6 0 m
+T 8 2 0 b
+T 11 8 0 k
+T 13 9 0 k
+*R 12 8 3 b
+*B 7 1 6 b
+*S 7 12 1 b

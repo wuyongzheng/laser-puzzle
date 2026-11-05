@@ -1,0 +1,41 @@
+title: Sneeze Guard
+text: Customer and cashier stand at either end of a long counter, and what one breathes out must not reach the other. The green parcels still have to get to both of them through the hatches. You have the one screen in the shop, and the mirrors are spoken for.
+trick: a splitter edge-on stops a beam dead from both sides, so it is the screen between red and blue; on the same square, green coming through a hatch on the slant still splits, one branch back over the counter and round to the cashier, the other through the counter and round to the customer. A mirror as screen with the splitter elsewhere is one piece too many
+motif: pictogram (a long counter between two people, with hatches in both sides, the screen off-centre)
+expect: depth>=3
+---
+L 0 7 2 r
+L 14 7 6 b
+L 4 1 5 g
+*R 2 3 4 k
+*S 6 7 2 k
+*R 9 4 6 k
+*R 7 8 0 k
+*R 3 12 2 k
+*R 0 9 4 k
+T 2 7 0 y
+T 12 7 0 c
+% walls
+# 0 6 0 k
+# 1 6 0 k
+# 2 6 0 k
+# 3 6 0 k
+# 4 6 0 k
+# 6 6 0 k
+# 8 6 0 k
+# 9 6 0 k
+# 10 6 0 k
+# 12 6 0 k
+# 14 6 0 k
+# 0 8 0 k
+# 2 8 0 k
+# 3 8 0 k
+# 5 8 0 k
+# 6 8 0 k
+# 8 8 0 k
+# 9 8 0 k
+# 10 8 0 k
+# 11 8 0 k
+# 12 8 0 k
+# 13 8 0 k
+# 14 8 0 k

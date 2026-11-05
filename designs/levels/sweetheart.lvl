@@ -1,0 +1,30 @@
+title: Sweetheart
+text: Two halves make a whole heart, and only together are they red.
+trick: logic gate: magenta AND yellow gives the red no laser has
+motif: heart outline traced by two beams meeting at a gate
+ink: 4
+expect: merges>=1
+---
+L 5 2 5 m
+L 9 2 3 y
+*B 3 4 5 k
+*B 3 7 4 k
+*B 11 4 0 k
+*B 11 7 1 k
+*G 7 11 4 k
+% map
+o 4 1 0 k
+o 5 1 0 k
+o 6 1 0 k
+o 8 1 0 k
+o 9 1 0 k
+o 10 1 0 k
+o 3 2 0 k
+o 7 2 0 k
+o 11 2 0 k
+T 3 6 0 ?
+T 11 6 0 ?
+T 5 9 0 ?
+T 9 9 0 ?
+T 7 13 0 ?
+% end map

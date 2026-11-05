@@ -1,0 +1,27 @@
+title: Skyscraper
+text: The lift only stops where you get out. A splitter lets the light step off at a floor and ride on up at the same time.
+trick: teleporter lift; splitters in the lift's gaps serve two floors and keep the beam rising; dopplers colour each floor
+motif: skyscraper with a lift shaft
+ink: 2.5
+expect: recolours>=3, shared>=3
+---
+L 2 13 2 r
+R 7 13 1 k
+X 7 12 0 k
+X 7 9 0 k
+X 7 6 0 k
+X 7 3 0 k
+*S 7 8 1 k
+*S 7 7 3 k
+*D 10 8 4 k
+*D 4 7 4 k
+*D 7 2 6 k
+*R 7 1 5 k
+*D 11 1 0 k
+T 4 13 0 ?
+T 9 8 0 ?
+T 12 8 0 ?
+T 5 7 0 ?
+T 2 7 0 ?
+T 8 1 0 ?
+T 13 1 0 ?

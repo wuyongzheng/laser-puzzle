@@ -1,0 +1,39 @@
+title: Ring Road
+text: The conduits only go one way. The corners go any way.
+trick: conduit
+motif: corridors
+expect: depth>=2
+---
+L 13 0 6 b
+L 0 13 2 g
+T 7 7 0 ?
+T 3 11 0 ?
+# 3 3 0 k
+# 11 3 0 k
+T 11 11 0 ?
+*R 4 0 5 k
+*B 4 4 4 k
+*R 10 13 1 k
+*B 10 4 7 k
+C 5 4 2 k
+C 5 10 2 k
+C 4 5 0 k
+C 10 5 0 k
+C 6 4 2 k
+C 6 10 2 k
+C 4 6 0 k
+C 10 6 0 k
+C 7 4 2 k
+C 7 10 2 k
+C 4 7 0 k
+C 10 7 0 k
+C 8 4 2 k
+C 8 10 2 k
+C 4 8 0 k
+C 10 8 0 k
+C 9 4 2 k
+C 9 10 2 k
+C 4 9 0 k
+C 10 9 0 k
+T 10 10 0 ?
+T 4 2 0 ?

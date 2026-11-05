@@ -1,0 +1,29 @@
+title: Crown Jewels
+text: Each jewel is set where two bands of the crown meet, and it keeps only what they share.
+trick: three logic gates; splitters in the valleys feed one colour to two gates, so red, yellow, cyan and blue make red, green and blue jewels
+motif: a crown: a zigzag of beams with a gate and a jewel at each point
+ink: 4
+expect: shared>=4
+---
+L 1 11 0 r
+L 4 11 0 y
+L 10 11 0 c
+L 13 11 0 b
+B 1 8 5 k
+*B 4 9 5 k
+*S 5 8 0 k
+*B 10 9 0 k
+*S 9 8 0 k
+B 13 8 0 k
+G 3 6 0 k
+G 7 6 0 k
+G 11 6 0 k
+T 3 4 0 r
+T 7 4 0 g
+T 11 4 0 b
+T 2 7 0 r
+T 4 7 0 y
+T 6 7 0 y
+T 8 7 0 c
+T 10 7 0 c
+T 12 7 0 b

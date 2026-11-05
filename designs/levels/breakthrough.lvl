@@ -1,0 +1,74 @@
+title: Breakthrough
+text: Two crews dig from opposite sides of the mountain and meet under the summit. There is nothing in the toolbox to mix light with, and neither crew sets out in a colour the other side's lamp wants.
+trick: the fixed doppler in the tunnel turns red going east and green going west into the same blue, so each laser must fly over the mountain to the far portal and enter from there; with no splitter, the only way to mix is for the two beams to run head-on along one shared road from laser to laser, each picking up the other's blue
+motif: pictogram: a mountain of walls with a conduit tunnel through it, a doppler at the meeting point, a lamp on the summit, lasers on the valley floor
+expect: merges>=2, reversals>=2, recolours>=2
+---
+L 14 13 0 r
+*R 14 1 7 k
+*R 1 1 5 k
+*R 1 9 3 k
+L 0 13 0 g
+*R 0 4 5 k
+*R 13 4 7 k
+*R 13 9 1 k
+D 7 9 0 k
+C 3 9 2 k
+C 4 9 2 k
+C 5 9 2 k
+C 6 9 2 k
+C 8 9 2 k
+C 9 9 2 k
+C 10 9 2 k
+C 11 9 2 k
+# 2 10 0 k
+# 2 11 0 k
+# 2 12 0 k
+# 3 10 0 k
+# 3 11 0 k
+# 3 12 0 k
+# 4 8 0 k
+# 4 10 0 k
+# 4 11 0 k
+# 4 12 0 k
+# 5 7 0 k
+# 5 8 0 k
+# 5 10 0 k
+# 5 11 0 k
+# 5 12 0 k
+# 6 6 0 k
+# 6 7 0 k
+# 6 8 0 k
+# 6 10 0 k
+# 6 11 0 k
+# 6 12 0 k
+# 7 5 0 k
+# 7 6 0 k
+# 7 7 0 k
+# 7 8 0 k
+# 7 10 0 k
+# 7 11 0 k
+# 7 12 0 k
+# 8 6 0 k
+# 8 7 0 k
+# 8 8 0 k
+# 8 10 0 k
+# 8 11 0 k
+# 8 12 0 k
+# 9 7 0 k
+# 9 8 0 k
+# 9 10 0 k
+# 9 11 0 k
+# 9 12 0 k
+# 10 8 0 k
+# 10 10 0 k
+# 10 11 0 k
+# 10 12 0 k
+# 11 10 0 k
+# 11 11 0 k
+# 11 12 0 k
+# 12 10 0 k
+# 12 11 0 k
+# 12 12 0 k
+T 1 3 0 m
+T 7 4 0 c

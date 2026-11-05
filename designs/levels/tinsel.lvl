@@ -1,0 +1,22 @@
+title: Tinsel
+text: Drape the tinsel from the star down to the pot, a new colour on every branch of the tree.
+trick: zigzag of reflectors, a doppler on each branch; which way a doppler faces picks the colour
+motif: christmas tree
+ink: 2.5
+expect: recolours>=4
+---
+L 7 0 5 y
+*R 6 1 4 k
+*D 8 3 5 k
+*R 9 4 0 k
+*D 7 6 7 k
+*R 4 9 4 k
+*D 5 10 1 k
+B 7 12 0 k
+*D 7 13 2 k
+T 7 2 0 ?
+T 8 5 0 ?
+T 6 7 0 ?
+T 5 8 0 ?
+T 6 11 0 ?
+T 7 14 0 ?

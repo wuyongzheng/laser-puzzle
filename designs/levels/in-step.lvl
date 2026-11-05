@@ -1,0 +1,46 @@
+title: In Step
+text: Far apart, but never out of step.
+trick: entangled twin
+motif: corridors
+expect: recolours>=1
+---
+L 7 14 0 r
+% the laser's slot
+# 6 12 0 k
+# 8 12 0 k
+# 6 13 0 k
+# 8 13 0 k
+# 6 14 0 k
+# 8 14 0 k
+*Q 7 11 6 k
+*R 2 11 3 k
+*D 2 6 6 k
+*R 12 11 1 k
+# 2 12 0 k
+# 12 12 0 k
+% west pocket
+T 2 2 0 ?
+# 1 1 0 k
+# 2 1 0 k
+# 3 1 0 k
+# 1 2 0 k
+# 3 2 0 k
+% east corridor: conduits, nothing can be placed here
+C 8 11 2 k
+C 9 11 2 k
+C 10 11 2 k
+C 11 11 2 k
+C 12 10 0 k
+C 12 9 0 k
+T 12 8 0 ?
+C 12 7 0 k
+C 12 6 0 k
+C 12 5 0 k
+C 12 4 0 k
+C 12 3 0 k
+T 12 2 0 ?
+# 11 1 0 k
+# 12 1 0 k
+# 13 1 0 k
+# 11 2 0 k
+# 13 2 0 k

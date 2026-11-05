@@ -1,0 +1,14 @@
+title: Dowsing Rod
+text: A LOGIC GATE lights up only when two beams arrive at once, on the slant from both sides of its back. It sends out one beam straight ahead, in the colour the two beams have in common.
+trick: logic gate basics: yellow and cyan meet in the gate and only their shared green comes out
+motif: a forked dowsing rod: two handles, two slanted arms, one tip
+expect: merges>=1
+---
+L 3 14 0 y
+L 11 14 0 c
+*B 3 10 5 k
+*B 11 10 0 k
+*G 7 6 0 k
+T 5 8 0 ?
+T 7 2 0 ?
+T 9 8 0 ?

@@ -1,0 +1,51 @@
+title: Pegboard
+text: Light only runs in the gaps between the pegs. Four lasers spin a pinwheel round the board.
+trick: a 4x4 grid of pegs lets beams travel and turn only on the lines between pegs; four rotated three-turn routes interlock, and the mixed dots mark where neighbours cross
+motif: pictogram
+expect: shared>=4
+ink: 4
+---
+L 0 3 2 r
+L 11 0 4 b
+L 14 11 6 g
+L 3 14 0 b
+*R 3 3 7 k
+*R 11 3 1 k
+*R 11 11 3 k
+*R 3 11 5 k
+*R 3 7 3 k
+*R 7 3 5 k
+*R 11 7 7 k
+*R 7 11 1 k
+*R 5 7 7 k
+*R 7 5 1 k
+*R 9 7 3 k
+*R 7 9 5 k
+T 3 5 0 ?
+T 9 3 0 ?
+T 11 9 0 ?
+T 5 11 0 ?
+T 4 7 0 ?
+T 7 4 0 ?
+T 10 7 0 ?
+T 7 10 0 ?
+T 5 9 0 ?
+T 5 5 0 ?
+T 9 5 0 ?
+T 9 9 0 ?
+# 4 4 0 k
+# 4 6 0 k
+# 4 8 0 k
+# 4 10 0 k
+# 6 4 0 k
+# 6 6 0 k
+# 6 8 0 k
+# 6 10 0 k
+# 8 4 0 k
+# 8 6 0 k
+# 8 8 0 k
+# 8 10 0 k
+# 10 4 0 k
+# 10 6 0 k
+# 10 8 0 k
+# 10 10 0 k

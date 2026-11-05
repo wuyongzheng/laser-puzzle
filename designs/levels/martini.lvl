@@ -1,0 +1,25 @@
+title: Martini
+text: Strike the olive at a slant and it lights the rim of the glass. Where the rim pours down, the two streams must meet.
+trick: a starburst hit diagonally fires straight; its two side rays are bent down into a logic gate that pours the stem
+motif: a martini glass: rim, V-shaped bowl, olive on a stick, stem and foot of occupied squares
+ink: 4
+expect: merges>=1
+---
+L 0 1 2 r
+*B 5 1 7 k
+Z 7 3 0 k
+*B 11 3 0 k
+*B 3 3 5 k
+*G 7 7 4 k
+T 7 5 0 ?
+C 7 6 2 k
+T 9 5 0 ?
+T 5 5 0 ?
+T 7 9 0 ?
+T 7 11 0 ?
+o 5 13 0 k
+o 6 13 0 k
+o 7 13 0 k
+o 8 13 0 k
+o 9 13 0 k
+T 6 2 0 ?

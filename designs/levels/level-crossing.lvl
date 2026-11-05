@@ -1,0 +1,52 @@
+title: Level Crossing
+text: Two railway lines cross. Get both trains off the tracks and over to the far side.
+trick: one bender at the crossing derails both beams; teleporter pairs hop them over the line
+motif: two conduit railway lines crossing in the middle
+ink: 4
+expect: depth>=4
+---
+L 0 7 2 r
+L 7 0 4 b
+*B 7 7 1 k
+*B 4 4 4 k
+*R 4 2 5 k
+*x 6 2 0 k
+*x 8 2 0 k
+*B 4 10 5 k
+*R 4 12 3 k
+*x 6 12 0 k
+*x 8 12 0 k
+% map
+C 7 1 0 k
+C 7 2 0 k
+T 10 2 0 ?
+T 12 2 0 ?
+T 4 3 0 ?
+C 7 3 0 k
+C 7 4 0 k
+C 7 5 0 k
+C 7 6 0 k
+C 1 7 2 k
+C 2 7 2 k
+C 3 7 2 k
+C 4 7 2 k
+C 5 7 2 k
+C 6 7 2 k
+C 8 7 2 k
+C 9 7 2 k
+C 10 7 2 k
+C 11 7 2 k
+C 12 7 2 k
+C 13 7 2 k
+C 14 7 2 k
+C 7 8 0 k
+C 7 9 0 k
+C 7 10 0 k
+T 4 11 0 ?
+C 7 11 0 k
+C 7 12 0 k
+T 10 12 0 ?
+T 12 12 0 ?
+C 7 13 0 k
+C 7 14 0 k
+% end map

@@ -1,0 +1,33 @@
+title: Loopholes
+text: Three archers, three loopholes, one white arrow.
+trick: the prism fans white into three angles; the loopholes are conduits that pass only one slant, so the prism must sit where the green ray already fits and the blue and red rays are bent into theirs
+motif: a castle wall of walls with three slanted loopholes (diagonal conduits)
+ink: 4
+expect: recolours>=1
+---
+L 9 14 0 w
+*R 9 13 7 k
+*R 5 13 3 k
+*P 5 11 6 k
+*B 5 8 0 k
+*B 7 11 2 k
+T 12 4 0 ?
+T 1 4 0 ?
+T 13 5 0 ?
+T 7 13 0 ?
+% the wall
+C 3 6 3 k
+C 10 6 1 k
+C 12 6 1 k
+# 0 6 0 k
+# 1 6 0 k
+# 2 6 0 k
+# 4 6 0 k
+# 5 6 0 k
+# 6 6 0 k
+# 7 6 0 k
+# 8 6 0 k
+# 9 6 0 k
+# 11 6 0 k
+# 13 6 0 k
+# 14 6 0 k

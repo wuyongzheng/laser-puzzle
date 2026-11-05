@@ -1,0 +1,16 @@
+title: Lightning Bolt
+text: Strike from the top and zig, zag, zig to the ground.
+trick: long chain
+motif: pictogram
+ink: 2.5
+expect: depth>=3
+---
+L 10 1 4 y
+*B 10 3 1 k
+*B 6 7 4 k
+*B 9 7 0 k
+T 9 4 0 ?
+T 7 7 0 ?
+T 8 7 0 ?
+T 6 10 0 ?
+T 4 12 0 ?

@@ -1,0 +1,27 @@
+title: Rainbow Bridge
+text: Every colour has its own way across.
+trick: split
+motif: fence
+expect: recolours>=1, depth>=3
+---
+L 7 14 0 w
+T 2 2 0 ?
+T 7 2 0 ?
+T 13 4 0 ?
+T 7 8 0 m
+*P 7 10 6 k
+*R 13 10 1 k
+*R 13 8 7 k
+*R 2 8 3 k
+# 0 6 0 k
+# 1 6 0 k
+# 3 6 0 k
+# 4 6 0 k
+# 5 6 0 k
+# 6 6 0 k
+# 8 6 0 k
+# 9 6 0 k
+# 10 6 0 k
+# 12 6 0 k
+# 13 6 0 k
+# 14 6 0 k

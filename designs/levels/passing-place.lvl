@@ -1,0 +1,45 @@
+title: Passing Place
+text: A single-track road with two drivers nose to nose, and each one's turning is on the far side of the other. Nobody is reversing.
+trick: three teleporters on one line: the middle one is the far end of both tunnels, red going east and blue going west; each beam dies at the outer one the other enters by
+motif: a single-track road (one walled lane) between two lasers, one turning off to the north and one to the south
+expect: depth>=3
+---
+L 0 7 2 r
+L 14 7 6 b
+T 12 2 0 r
+T 12 12 0 b
+*x 2 7 0 k
+*x 6 7 0 k
+*x 10 7 0 k
+*R 3 7 5 k
+*R 3 12 3 k
+*R 8 7 1 k
+*R 8 2 5 k
+# 0 6 0 k
+# 1 6 0 k
+# 2 6 0 k
+# 3 6 0 k
+# 4 6 0 k
+# 5 6 0 k
+# 6 6 0 k
+# 7 6 0 k
+# 9 6 0 k
+# 10 6 0 k
+# 11 6 0 k
+# 12 6 0 k
+# 13 6 0 k
+# 14 6 0 k
+# 0 8 0 k
+# 1 8 0 k
+# 2 8 0 k
+# 4 8 0 k
+# 5 8 0 k
+# 6 8 0 k
+# 7 8 0 k
+# 8 8 0 k
+# 9 8 0 k
+# 10 8 0 k
+# 11 8 0 k
+# 12 8 0 k
+# 13 8 0 k
+# 14 8 0 k

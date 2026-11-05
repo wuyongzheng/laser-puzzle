@@ -1,0 +1,40 @@
+title: Five Spot
+text: A die showing five. The spots are the only places on it you can use.
+trick: an occupied die leaves only its five spots free; red crosses the face corner to corner, blue runs along its foot
+motif: die face: 5x5 block of occupied squares with five free spots
+ink: 4
+expect: depth>=3
+---
+L 5 4 4 r
+L 5 10 0 b
+*B 5 5 4 k
+*R 7 7 2 k
+*B 9 5 1 k
+*R 9 3 7 k
+*R 5 9 5 k
+*R 9 9 7 k
+% map
+T 5 3 0 ?
+T 9 4 0 ?
+o 6 5 0 k
+o 7 5 0 k
+o 8 5 0 k
+o 5 6 0 k
+T 6 6 0 ?
+o 7 6 0 k
+T 8 6 0 ?
+o 9 6 0 k
+o 5 7 0 k
+o 6 7 0 k
+o 8 7 0 k
+o 9 7 0 k
+o 5 8 0 k
+o 6 8 0 k
+o 7 8 0 k
+o 8 8 0 k
+o 9 8 0 k
+o 6 9 0 k
+T 7 9 0 ?
+o 8 9 0 k
+T 9 10 0 ?
+% end map

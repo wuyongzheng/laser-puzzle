@@ -1,0 +1,15 @@
+title: Chopsticks
+text: A SPLITTER lets half of a beam straight through and bounces the other half off at a right angle. It works backwards too: two beams that meet in a splitter mix, and the mixed colour leaves both ways. Red and green make yellow.
+trick: splitter merge: both outputs carry the mix
+motif: chopsticks
+ink: 2.5
+expect: merges>=1
+---
+L 7 13 0 r
+L 12 9 6 g
+*S 7 9 3 k
+*R 4 9 3 k
+T 7 11 0 ?
+T 10 9 0 ?
+T 7 4 0 ?
+T 4 4 0 ?

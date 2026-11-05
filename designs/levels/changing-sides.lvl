@@ -1,0 +1,33 @@
+title: Changing Sides
+text: Both beams start red. They part as different colours.
+trick: doppler
+motif: symmetric frame
+expect: recolours>=2
+---
+L 2 14 0 r
+L 12 14 0 r
+T 2 10 0 ?
+T 12 10 0 ?
+T 7 4 0 ?
+T 10 1 0 ?
+T 4 1 0 ?
+# 9 0 0 k
+# 10 0 0 k
+# 11 0 0 k
+# 9 1 0 k
+# 11 1 0 k
+# 10 2 0 k
+# 11 2 0 k
+# 5 0 0 k
+# 4 0 0 k
+# 3 0 0 k
+# 5 1 0 k
+# 3 1 0 k
+# 4 2 0 k
+# 3 2 0 k
+*D 2 12 6 k
+*B 2 9 5 k
+*D 4 7 7 k
+*D 12 12 2 k
+*B 12 9 0 k
+*D 10 7 1 k

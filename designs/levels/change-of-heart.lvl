@@ -1,0 +1,17 @@
+title: Change of Heart
+text: One straight beam lights white, then cyan. Nothing stands between them.
+trick: a tangler's twin changes colour in mid-flight: filter the other twin to red and shift it, close enough to the tangler, and the near twin loses red after it has passed the white target
+motif: open field; the laser points straight at the blue target as a decoy
+ink: 1
+expect: recolours>=2
+proof: not proved; no other solution found in 300 s
+---
+L 2 14 0 w
+*R 2 10 5 k
+*Q 8 10 0 k
+*F 8 9 2 r
+*D 8 8 6 k
+*R 8 3 7 k
+T 2 3 0 b
+T 8 11 0 w
+T 8 14 0 c

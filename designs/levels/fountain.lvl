@@ -1,0 +1,29 @@
+title: Fountain
+text: Two pipes feed one jet. The water only rises when both are running.
+trick: a logic gate joins cyan and magenta into a blue jet that sets off a starburst straight up, spraying diagonally into the basin
+motif: a fountain: occupied basin, a vertical jet, a starburst head spraying down to the rim
+ink: 4
+expect: merges>=1, depth>=3
+---
+L 0 6 4 c
+L 14 6 4 m
+*R 0 13 3 k
+*R 14 13 1 k
+*B 5 13 2 k
+*B 9 13 3 k
+*G 7 11 0 k
+Z 7 5 0 k
+T 7 10 0 ?
+T 2 10 0 ?
+T 12 10 0 ?
+T 2 13 0 ?
+T 12 13 0 ?
+o 3 12 0 k
+o 4 12 0 k
+o 5 12 0 k
+o 6 12 0 k
+o 7 12 0 k
+o 8 12 0 k
+o 9 12 0 k
+o 10 12 0 k
+o 11 12 0 k

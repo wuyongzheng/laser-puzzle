@@ -1,0 +1,16 @@
+title: Spillway
+text: Walls stop light. The laser points straight at a wall, so use two REFLECTORS to carry the beam along the top and over the edge.
+trick: two reflectors route around a wall
+motif: water spilling over a ledge
+---
+L 7 5 4 g
+# 4 7 0 k
+# 5 7 0 k
+# 6 7 0 k
+# 7 7 0 k
+# 8 7 0 k
+# 9 7 0 k
+# 10 7 0 k
+*R 7 6 3 k
+*R 11 6 7 k
+T 11 11 0 ?

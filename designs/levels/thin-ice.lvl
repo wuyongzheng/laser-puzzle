@@ -1,0 +1,75 @@
+title: Thin Ice
+text: Nothing can be placed on the frozen pond, yet the skater crossing it must change colour twice before reaching the far bank.
+trick: the ice forbids a doppler on the crossing beam, so a tangler sends a twin the other way; a doppler on the twin recolours the skater at the same distance from the tangler, so the two dopplers must sit on the bank at the distances of the gaps between the holes (red to blue after the first hole, blue to green before the far bank)
+motif: a frozen pond of occupied squares with two fishing holes; the laser on the east bank, the twin walks the west bank
+expect: recolours>=2
+proof: not proved; no other solution found in 300 s
+---
+L 14 13 6 r
+*Q 7 13 4 k
+*R 7 14 1 k
+*D 3 14 0 k
+*R 1 14 3 k
+*D 1 12 2 k
+T 7 9 0 r
+T 7 6 0 b
+T 7 2 0 g
+T 1 1 0 b
+o 5 3 0 k
+o 6 3 0 k
+o 7 3 0 k
+o 8 3 0 k
+o 9 3 0 k
+o 4 4 0 k
+o 5 4 0 k
+o 6 4 0 k
+o 7 4 0 k
+o 8 4 0 k
+o 9 4 0 k
+o 10 4 0 k
+o 3 5 0 k
+o 4 5 0 k
+o 5 5 0 k
+o 6 5 0 k
+o 7 5 0 k
+o 8 5 0 k
+o 9 5 0 k
+o 10 5 0 k
+o 11 5 0 k
+o 3 6 0 k
+o 4 6 0 k
+o 5 6 0 k
+o 6 6 0 k
+o 8 6 0 k
+o 9 6 0 k
+o 10 6 0 k
+o 11 6 0 k
+o 3 7 0 k
+o 4 7 0 k
+o 5 7 0 k
+o 6 7 0 k
+o 7 7 0 k
+o 8 7 0 k
+o 9 7 0 k
+o 10 7 0 k
+o 11 7 0 k
+o 3 8 0 k
+o 4 8 0 k
+o 5 8 0 k
+o 6 8 0 k
+o 7 8 0 k
+o 8 8 0 k
+o 9 8 0 k
+o 10 8 0 k
+o 11 8 0 k
+o 4 9 0 k
+o 5 9 0 k
+o 6 9 0 k
+o 8 9 0 k
+o 9 9 0 k
+o 10 9 0 k
+o 5 10 0 k
+o 6 10 0 k
+o 7 10 0 k
+o 8 10 0 k
+o 9 10 0 k

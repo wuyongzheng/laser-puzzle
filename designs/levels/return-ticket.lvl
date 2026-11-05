@@ -1,0 +1,21 @@
+title: Return Ticket
+text: White on the way out, blue on the way home. The tunnels let nothing touch the light.
+trick: recolour at the far end of two teleporter tunnels
+motif: two parallel tunnels
+ink: 2.5
+expect: recolours>=2
+---
+L 0 4 2 w
+T 1 4 0 ?
+X 2 4 0 k
+X 12 4 0 k
+X 12 10 0 k
+X 2 10 0 k
+T 1 10 0 ?
+T 7 4 0 k
+T 7 10 0 k
+*R 13 4 7 k
+*F 13 5 2 g
+T 13 7 0 g
+*D 13 8 6 k
+*R 13 10 1 k

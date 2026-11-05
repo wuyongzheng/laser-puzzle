@@ -1,0 +1,14 @@
+title: Crow's Foot
+text: The PRISM splits white light into red, green and blue, and sends each colour off at its own angle. Hit it at a slant and give the crow three toes.
+trick: split
+motif: bird's footprint
+ink: 2.5
+expect: recolours>=1
+---
+L 5 14 0 w
+*B 5 11 5 k
+*P 7 9 4 k
+T 7 5 0 ?
+T 10 6 0 ?
+T 4 6 0 ?
+T 7 3 0 ?   % the middle toe is the longest

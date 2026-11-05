@@ -1,0 +1,75 @@
+title: Half Shares
+text: One yellow, two partners, two different answers.
+trick: gate fed by splitter
+motif: symmetric frame
+expect: merges>=2
+---
+L 5 0 4 y
+L 0 8 0 m
+L 14 8 0 c
+% the floor, with two chutes
+# 0 9 0 k
+# 1 9 0 k
+# 2 9 0 k
+# 3 9 0 k
+# 5 9 0 k
+# 6 9 0 k
+# 7 9 0 k
+# 8 9 0 k
+# 9 9 0 k
+# 11 9 0 k
+# 12 9 0 k
+# 13 9 0 k
+# 14 9 0 k
+# 3 10 0 k
+# 5 10 0 k
+# 9 10 0 k
+# 11 10 0 k
+# 3 11 0 k
+# 5 11 0 k
+# 9 11 0 k
+# 11 11 0 k
+# 3 12 0 k
+# 5 12 0 k
+# 9 12 0 k
+# 11 12 0 k
+# 3 13 0 k
+# 5 13 0 k
+# 9 13 0 k
+# 11 13 0 k
+# 3 14 0 k
+# 5 14 0 k
+# 9 14 0 k
+# 11 14 0 k
+% the hall between the gates
+# 7 3 0 k
+# 6 4 0 k
+# 8 4 0 k
+# 7 5 0 k
+# 6 6 0 k
+# 7 6 0 k
+# 8 6 0 k
+# 5 7 0 k
+# 6 7 0 k
+# 7 7 0 k
+# 8 7 0 k
+# 9 7 0 k
+# 5 8 0 k
+# 6 8 0 k
+# 7 8 0 k
+# 8 8 0 k
+# 9 8 0 k
+# 4 6 0 k
+# 10 6 0 k
+T 4 14 0 ?
+T 10 14 0 ?
+T 6 5 0 ?
+T 8 5 0 ?
+T 2 5 0 ?
+T 12 5 0 ?
+*B 5 2 4 k
+*S 7 4 0 k
+*B 0 3 6 k
+*B 14 3 7 k
+*G 4 7 4 k
+*G 10 7 4 k

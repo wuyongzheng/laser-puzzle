@@ -1,0 +1,46 @@
+title: Shoelaces
+text: Red teeth on the left, blue teeth on the right. Every mirror in the middle is shared.
+trick: red and blue interlock down a column of dual reflectors, each using the face the other leaves free
+motif: pictogram
+expect: shared>=4
+ink: 4
+---
+L 7 2 4 b
+L 0 4 2 r
+*r 7 4 3 k
+*R 11 4 7 k
+*R 11 6 1 k
+*r 7 6 1 k
+*r 7 8 3 k
+*R 11 8 7 k
+*R 11 10 1 k
+*r 7 10 1 k
+*R 3 6 5 k
+*R 3 8 3 k
+T 7 3 0 ?
+T 9 4 0 ?
+T 11 5 0 ?
+T 9 6 0 ?
+T 7 7 0 ?
+T 9 8 0 ?
+T 11 9 0 ?
+T 9 10 0 ?
+T 7 11 0 ?
+T 2 4 0 ?
+T 7 5 0 ?
+T 5 6 0 ?
+T 3 7 0 ?
+T 5 8 0 ?
+T 7 9 0 ?
+T 4 10 0 ?
+% walls
+# 8 5 0 k
+# 9 5 0 k
+# 10 5 0 k
+# 4 7 0 k
+# 5 7 0 k
+# 6 7 0 k
+# 8 9 0 k
+# 9 9 0 k
+# 10 9 0 k
+# 7 13 0 k

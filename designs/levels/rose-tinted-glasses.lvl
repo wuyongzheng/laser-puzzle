@@ -1,0 +1,24 @@
+title: Rose-Tinted Glasses
+text: Everything looks rosier through these.
+trick: filter
+motif: pictogram
+ink: 2.5
+expect: recolours>=2
+---
+L 0 3 2 w
+*S 4 3 3 k
+*R 10 3 7 k
+*F 4 7 2 r
+*F 10 7 2 r
+% daylight above the lenses
+T 4 5 0 ?
+T 10 5 0 ?
+% the view through them
+T 4 10 0 ?
+T 10 10 0 ?
+% the frame
+T 3 7 0 k
+T 5 7 0 k
+T 7 7 0 k
+T 9 7 0 k
+T 11 7 0 k

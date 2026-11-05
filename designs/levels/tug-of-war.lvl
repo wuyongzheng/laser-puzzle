@@ -1,0 +1,18 @@
+title: Tug of War
+text: Two teams pull on one rope. Which side of the knot are you on?
+trick: one doppler hit from both sides shifts each beam a different way
+motif: rope between two teams
+ink: 2.5
+expect: recolours>=2
+---
+L 0 3 2 r
+L 14 11 6 r
+*R 5 3 7 k
+*R 5 7 3 k
+*R 9 11 3 k
+*R 9 7 7 k
+*D 7 7 0 k
+T 5 5 0 ?
+T 9 9 0 ?
+T 6 7 0 ?
+T 8 7 0 ?

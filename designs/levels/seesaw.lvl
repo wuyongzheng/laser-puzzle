@@ -1,0 +1,13 @@
+title: Seesaw
+text: A quantum TANGLER splits a beam into twins that fly off in opposite directions. When one twin passes through a DOPPLER, the other twin changes colour too, at the same moment, but the opposite way.
+trick: the doppler on one twin recolours the other twin from the matching distance on
+motif: seesaw: a post with a plank balanced on top
+---
+L 7 13 0 r
+*Q 7 7 6 k
+T 8 7 0 ?
+*D 10 7 0 k
+T 12 7 0 ?
+T 5 7 0 ?
+T 2 7 0 ?
+T 7 10 0 ?

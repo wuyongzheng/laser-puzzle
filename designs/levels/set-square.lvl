@@ -1,0 +1,16 @@
+title: Set Square
+text: The light crosses its own path once. One filter, two angles.
+trick: multi-filter at a self-crossing: white passes on the diagonal axis, the return leg turns green
+motif: set square
+ink: 2.5
+expect: recolours>=1
+---
+L 0 10 2 w
+T 8 10 0 ?
+T 8 7 0 ?
+T 4 9 0 ?
+T 4 11 0 ?
+T 4 13 0 ?
+*M 4 10 3 k
+*B 11 10 1 k
+*B 4 3 6 k

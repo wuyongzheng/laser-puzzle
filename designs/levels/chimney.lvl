@@ -1,0 +1,8 @@
+title: Chimney
+text: Drag the REFLECTOR from the toolbox onto the board, and click it to turn it. A reflector is a mirror: it bounces the beam off at a right angle. Send the beam up the chimney to light the pinwheel.
+trick: one reflector turns the beam onto the target
+motif: stove pipe and chimney
+---
+L 1 10 2 r
+*R 9 10 1 k
+T 9 4 0 ?

@@ -1,0 +1,21 @@
+title: String Telephone
+text: Red talks, blue listens. Keep the line unbroken between them.
+trick: shared beam
+motif: open field
+ink: 2.5
+expect: shared>=5
+---
+L 1 2 2 r
+L 2 12 2 b
+*R 4 2 7 k
+*R 4 7 3 k
+*R 10 7 1 k
+*R 10 4 5 k
+*R 12 4 7 k
+*R 12 12 1 k
+T 4 4 0 ?
+T 6 7 0 ?
+T 10 6 0 ?
+T 11 4 0 ?
+T 12 9 0 ?
+T 7 12 0 ?

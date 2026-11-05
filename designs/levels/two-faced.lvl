@@ -1,0 +1,23 @@
+title: Two-Faced
+text: Every coin has two sides.
+trick: dual reflector, one beam on each face
+motif: diagonal
+expect: shared>=1
+---
+L 0 12 2 r
+L 14 2 6 b
+*B 2 12 2 k
+*B 12 2 6 k
+*r 7 7 0 k
+% red: NE arm, then NW arm
+T 4 10 0 r
+T 5 9 0 r
+T 5 5 0 r
+T 3 3 0 r
+T 1 1 0 r
+% blue: SW arm, then SE arm
+T 10 4 0 b
+T 9 5 0 b
+T 9 9 0 b
+T 11 11 0 b
+T 13 13 0 b

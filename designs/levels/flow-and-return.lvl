@@ -1,0 +1,33 @@
+title: Flow and Return
+text: One red boiler, one valve, one pipe. Each window in the pipe wants a colour the boiler cannot make, and nothing can be fitted inside the pipe.
+trick: the doppler valve shifts red to blue for light flowing east and to green for light flowing west; a splitter at the west end sends red into the pipe from both ends at once, so the west window sees red and green (yellow) and the east window blue and red (magenta)
+motif: plumbing: a long conduit pipe with a doppler valve and two windows, a riser pipe down to the floor beside the boiler; the boiler aims straight at the valve, which only absorbs it
+expect: merges>=2, recolours>=2
+---
+L 7 14 0 r
+*R 7 10 7 k
+*R 0 10 3 k
+*S 0 7 1 k
+*R 0 0 5 k
+*R 14 0 7 k
+*R 14 7 1 k
+D 7 7 0 k
+T 4 7 0 ?
+T 10 7 0 ?
+C 1 7 2 k
+C 2 7 2 k
+C 3 7 2 k
+C 5 7 2 k
+C 6 7 2 k
+C 8 7 2 k
+C 9 7 2 k
+C 11 7 2 k
+C 12 7 2 k
+C 13 7 2 k
+C 8 8 0 k
+C 8 9 0 k
+C 8 10 0 k
+C 8 11 0 k
+C 8 12 0 k
+C 8 13 0 k
+C 8 14 0 k

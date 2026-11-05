@@ -1,0 +1,25 @@
+title: Tributary
+text: Where the stream meets the river, the water mixes.
+trick: a splitter where two beams cross at right angles merges them: both ways out carry the mix
+motif: a river with a tributary, drawn as beds of occupied squares
+ink: 4
+expect: merges>=1
+---
+L 0 0 2 b
+L 0 13 0 r
+*R 7 0 7 k
+*R 0 7 5 k
+*S 7 7 3 k
+T 7 2 0 ?
+T 2 7 0 ?
+T 7 13 0 ?
+% the river beds
+o 7 4 0 k
+o 7 5 0 k
+o 7 6 0 k
+o 4 7 0 k
+o 5 7 0 k
+o 6 7 0 k
+o 7 8 0 k
+o 7 9 0 k
+o 7 10 0 k

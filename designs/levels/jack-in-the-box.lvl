@@ -1,0 +1,40 @@
+title: Jack-in-the-Box
+text: The lid is shut tight, but the corners are open. Get red and blue inside to spring the jack, then catch it as it springs out.
+trick: the conduit box can't be entered straight on, so teleporter pairs carry red and blue in; struck square-on by both, the starburst springs out magenta through the open corners, and a mirror outside each corner catches one ray
+motif: a jack-in-the-box: a small conduit box with open corners, the starburst jack inside, four magenta rays springing out of the corners
+ink: 4
+expect: shared>=2
+---
+L 3 7 2 r
+L 7 11 0 b
+Z 7 7 0 k
+*x 4 7 0 k
+*x 6 7 0 k
+*x 7 10 0 k
+*x 7 8 0 k
+*R 12 2 0 k
+*R 2 12 2 k
+*R 2 2 4 k
+*R 12 12 2 k
+T 11 1 0 ?
+T 1 11 0 ?
+T 3 1 0 ?
+T 13 11 0 ?
+o 6 6 0 k
+o 8 6 0 k
+o 6 8 0 k
+o 8 8 0 k
+o 7 6 0 k
+o 8 7 0 k
+C 6 5 2 k
+C 6 9 2 k
+C 5 6 0 k
+C 9 6 0 k
+C 7 5 2 k
+C 7 9 2 k
+C 5 7 0 k
+C 9 7 0 k
+C 8 5 2 k
+C 8 9 2 k
+C 5 8 0 k
+C 9 8 0 k

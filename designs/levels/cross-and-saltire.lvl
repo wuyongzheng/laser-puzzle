@@ -1,0 +1,20 @@
+title: Cross and Saltire
+text: Come at it straight and it answers askew.
+trick: starburst
+motif: symmetric frame
+expect: depth>=2
+---
+L 0 2 2 r
+L 14 12 6 b
+Z 7 7 0 k
+*R 7 2 7 k
+*B 2 12 4 k
+% the compass ring
+T 7 4 0 ?
+T 10 4 0 ?
+T 10 7 0 ?
+T 10 10 0 ?
+T 7 10 0 ?
+T 4 10 0 ?
+T 4 7 0 ?
+T 4 4 0 ?

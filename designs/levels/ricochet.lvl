@@ -1,0 +1,23 @@
+title: Ricochet
+text: Sometimes the way forward is straight back.
+trick: a splitter hit head-on above the red-and-blue merge sends magenta back down through two splitters, to the target south of the first splitter and back along red's diagonal to its laser
+motif: open field
+proof: not proved; no other solution found in 300 s
+expect: merges>=1, reversals>=1
+---
+L 0 12 1 r
+L 14 6 6 b
+# 4 8 0 k
+*B 3 9 6 k
+*S 6 9 1 k
+*S 6 3 3 k
+*S 6 1 2 k
+*R 10 3 7 k
+*R 10 6 3 k
+T 6 12 0 ?
+T 1 11 0 ?
+T 2 3 0 ?
+T 11 9 0 ?
+T 7 13 0 k
+# 2 9 0 k
+T 7 6 0 k

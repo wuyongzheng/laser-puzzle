@@ -1,0 +1,55 @@
+title: Bookshelves
+text: One goes down, one goes up. On every shelf they meet halfway.
+trick: dual reflectors: on each shelf the falling and the rising beam turn on the same square
+motif: pictogram
+expect: shared>=3
+ink: 4
+---
+L 3 0 4 r
+L 11 14 0 b
+*R 3 3 3 k
+*r 5 3 3 k
+*R 5 5 3 k
+*r 7 5 3 k
+*R 7 7 3 k
+*r 9 7 3 k
+*R 11 7 7 k
+*R 9 5 7 k
+*R 7 3 7 k
+T 3 2 0 ?
+T 5 2 0 ?
+T 5 4 0 ?
+T 7 4 0 ?
+T 7 6 0 ?
+T 9 6 0 ?
+T 9 8 0 ?
+T 11 8 0 ?
+% walls
+# 4 2 0 k
+# 6 2 0 k
+# 7 2 0 k
+# 8 2 0 k
+# 9 2 0 k
+# 10 2 0 k
+# 11 2 0 k
+# 3 4 0 k
+# 4 4 0 k
+# 6 4 0 k
+# 8 4 0 k
+# 9 4 0 k
+# 10 4 0 k
+# 11 4 0 k
+# 3 6 0 k
+# 4 6 0 k
+# 5 6 0 k
+# 6 6 0 k
+# 8 6 0 k
+# 10 6 0 k
+# 11 6 0 k
+# 3 8 0 k
+# 4 8 0 k
+# 5 8 0 k
+# 6 8 0 k
+# 7 8 0 k
+# 8 8 0 k
+# 10 8 0 k

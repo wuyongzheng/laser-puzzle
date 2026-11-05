@@ -1,0 +1,12 @@
+title: Photo Negative
+text: A COMPLEMENTOR lets a beam through but swaps its colour for the opposite one: blue comes out yellow, red comes out cyan. It works on straight beams or on slanted ones, depending on how you turn it.
+trick: complementor basics: blue becomes yellow, and the complementor must be turned to suit a diagonal beam
+motif: diagonal
+expect: recolours>=1
+proof: not proved: complementor rules are approximate in clingo; no other solution found
+---
+L 2 1 4 b
+*B 2 5 4 k
+*K 6 9 1 k
+T 4 7 0 ?
+T 9 12 0 ?

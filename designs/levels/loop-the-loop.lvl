@@ -1,0 +1,17 @@
+title: Loop the Loop
+text: A filter seen from the side lets everything through. Seen from the front, it doesn't.
+trick: multi-filter passes white one way and filters the crossing beam
+motif: loop
+ink: 2.5
+expect: recolours>=1
+---
+L 0 7 2 w
+W 11 7 0 k
+W 11 3 0 k
+W 7 3 0 k
+T 9 7 0 ?
+T 7 5 0 ?
+T 7 9 0 ?
+T 3 3 0 ?
+*M 7 7 3 k
+*R 7 11 2 k

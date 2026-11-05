@@ -1,0 +1,28 @@
+title: Spin Cycle
+text: Red goes in. Whites come out.
+trick: a splitter feeds the beam into a loop and back into itself; a doppler on the loop shifts it each lap, so three laps make white
+motif: a washing machine: a square drum of white targets around an occupied load
+ink: 4
+expect: merges>=1
+---
+L 0 6 2 r
+*S 3 6 1 k
+D 6 12 0 k
+*R 9 6 7 k
+*R 9 12 1 k
+*R 3 12 3 k
+T 9 9 0 w
+T 6 6 0 w
+T 3 9 0 w
+*R 3 2 5 k
+T 7 2 0 w
+T 11 2 0 w
+o 5 8 0 k
+o 6 8 0 k
+o 7 8 0 k
+o 5 9 0 k
+o 6 9 0 k
+o 7 9 0 k
+o 5 10 0 k
+o 6 10 0 k
+o 7 10 0 k

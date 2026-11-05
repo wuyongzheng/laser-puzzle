@@ -1,0 +1,63 @@
+title: Lockdown
+text: Eight sealed rooms. Every doorway in the block has been bricked up on the far side, so nobody can walk out. Light is not so polite about where it walks.
+trick: the walls only meet corner to corner across each bricked-up doorway, so a diagonal beam slips through: red crosses three rooms by the doorways, bouncing off a mirror standing in the first one; blue must not run on down the diagonal into red's target, so a mirror in its doorway turns it into the room next door
+motif: rooms (a block of eight rooms in brick bond, no doors, only gaps at the wall junctions, each with a wall straight behind it)
+expect: depth>=3
+---
+L 13 14 0 r
+L 1 0 4 b
+*B 13 12 0 k
+*R 10 9 6 k
+*R 7 12 2 k
+*B 1 6 5 k
+*B 1 1 4 k
+*R 4 4 2 k
+T 6 6 0 r
+T 7 1 0 b
+% walls
+# 4 0 0 k
+# 9 0 0 k
+# 4 1 0 k
+# 9 1 0 k
+# 4 2 0 k
+# 9 2 0 k
+# 4 3 0 k
+# 9 3 0 k
+# 0 4 0 k
+# 1 4 0 k
+# 2 4 0 k
+# 3 4 0 k
+# 5 4 0 k
+# 6 4 0 k
+# 8 4 0 k
+# 10 4 0 k
+# 11 4 0 k
+# 12 4 0 k
+# 13 4 0 k
+# 14 4 0 k
+# 7 5 0 k
+# 7 6 0 k
+# 7 7 0 k
+# 7 8 0 k
+# 0 9 0 k
+# 1 9 0 k
+# 2 9 0 k
+# 3 9 0 k
+# 5 9 0 k
+# 6 9 0 k
+# 8 9 0 k
+# 9 9 0 k
+# 11 9 0 k
+# 12 9 0 k
+# 13 9 0 k
+# 14 9 0 k
+# 4 10 0 k
+# 10 10 0 k
+# 4 11 0 k
+# 10 11 0 k
+# 4 12 0 k
+# 10 12 0 k
+# 4 13 0 k
+# 10 13 0 k
+# 4 14 0 k
+# 10 14 0 k

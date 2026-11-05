@@ -1,0 +1,42 @@
+title: Through the Looking Glass
+text: Step through the glass, and everything on the other side happens backwards.
+trick: a teleporter pair carries the beam through a wall; on the far side it must retrace the mirror image of its route and come home to the laser's reflection
+motif: a looking glass: a full wall down the middle with a mirror-symmetric staircase either side
+ink: 4
+expect: depth>=7
+---
+L 0 12 2 r
+R 2 12 1 k
+R 2 9 5 k
+*R 4 9 1 k
+*R 4 5 5 k
+*x 6 5 0 k
+*x 8 5 0 k
+*R 10 5 7 k
+*R 10 9 3 k
+*R 12 9 7 k
+*R 12 12 3 k
+T 14 12 0 ?
+T 1 12 0 ?
+T 13 12 0 ?
+T 3 9 0 ?
+T 11 9 0 ?
+T 5 5 0 ?
+T 9 5 0 ?
+T 2 10 0 ?
+T 12 10 0 ?
+# 7 0 0 k
+# 7 1 0 k
+# 7 2 0 k
+# 7 3 0 k
+# 7 4 0 k
+# 7 5 0 k
+# 7 6 0 k
+# 7 7 0 k
+# 7 8 0 k
+# 7 9 0 k
+# 7 10 0 k
+# 7 11 0 k
+# 7 12 0 k
+# 7 13 0 k
+# 7 14 0 k

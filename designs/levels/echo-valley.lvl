@@ -1,0 +1,70 @@
+title: Echo Valley
+text: Shout across the valley and something comes back. Here, it comes back green.
+trick: a head-on splitter sends part of the beam straight back through the filter and the tunnel, so the far side's colour comes home
+motif: a ravine splits the board; a home side and a far side with one tunnel between
+expect: depth>=3, reversals>=2
+---
+L 2 14 0 w
+F 11 7 0 g
+T 14 7 0 g
+T 0 2 0 g
+*S 2 7 1 k
+*x 4 7 0 k
+*x 9 7 0 k
+*S 13 7 0 k
+*R 0 7 3 k
+# 4 0 0 k
+# 5 0 0 k
+# 6 0 0 k
+# 7 0 0 k
+# 8 0 0 k
+# 4 1 0 k
+# 5 1 0 k
+# 6 1 0 k
+# 7 1 0 k
+# 8 1 0 k
+# 5 2 0 k
+# 6 2 0 k
+# 7 2 0 k
+# 8 2 0 k
+# 5 3 0 k
+# 6 3 0 k
+# 7 3 0 k
+# 8 3 0 k
+# 6 4 0 k
+# 7 4 0 k
+# 8 4 0 k
+# 6 5 0 k
+# 7 5 0 k
+# 8 5 0 k
+# 7 6 0 k
+# 8 6 0 k
+# 7 7 0 k
+# 8 7 0 k
+# 7 8 0 k
+# 8 8 0 k
+# 7 9 0 k
+# 8 9 0 k
+# 9 9 0 k
+# 7 10 0 k
+# 8 10 0 k
+# 9 10 0 k
+# 6 11 0 k
+# 7 11 0 k
+# 8 11 0 k
+# 9 11 0 k
+# 6 12 0 k
+# 7 12 0 k
+# 8 12 0 k
+# 9 12 0 k
+# 6 13 0 k
+# 7 13 0 k
+# 8 13 0 k
+# 9 13 0 k
+# 10 13 0 k
+# 5 14 0 k
+# 6 14 0 k
+# 7 14 0 k
+# 8 14 0 k
+# 9 14 0 k
+# 10 14 0 k

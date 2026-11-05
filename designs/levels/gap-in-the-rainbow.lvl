@@ -1,0 +1,35 @@
+title: Gap in the Rainbow
+text: Not every colour is welcome.
+trick: filter
+motif: pocket
+expect: recolours>=4
+---
+L 0 12 2 w
+% blue pocket
+T 4 2 0 ?
+# 3 1 0 k
+# 4 1 0 k
+# 5 1 0 k
+# 3 2 0 k
+# 5 2 0 k
+% green pocket, open to the south-west
+T 13 9 0 ?
+# 12 8 0 k
+# 13 8 0 k
+# 14 8 0 k
+# 14 9 0 k
+# 14 10 0 k
+# 13 10 0 k
+% red clues and the walls that catch the red beams
+T 7 6 0 r
+T 10 9 0 r
+# 14 6 0 k
+# 10 0 0 k
+% where the unwanted colours would go
+T 5 5 0 k
+T 11 12 0 k
+*S 4 12 1 k
+*F 4 10 2 m
+*P 4 6 6 k
+*F 7 12 0 y
+*P 10 12 5 k

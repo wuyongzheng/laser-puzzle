@@ -1,0 +1,14 @@
+title: Scarecrow
+text: White light goes in at the bottom. Can you dress one hand from the other?
+trick: entangled white: filter one twin, then shift it
+motif: figure
+ink: 2.5
+expect: recolours>=2
+---
+L 7 14 0 w
+T 7 5 0 k
+T 1 7 0 ?
+T 13 7 0 ?
+*Q 7 7 6 k
+*F 5 7 0 r
+*D 3 7 4 k

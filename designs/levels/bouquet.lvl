@@ -1,0 +1,21 @@
+ink: 2.5
+title: Bouquet
+text: Gather the three stems, tie them with a white ribbon, and let the flowers open again above it.
+trick: prism backwards then forwards: merge three colours into white, then split the white again
+motif: bouquet
+expect: merges>=1
+---
+L 7 14 0 b
+L 11 14 0 r
+L 14 12 6 g
+T 7 11 0 ?
+T 9 9 0 ?
+T 9 11 0 ?
+T 7 7 0 ?
+T 7 2 0 ?
+T 3 5 0 ?
+T 4 2 0 ?
+*R 11 9 7 k
+*B 10 12 3 k
+*P 7 9 7 k
+*P 7 5 3 k

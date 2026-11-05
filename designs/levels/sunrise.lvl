@@ -1,0 +1,21 @@
+title: Sunrise
+text: Only straight rays get past the horizon.
+trick: conduit horizon passes only vertical light; the sun must be struck at a slant to shine straight
+motif: horizon line of conduits with the sun on it
+ink: 4
+expect: depth>=2
+---
+L 0 0 2 y
+*R 3 0 7 k
+*B 3 14 3 k
+% map
+T 3 3 0 ?
+T 7 3 0 ?
+C 5 9 0 k
+C 6 9 0 k
+C 7 9 0 k
+C 8 9 0 k
+C 9 9 0 k
+T 3 10 0 ?
+Z 7 10 0 k
+% end map

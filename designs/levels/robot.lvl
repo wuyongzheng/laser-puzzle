@@ -1,0 +1,55 @@
+title: Robot
+text: Red tickles the robot under one arm, blue under the other. Both go for its heart.
+trick: red and blue tour a robot and meet at the dual reflector in its chest, one on each face
+motif: pictogram
+expect: depth>=7, shared>=1
+ink: 4
+---
+L 0 13 2 r
+L 14 2 6 b
+*R 7 13 1 k
+*r 7 6 3 k
+*R 2 6 3 k
+*R 2 2 5 k
+*R 4 2 1 k
+*R 4 0 5 k
+*R 10 0 7 k
+*R 12 2 5 k
+*R 12 6 1 k
+T 3 13 0 ?
+T 7 11 0 ?
+T 4 6 0 ?
+T 3 2 0 ?
+T 7 0 0 ?
+T 10 3 0 ?
+T 12 4 0 ?
+T 7 5 0 ?
+% walls
+# 6 1 0 k
+# 7 1 0 k
+# 8 1 0 k
+# 6 2 0 k
+# 7 2 0 k
+# 8 2 0 k
+# 7 3 0 k
+# 5 4 0 k
+# 6 4 0 k
+# 7 4 0 k
+# 8 4 0 k
+# 9 4 0 k
+# 3 5 0 k
+# 4 5 0 k
+# 5 5 0 k
+# 9 5 0 k
+# 10 5 0 k
+# 11 5 0 k
+# 5 7 0 k
+# 9 7 0 k
+# 5 8 0 k
+# 6 8 0 k
+# 8 8 0 k
+# 9 8 0 k
+# 6 9 0 k
+# 8 9 0 k
+# 6 10 0 k
+# 8 10 0 k

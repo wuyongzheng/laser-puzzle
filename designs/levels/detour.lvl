@@ -1,0 +1,19 @@
+title: Detour
+text: The yellow beam is already on its way to the star. That is the problem.
+trick: yellow must be turned away from the starburst it is heading for and brought back diagonally (dual reflector, then quad bender), so the starburst fires straight; its west ray returns to the same dual reflector on the other face, cyan uses it too, and a logic gate takes yellow's straight ray and cyan's bent diagonal ray to make green
+motif: open field
+proof: not proved; no other solution found in 280 s
+expect: merges>=1
+---
+L 0 10 2 y
+L 12 14 0 c
+Z 8 10 0 k
+*r 4 10 1 k
+*b 4 6 2 k
+*b 11 7 0 k
+*G 8 7 7 k
+*R 12 10 7 k
+T 5 4 0 ?
+T 2 10 0 ?
+T 4 12 0 ?
+T 8 13 0 ?

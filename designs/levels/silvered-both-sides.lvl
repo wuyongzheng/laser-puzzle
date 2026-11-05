@@ -1,0 +1,14 @@
+title: Silvered Both Sides
+text: A DUAL REFLECTOR is a mirror with silver on both faces: it turns a beam on either side. Put one where two beams cross and it can turn them both.
+trick: dual reflector basics: one mirror turns two beams, one on each face
+motif: crossing
+expect: merges>=1
+---
+L 0 9 2 r
+L 6 0 4 b
+*r 6 9 3 k
+*R 6 12 1 k
+T 3 9 0 ?
+T 6 4 0 ?
+T 2 12 0 ?
+T 11 9 0 ?
